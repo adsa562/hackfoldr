@@ -49,7 +49,8 @@ angular.module 'app.controllers' <[ui.state ngCookies]>
     HackFolder: HackFolder
     iframeCallback: (doc) -> (status) -> $scope.$apply ->
       console?log \iframecb status, doc
-      $state.current.title = "#{doc.title} – hack.g0v.tw"
+      $state.current.title = "#{doc.title} – g0v.today"
+      try history.replaceState null, null, "/"
       if status is \fail
         doc.noiframe = true
       else
@@ -201,7 +202,7 @@ angular.module 'app.controllers' <[ui.state ngCookies]>
       src += doc.hashtag if doc.hashtag
 
       src = $sce.trustAsResourceUrl src if src
-      return doc if doc.type is \hackfoldr
+      return doc if doc?type is \hackfoldr
       if iframes[id]
           that <<< {src, mode}
       else
@@ -212,7 +213,7 @@ angular.module 'app.controllers' <[ui.state ngCookies]>
       return cb docs if hackId is id and !force
       retry = 0
       doit = ~>
-        csv <~ $http.get "https://www.ethercalc.org/_/#{id}/csv"
+        csv <~ $http.get "/_/#{id}/csv"
         .error -> return if ++retry > 3; setTimeout doit, 1000ms
         .success
 
@@ -228,7 +229,7 @@ angular.module 'app.controllers' <[ui.state ngCookies]>
       cb docs
 
     load-remote-csv: (id, cb) ->
-      csv <~ $http.get "https://www.ethercalc.org/_/#{id}/csv"
+      csv <~ $http.get "/_/#{id}/csv"
       .success
       docs = []
       tree = []
