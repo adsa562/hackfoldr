@@ -12,6 +12,9 @@ html(lang='en',prefix='og: http://ogp.me/ns#')
     meta(name='apple-mobile-web-app-status-bar-style', content='black')
     meta(name='description', content='')
     meta(name='author', content='')
+    meta(content='IE=edge', http-equiv='X-UA-Compatible')
+    meta(name='keywords', content='g0v,CongressOccupied,sunflower,news,零時政府,太陽花,新聞')
+    meta(name='description', content='318 太陽花學運資訊彙整，包含即時影音直播、反黑箱服貿行動聲明、現場需求及相關資訊。')
     title(ng-bind='$state.current.title') g0v.today
     link(rel="shotcut icon",href="/img/hackfoldr-icon.ico")
     link(rel='stylesheet', href='/css/app.css?#{new Date().getTime()}')
@@ -40,7 +43,8 @@ html(lang='en',prefix='og: http://ogp.me/ns#')
               span.icon-bar
               span.icon-bar
             a(href="http://github.com/hackfoldr/hackfoldr",target="_blank")
-              .small.badge.badge-inverse.pull-right.build-id {{ _build }}
+              .small.badge.badge-inverse.pull-right.build-id(ng-bind='_build')
+                | 318 太陽花學運資訊彙整，包含即時影音直播、反黑箱服貿行動聲明、現場需求及相關資訊。
             a(href="http://g0v.tw", target="_blank")
               #brand.brand: img(src="/img/g0v-horizontal-transparent-darkbackground-s.png")
             .nav-collapse
