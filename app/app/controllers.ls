@@ -99,7 +99,7 @@ angular.module 'app.controllers' <[ui.state ngCookies]>
 
 .controller HackFolderCtrl: <[$scope $window $state $cookies HackFolder]> ++ ($scope, $window, $state, $cookies, HackFolder) ->
   $scope <<< do
-    hasViewMode: -> it.match /g(doc|present|draw)/
+    hasViewMode: -> it?match /g(doc|present|draw)/
     sortableOptions: do
       update: -> console?log \notyetupdated
     iframes: HackFolder.iframes
