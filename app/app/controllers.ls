@@ -81,7 +81,7 @@ http://ecfa.speaking.tw/imho.php,"服貿東西軍 ",,,,,,,,,,,
 " https://docs.google.com/document/d/1NoiYQyZOhGcN2cRA9DRZ85_sFh7AUe-lpaxPmNcO1Ps/edit?usp=sharing ","照片來源 ",,,,,,,,,,,
 " https://g0v.hackpad.com/--PEn9NyJRh2X","創作收集 ",,,,,,,,,,,
 " http://occupation.today/","照片與訊息 Tumblr ",,,,,,,,,,,
-" http://review.fumao.today/",自己的服貿自己審,,,,,,,,,,,
+" http://review.fumao.today/",自己的服貿自己審,"{""target"": ""_blank""} ",,,,,,,,,,
 """
 
 angular.module 'app.controllers' <[ui.state ngCookies]>
