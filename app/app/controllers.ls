@@ -10,7 +10,7 @@ https://ethercalc.org/static/proxy/english/,"English Transcript",,Auto-refresh:w
 ,,,,,,,更新前請務必先刷新整頁試算表再編輯，感謝！,,,,,
 http://fact.g0v.tw/tisa.html,服貿跑馬燈,,,,,,,,,,,
 http://ecfa.speaking.tw/imho.php,"服貿東西軍 ",,,,,,,,,,,
-,影音直播,"{""expand"":true} ",,,,,"影音更新時請記得保留前方空白和 /embed/ 格式, 把 youtube.com/watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「分享」可取得 embed code) — 然後更新 D 欄的時間和 F 欄的更新人",,,,,
+,影音直播,"{""expand"":true} ",,,,,"影音更新時請記得保留前方空白和 /embed/ 格式, 把 youtube.com/watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的時間和 F 欄的更新人",,,,,
 " http://stlive.maxorz.com","6合一聯播網 ","{""target"": ""_blank""} ",,,,,,,,,,
 " http://rsghost.github.io/congressoccupied/","簡易聯播 ","{""target"": ""_blank""} ",,,,,,,,,,
 " https://www.ustream.tv/embed/17548030","English LIVE",,"3/26 11pm:warning",,,,,,,,,
