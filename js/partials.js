@@ -20,12 +20,12 @@ angular.module('partials', [])
 '<span ng-if="doc.type == \'dummy\'" ng-click="doc.expand=!doc.expand" tooltip="{{ {\'true\': (doc.title || doc.id), \'false\': \'\'}[!!collapsed] }}" tooltip-placement="right" tooltip-trigger="hover" title="{{ {\'true\': (doc.title || doc.id), \'false\': \'\'}[!!collapsed] }}" tooltip-append-to-body="true" tooltip-animation="false" class="link"><img src="/img/folder.png"/><span class="expanded-content">{{doc.title || doc.id}}</span></span><a ng-click="godoc(doc)" ngx-click-meta="open(doc)" ngx-final="ngx-final" ng-if="doc.type != \'dummy\'" tooltip="{{ {\'true\': (doc.title || doc.id), \'false\': \'\'}[!!collapsed] }}" tooltip-placement="right" tooltip-trigger="hover" title="{{ {\'true\': (doc.title || doc.id), \'false\': \'\'}[!!collapsed] }}" tooltip-append-to-body="true" tooltip-animation="false" class="link"><img ng-src="{{doc.icon}}"/><span class="expanded-content">{{doc.title || doc.id}}</span><span ng-show="doc.tagFilter" class="expanded-content">[{{doc.tagFilter}}]</span><span ng-repeat="tag in doc.tags" class="label label-{{tag.class}}">{{tag.content}}</span></a><span ng-if="doc.children" ng-class="{collapsed: !doc.expand}" ng-click="doc.expand=!doc.expand" title="{{ {\'true\': (doc.title || doc.id), \'false\': \'\'}[!!collapsed] }}" class="collapser">{{ {"true": "&#x25B8;", "false": "&#x25BE;"}[!doc.expand] }}</span>',''].join("\n"));
 }])
 .run(['$templateCache', function($templateCache) {
-  return $templateCache.put('/partials/nav.html', [
-'<ul class="nav"><li><a ng-href="/">首頁</a></li><li><a target="_blank" href="http://g0v.github.io/g0vis/">專案列表<span class="label label-important">new</span></a></li><li><a target="_blank" href="http://g0v.github.io/leve1up/">新手上路</a></li></ul><ul class="nav pull-right"><li ng-class="{ active: $state.includes(\'about\') }"><a ng-href="https://www.newschallenge.org/challenge/2014/submissions/hackfoldr-community-collaboration-organized">About</a></li></ul>',''].join("\n"));
-}])
-.run(['$templateCache', function($templateCache) {
   return $templateCache.put('/partials/irc.html', [
 '<iframe ng-if="ircEnabled" ng-show="$state.current.name == \'irc\'" ng-src="https://kiwiirc.com/client/irc.freenode.net/#g0v.tw"></iframe><iframe ng-if="irclogEnabled" ng-show="$state.current.name == \'irc.log\'" ng-src="http://logbot.g0v.tw/channel/g0v.tw/today"></iframe>',''].join("\n"));
+}])
+.run(['$templateCache', function($templateCache) {
+  return $templateCache.put('/partials/nav.html', [
+'<ul class="nav"><li><a ng-href="/">首頁</a></li><li><a target="_blank" href="http://g0v.github.io/g0vis/">專案列表<span class="label label-important">new</span></a></li><li><a target="_blank" href="http://g0v.github.io/leve1up/">新手上路</a></li></ul><ul class="nav pull-right"><li ng-class="{ active: $state.includes(\'about\') }"><a ng-href="https://www.newschallenge.org/challenge/2014/submissions/hackfoldr-community-collaboration-organized">About</a></li></ul>',''].join("\n"));
 }])
 .run(['$templateCache', function($templateCache) {
   return $templateCache.put('/partials/people.html', [
