@@ -62,7 +62,6 @@ body
   +display-box
   width: 100%
   a
-    text-shadow: 0px 0px 2px rgba(32,32,32,0.2)
     color: #333
   .label
     margin-left: 5px
@@ -119,7 +118,8 @@ body
         list-style: none
         padding: 0
         position: relative
-        line-height: 1.6
+        padding-top: 2px
+        padding-bottom: 2px
         &.active .link
           background-color: #333
           color: #eee
@@ -131,8 +131,6 @@ body
           padding-left: $pad
           +transition(.15s)
           width: $width
-          padding-top: 5px
-          padding-bottom: 5px
           &:hover
             background-color: #444
             // padding-left: $pad+22px
