@@ -122,7 +122,7 @@ angular.module 'app.controllers' <[ui.state ngCookies]>
     activate: ->
       doc = HackFolder.activate it
       if doc?type is \hackfoldr
-        console.log \folder!!
+        console?log \folder!!
     saveBtn: void
     saveModalOpts: dialogFade: true
     saveModalOpen: false
