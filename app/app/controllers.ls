@@ -8,7 +8,7 @@ https://ethercalc.org/static/proxy/hackpad/,"文字轉播 (主要) ","{""expand"
 https://ethercalc.org/static/proxy/live.txt,"文字轉播 (內場) ",,每分鐘更新:warning,,,au,,,,,,
 ,,,,,,,,,,,,
 https://ethercalc.org/static/proxy/english/,"English Transcript",,Auto-refresh:warning,,,au,,,,,,
-,,,,,,,更新前請務必先刷新整頁試算表再編輯，感謝！,,,,,
+,,,,,,,"更新前請 *務必* 先刷新整頁試算表再改，感謝！",,,,,
 http://fact.g0v.tw/tisa.html,服貿跑馬燈,,,,,jimmy,,,,,,
 http://ecfa.speaking.tw/imho.php,"服貿東西軍 ",,,,,,,,,,,
 ,影音直播,"{""expand"":true} ",,,,,"影音更新時請記得保留前方空白和 /embed/ 格式, 把 youtube.com/watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的時間和 F 欄的更新人",,,,,
