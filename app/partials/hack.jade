@@ -5,10 +5,10 @@
         &nbsp;
         a.indexlink.expanded-content(ng-href="http://g0v.today/",target="_top",ngx-final) {{HackFolder.folderTitle || hackId}}
         small.icon(ng-class='{"icon-caret-right": collapsed, "icon-caret-left": !collapsed}')
-      ul.wrap(ui-sortable='sortableOptions',ng-model='tree')
+      ul.wrap(ng-model='tree')
         li(ng-repeat='doc in tree', ng-title="{{doc.title || doc.id}}",ngx-noclick,ng-class='{active: doc.id == docId}')
           .entry(ng-include="'/partials/hackitem.html'")
-          ul(ng-show='doc.children && doc.expand',ui-sortable='sortableOptions',ng-model='doc.children',ng-animate="'fade'")
+          ul(ng-show='doc.children && doc.expand',ng-model='doc.children',ng-animate="'fade'")
             li(ng-repeat='doc in doc.children | filter:doc.tagFilter:tags', ng-title="{{doc.title || doc.id}}",ngx-noclick,ng-class='{active: doc.id == docId}')
               .entry(ng-include="'/partials/hackitem.html'")
     .pad-container(ng-style='{height: contentHeight}')
