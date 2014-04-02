@@ -1,7 +1,7 @@
 g0v.today
 ===========
 
-Note: This is a fork of https://github.com/hackfoldr/hackfoldr optimized for one static page; please send your pull requests upstream.
+NOTE: This is a fork of https://github.com/hackfoldr/hackfoldr optimized for one static page; please send your pull requests upstream.
 
 ## Why?
 
