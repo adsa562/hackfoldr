@@ -1,7 +1,7 @@
-Hackfoldr
+g0v.today
 ===========
 
-Organize gdoc and hackpad documents for hackathons.
+Note: This is a fork of https://github.com/hackfoldr/hackfoldr optimized for one static page; please send your pull requests upstream.
 
 ## Why?
 
