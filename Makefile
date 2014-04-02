@@ -1,5 +1,5 @@
 refresh ::
-	-@rm -f csv
+	-@rm -f csv >/dev/null 2>/dev/null
 	@wget --quiet https://www.ethercalc.org/_/congressoccupied/csv
 	@mv csv ./app/assets/_/congressoccupied/csv
 	@perl -0777 -MFile::Slurp=slurp -pi -e 's{""".*?"""}{"""\n@{[ scalar slurp q[./app/assets/_/congressoccupied/csv] ]}"""}s' app/app/controllers.ls
