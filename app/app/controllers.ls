@@ -109,7 +109,7 @@ http://ecfa.speaking.tw/imho.php,"服貿東西軍 ",,,,,,,,,,,
 ,,,,,,,,,,,,
 ,連結彙集平台,"{""expand"":false} ",,,,,,,,,,
 " http://time-fumao.rhcloud.com/",太陽花怪獸,,,,,,,,,,,
-" http://news.anontaiwan.org/","台灣大補帖 #fumao.tw",,,,,,,,,,,
+" http://news.anontaiwan.org/",台灣大補帖＃fumao.tw,,,,,,,,,,,
 """
 
 angular.module 'app.controllers' <[ui.state ngCookies]>
