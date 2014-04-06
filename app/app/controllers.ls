@@ -106,6 +106,10 @@ http://ecfa.speaking.tw/imho.php,"服貿東西軍 ",,,,,,,,,,,
 " http://occupation.today/","照片與訊息 Tumblr ",,,,,,,,,,,
 " http://review.fumao.today/",自己的服貿自己審,"{""target"": ""_blank""} ",新視窗:info,,,,,,,,,
 " https://www.facebook.com/NtuNewsEForum",台大新聞E論壇,"{""target"": ""_blank""} ",新視窗:info,,,,,,,,,
+,,,,,,,,,,,,
+,連結彙集平台,"{""expand"":false} ",,,,,,,,,,
+" http://time-fumao.rhcloud.com/",太陽花怪獸,,,,,,,,,,,
+news.anontaiwan.org,,,,,,,,,,,,
 """
 
 angular.module 'app.controllers' <[ui.state ngCookies]>
