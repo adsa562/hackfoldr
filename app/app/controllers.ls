@@ -1,7 +1,7 @@
 const CONST_CSV = """
 ,反黑箱服貿協議・守護民主日與夜,,,,直播人,更新人,"g0v.today 恢復每 3 分鐘更新， hackfoldr.org 每分鐘更新",,,,,
 http://newday.tw/intro/,讓晨曦照亮民主,,守護民主手環:important,,,even,,,,,,
-https://sites.google.com/site/twdstreet/volunteer,公民審服貿,,街頭民主審議:important,,,ve,,,,,,
+https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:important,,,ve,,,,,,
 http://123.g0v.today/,三動作護台灣,,致電立委:important,,,ipa,,,,,,
 https://ethercalc.org/static/proxy/hackpad/,"文字轉播 (主要) ","{""expand"":false} ",每分鐘更新:warning,,,au,,,,,,
 " http://congress-text-live.herokuapp.com/","文字轉播 (同上)",,"即時更新:warning ",,,au,,,,,,
