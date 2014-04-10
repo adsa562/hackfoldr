@@ -8,7 +8,7 @@ https://ethercalc.org/static/proxy/hackpad/,"文字轉播 (主要) ","{""expand"
 " http://congress-text-live.herokuapp.com/","文字轉播 (同上)",,"即時更新:warning ",,,au,,,,,,
 https://ethercalc.org/static/proxy/live.txt,"文字轉播 (內場)",,,,,au,,,,,,
 ,,,,,,,,,,,,
-https://ethercalc.org/static/proxy/english/,"English Transcript",,Auto-refresh:warning,,,au,,,,,,
+https://ethercalc.org/static/proxy/english/,"English Transcript",,,,,au,,,,,,
 ,,,,,,,"更新前請 *務必* 先刷新整頁試算表再改，感謝！",,,,,
 http://fact.g0v.tw/tisa.html,服貿跑馬燈,,,,,jimmy,,,,,,
 http://ecfa.speaking.tw/imho.php,"服貿東西軍 ",,,,,,,,,,,
