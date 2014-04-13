@@ -2,7 +2,7 @@ const CONST_CSV = """
 ,反黑箱服貿協議・守護民主日與夜,,,,直播人,更新人,"g0v.today 恢復每 3 分鐘更新， hackfoldr.org 每分鐘更新",,,,,
 http://ecfa.speaking.tw/,服貿跑馬燈,,最新資訊:important,,,,,,,,,
 http://ecfa.speaking.tw/imho.php,"服貿東西軍 ",,,,,,,,,,,
-http://fact.g0v.tw/wiki/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B,太陽花學運時間軸,,,,,,,,,,,
+http://fact.g0v.tw/tisa.html,服貿跑馬燈-時間軸,,,,,,,,,,,
 http://newday.tw/intro/,讓晨曦照亮民主,,守護民主手環:important,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
