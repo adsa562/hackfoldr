@@ -31,5 +31,5 @@ rm -f app/404.jade
 if [ "x$FIREBASE" != "x" ]
 then
 	echo $FIREBASE
-	lsc -j < etc/rules.ls | curl -X PUT -d @- $FIREBASE/.settings/rules.json?auth=$FIREBASE_SECRET
+	./node_modules/.bin/lsc -j < etc/rules.ls | curl -X PUT -d @- $FIREBASE/.settings/rules.json?auth=$FIREBASE_SECRET
 fi
