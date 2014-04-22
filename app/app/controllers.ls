@@ -1,6 +1,6 @@
 const CONST_CSV = """
 ,反黑箱服貿協議・守護民主日與夜,,,,直播人,更新人,"g0v.today 恢復每 3 分鐘更新， hackfoldr.org 每分鐘更新",,,,,
-https://hackpad.com/ep/pad/static/8a13Bv9DNla,零時文播,,每分鐘更新:warning,,,,,,,,,
+https://ethercalc.org/static/proxy/hackpad/8a13Bv9DNla,零時文播,,每分鐘更新:warning,,,au,,,,,,
 ,,,,,,,,,,,,
 http://ecfa.speaking.tw/,服貿跑馬燈,"{""expand"":false} ",最新資訊:important,,,,,,,,,
 " http://fact.g0v.tw/tisa.html",服貿跑馬燈-時間軸,,,,,,,,,,,
