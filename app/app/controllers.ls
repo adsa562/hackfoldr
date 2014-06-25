@@ -38,6 +38,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://www.youtube.com/embed/-cWb3SnnyfM","青島東 (蘋報) ",,,,appledaily,au,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
+,,,,,,,,,,,,
 " http://ncc.nctu.pro/","服貿討論 (交大)",,,,nctu,au,,,,,,
 ,文字轉播專區,"{""expand"":false} ","重要:important ",,,,,,,,,
 " https://ethercalc.org/static/proxy/hackpad/","文字轉播 (主要) ",,每分鐘更新:warning,,,,,,,,,
