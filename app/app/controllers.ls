@@ -10,7 +10,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://123.g0v.today/",三動作護台灣,,致電立委:important,,,ipa,,,,,,
 " http://appy.tw/",割闌尾計畫,"{""target"": ""_blank""} ",罷免連署:important,,,lee,,,,,,
 ,影音直播,"{""expand"": true}",,,,,"影音更新時請記得 *保留前方空白* 和 /embed/ 格式, 把 youtube watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的「時間」和 F 欄的「更新人」。感謝!",,,,,
-" http://www.appledaily.com.tw/livechannel/subject/22",0625蘋果LIVE金管會網路座談會,,"0625 1830 LIVE直播",,,,,,,,,
+" http://www.appledaily.com.tw/livechannel/subject/22","0625 金管會網路座談會",,LIVE,,,,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/24"," 蘋果LIVE 625王張會",,LIVE,,,,,,,,,
 " http://www.ustream.tv/embed/17513092",拖鞋直播-1,,,阿北一號機,longson3000,au,,,,,,
 " http://www.ustream.tv/embed/7468658","文源LIVE秀 航站南路 諾富特飯店外 被圍住",,,文源LIVE秀,,,,,,,,
