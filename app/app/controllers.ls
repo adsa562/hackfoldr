@@ -12,7 +12,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 ,影音直播,"{""expand"": true}",,,,,"影音更新時請記得 *保留前方空白* 和 /embed/ 格式, 把 youtube watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的「時間」和 F 欄的「更新人」。感謝!",,,,,
 " http://www.appledaily.com.tw/livechannel/subject/22","0625 金管會網路座談會",,LIVE,,,,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/24"," 蘋果LIVE 625王張會",,,,,,,,,,,
-" http://www.ustream.tv/embed/17513092","拖鞋直播-1 航站南路 諾富特飯店外",,,阿北一號機,longson3000,au,,,,,,
+" http://www.ustream.tv/embed/17513092",拖鞋直播-1,,,阿北一號機,longson3000,au,,,,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,文源LIVE秀,,,,,,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,"阿凱 5/13加入",,,,,,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,"豪豬 5/5加入",,,,,,,,
