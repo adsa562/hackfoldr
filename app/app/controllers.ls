@@ -11,7 +11,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://appy.tw/",割闌尾計畫,"{""target"": ""_blank""} ",罷免連署:important,,,lee,,,,,,
 ,影音直播,"{""expand"": true}",,,,,"影音更新時請記得 *保留前方空白* 和 /embed/ 格式, 把 youtube watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的「時間」和 F 欄的「更新人」。感謝!",,,,,
 ,,,,,,,,,,,,
-" http://www.appledaily.com.tw/livechannel/subject/24"," 蘋果LIVE 625王張會",,,,,,,,,,,
+" http://www.appledaily.com.tw/livechannel/subject/24"," 蘋果LIVE張志軍訪台",,,,,,,,,,,
 " http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,,"PENNYKEN 5/12加入",,au,,,,,,
 " http://www.ustream.tv/embed/18174265","小光 公民記者",,,"cvspka04476 6/13加入",,,,,,,,
 " http://www.ustream.tv/embed/17863662","點點 公民記者",,,點點,,,,,,,,
