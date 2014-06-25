@@ -41,7 +41,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://www.youtube.com/embed/-cWb3SnnyfM","青島東 (蘋報) ",,,,appledaily,au,,,,,,
 ,拒絕王張會全台活動,"{""expand"": true}",,,,,,,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,,,,,,
-" https://www.facebook.com/aorft/posts/773990205979565"," 0626緊急！立院回娘家 國民黨 自由經濟示範區特別條例草案 甲級動員"," ",0900～1200或2400(黃昭順召委),"FB照片 6/26新增",,,,,,,,
+" https://www.facebook.com/aorft/posts/773990205979565"," 0626緊急！立院回娘家 國民黨 甲級動員 自由經濟示範區特別條例草案"," ",0900～1200或2400(黃昭順召委),"FB照片 6/26新增",,,,,,,,
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,6/13新增,,,,,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,"6/4日 新增",,,,,,,,
 " https://www.facebook.com/events/334046850081575/",0626【干你屁事】迎接張志軍！遍地開花！,,0900~1200汐止厚德里活動中心,FB照片6/23新增,,,,,,,,
