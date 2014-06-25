@@ -19,7 +19,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://www.ustream.tv/embed/17811041",Sean-公民記者,,,"sean 5/13修改5/20改回",,,,,,,,
 " http://www.ustream.tv/embed/17863662","點點 公民記者",,,點點,,,,,,,,
 " http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,,"PENNYKEN 5/12加入",,,,,,,,
-http://www.ustream.tv/embed/17894339,"阿法 公民記者",,,"afrayang211 5/5加入",,,,,,,,
+" http://www.ustream.tv/embed/17894339","阿法 公民記者",,,"afrayang211 5/5加入",,,,,,,,
 "  http://www.ustream.tv/embed/17562385","麵線 公民記者",,,,,,,,,,,
 ,過往直播,"{""expand"":false} ",,,,,,,,,,
 " http://www.ustream.tv/embed/17569549","g0v 機動1號機",,,,jackie6chiang,chien,,,,,,
