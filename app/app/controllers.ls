@@ -17,7 +17,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者 地點同上",,,,,,,,,,,
 " http://www.ustream.tv/embed/18174265","小光 公民記者　地點同上",,,,,,,,,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄  航站南路 諾富特飯店外草地 圈圈外",,,,,,,,,,,
-" http://www.ustream.tv/embed/17562385","麵線 公民記者 地點同上",,,,,,,,,,,
+" http://www.ustream.tv/embed/17562385","麵線 公民記者",,,,,,,,,,,
 ,,,,,,,,,,,,
 ,過往直播,"{""expand"":false} ",,,,,,,,,,
 " https://www.ustream.tv/embed/17569549","g0v 機動1號機",,,,jackie6chiang,chien,,,,,,
