@@ -11,7 +11,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://appy.tw/",割闌尾計畫,"{""target"": ""_blank""} ",罷免連署:important,,,lee,,,,,,
 ,影音直播,"{""expand"": true}",,,,,"影音更新時請記得 *保留前方空白* 和 /embed/ 格式, 把 youtube watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的「時間」和 F 欄的「更新人」。感謝!",,,,,
 " http://www.appledaily.com.tw/livechannel/subject/24"," 蘋果LIVE張志軍訪台",,,,,,,,,,,
-http://www.ustream.tv/embed/18379958,烏來直播,,,"jonethwc 6/26加入",,,,,,,,
+http://www.ustream.tv/embed/18379958,烏來直播,,LIVE,"jonethwc 6/26加入",,,,,,,,
 " http://musou.tw/live_streams/104","0626國會無雙IVOD 賽程 【經濟委員會】自經區逐條審查 0900~1200或2400 (黃昭順召委)","{""target"":""_blank""}",新分頁:issue,國會無雙IVOD,,,,,,,,
 " http://musou.tw/live_streams/103","0626國會無雙IVOD 賽程 【程序委員會】第四次會議日程 1200~1400","{""target"":""_blank""}",新分頁:issue,國會無雙IVOD,,,,,,,,
 " http://www.ustream.tv/embed/17012502","沃草國會無雙 第一競技場",,,"沃草國會無雙-1 5/15加入",,,,,,,,
