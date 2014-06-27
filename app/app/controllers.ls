@@ -10,6 +10,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://123.g0v.today/",三動作護台灣,,致電立委:important,,,ipa,,,,,,
 " http://appy.tw/",割闌尾計畫,"{""target"": ""_blank""} ",罷免連署:important,,,lee,,,,,,
 ,影音直播,"{""expand"": true}",,,,,"影音更新時請記得 *保留前方空白* 和 /embed/ 格式, 把 youtube watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的「時間」和 F 欄的「更新人」。感謝!",,,,,
+" https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,,,,,,
 " http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,,不要核四、五六運動,,,,,,,,
 " http://musou.tw/live_streams/106","0627國會無雙IVOD 賽程【臨時會院會】+【程序委員會】聯合競技 結束","{""target"":""_blank""}",新分頁:issue,國會無雙IVOD,,,,,,,,
 " http://musou.tw/live_streams/105","0627國會無雙IVOD 賽程【程序委員會】臨時會議事日程 結束","{""target"":""_blank""}",新分頁:issue,國會無雙IVOD,,,,,,,,
