@@ -62,6 +62,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://www.youtube.com/embed/-cWb3SnnyfM","青島東 (蘋報) ",,,,appledaily,au,,,,,,
 ,拒絕王張會全台活動,"{""expand"": true}",,,,,,,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,,,,,,
+" https://www.facebook.com/photo.php?fbid=812637358746613&set=a.126145224062500.21698.100000010685369&type=1&theater","0628台灣獨立建國大旗隊 集合",,"0800 台中火車站對面的富春飯店","FB照片 6/28新增",,,,,,,,
 " https://www.facebook.com/events/1487022118201923/?ref=3&ref_newsfeed_story_type=regular","0628 2014鹿港噴水節",,"1400開始在鹿港 PS.音地不出席",FB活動頁6/28新增,,,,,,,,
 " https://www.facebook.com/photo.php?fbid=431887586954168&set=a.368489606627300.1073741828.367922930017301&type=1",0628最後一戰，重返機場,,"1630 二航停車場",,,,,,,,,
 " http://m.udn.com/xhtml/HistoryArt?articleid=3863234","0628【警訊】張志軍 最後一天行程",,"不知是否為假消息 破壞吧!樣板行程:important",,,,,,,,,
