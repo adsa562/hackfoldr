@@ -65,6 +65,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 ,拒絕王張會全台活動,"{""expand"": true}",,,,,,,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,,,,,,
 " https://www.facebook.com/events/1487022118201923/?ref=3&ref_newsfeed_story_type=regular","0628 2014鹿港噴水節",,"1400開始在鹿港 PS.音地不出席",FB活動頁6/28新增,,,,,,,,
+" https://www.facebook.com/photo.php?fbid=431887586954168&set=a.368489606627300.1073741828.367922930017301&type=1",0628最後一戰，重返機場,,"1630 二航停車場",,,,,,,,,
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,6/13新增,,,,,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,"6/4日 新增",,,,,,,,
 " https://www.facebook.com/pages/%E6%88%91%E6%98%AF%E4%BA%BA%E6%88%91%E5%8F%8D%E6%A0%B8/307969115955037",五六運動、公民論壇,,"每周五 1800起 自由廣場",因為性質既是活動，又是資訊整合，因此重複放了一份,,,,,,,,
