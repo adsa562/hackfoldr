@@ -14,7 +14,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://hackfoldr.org/resistancelive/","香港 反東北抗爭，迫爆立法會！","{""target"":""_blank""}",新分頁:issue,,,,,,,,,
 " https://www.youtube.com/watch?v=OikLndFg6Yg",太陽花學運後的媒體監督,,LIVE,,,,,,,,,
 " http://www.ustream.tv/embed/17857738","公投盟 公民論壇",,立法院正門,公投盟6/27加入,,,,,,,,
-" http://www.ustream.tv/embed/17843610",電池線上,,,battery0922,,,,,,,,
+" http://www.ustream.tv/embed/17843610",電池線上,,立法院正門,battery0922,,,,,,,,
 " http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,,不要核四、五六運動,,,,,,,,
 " http://www.ustream.tv/embed/18123294","週五 太陽花講習會",,,"太陽花講習會 6/21加入",,,,,,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,台中哲學星期五,"公視新聞網 6/4加入",,,,,,,,
