@@ -11,6 +11,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://appy.tw/",割闌尾計畫,"{""target"": ""_blank""} ",罷免連署:important,,,lee,,,,,,
 ,影音直播,"{""expand"": true}",,,,,"影音更新時請記得 *保留前方空白* 和 /embed/ 格式, 把 youtube watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的「時間」和 F 欄的「更新人」。感謝!",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,,,,,,
+http://hackfoldr.org/resistancelive/,"香港 反東北抗爭，迫爆立法會！","{""target"":""_blank""}",新分頁:issue,,,,,,,,,
 " https://www.youtube.com/watch?v=OikLndFg6Yg",太陽花學運後的媒體監督,,LIVE,,,,,,,,,
 http://www.ustream.tv/embed/17857738,"公投盟 公民論壇",,立法院正門,公投盟6/27加入,,,,,,,,
 " http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,,不要核四、五六運動,,,,,,,,
