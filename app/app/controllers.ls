@@ -17,7 +17,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 ,,,,,,,,,,,,
 " http://www.ustream.tv/embed/17857738",公投盟直播,,,公投盟6/27加入,,,,,,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,,battery0922,,,,,,,,
-http://www.ustream.tv/embed/17755037,"帽客 公民記者",,," 帽客6/28加入",,,,,,,,
+" http://www.ustream.tv/embed/17755037","帽客 公民記者",,," 帽客6/28加入",,,,,,,,
 " http://www.ustream.tv/embed/18123294","週五 太陽花講習會",,"週五晚間七點 中正紀念堂:","太陽花講習會 6/21加入",,,,,,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,,"公視新聞網 6/4加入",,,,,,,,
 " http://www.ustream.tv/embed/17568654",南民思潮,,,"南民思潮 6/27新增",,,,,,,,
