@@ -13,6 +13,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,,,,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,"豪豬 5/5加入",,,,,,,,
 " http://www.ustream.tv/embed/17811041",Sean-公民記者,,,"sean 5/13修改5/20改回",,,,,,,,
+" http://www.ustream.tv/embed/18103859",文森直播,,,"文森 6/26加入",,,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/24"," 蘋果LIVE１張志軍訪台",,,,,,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/25"," 蘋果LIVE２張志軍訪台",,,,,,,,,,,
 " http://www.ustream.tv/embed/17857738",公投盟直播,,,公投盟6/27加入,,,,,,,,
