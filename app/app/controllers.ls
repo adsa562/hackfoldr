@@ -16,7 +16,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://www.ustream.tv/embed/18103859",文森直播,," 霧峰林家預防政府晃點:important","文森 6/26加入",,,,,,,,
 " http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,,"PENNYKEN 5/12加入",,,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,"Masaru 南部實況轉播 5/9加入",,,,,,,,
-http://www.ustream.tv/embed/17863662,"點點 公民記者",,,點點,,,,,,,,
+" http://www.ustream.tv/embed/17863662","點點 公民記者",,,點點,,,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/25"," 蘋果LIVE１張志軍訪台",,,,,,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/24"," 蘋果LIVE２張志軍訪台",,,,,,,,,,,
 " http://www.ustream.tv/embed/17857738",公投盟直播,,,公投盟6/27加入,,,,,,,,
