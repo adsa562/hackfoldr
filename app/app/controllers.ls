@@ -11,7 +11,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://appy.tw/",割闌尾計畫,"{""target"": ""_blank""} ",罷免連署:important,,,lee,,,,,,
 ,影音直播,"{""expand"": true}",,,,,"影音更新時請記得 *保留前方空白* 和 /embed/ 格式, 把 youtube watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的「時間」和 F 欄的「更新人」。感謝!",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,,,,,,
-" http://www.ustream.tv/embed/18103859",文森直播,,"台中惠明盲校 方仰寧到場:important","文森 6/26加入",,,,,,,,
+" http://www.ustream.tv/embed/18103859",文森直播,,台中惠明盲校:important,"文森 6/26加入",,,,,,,,
 " http://www.ustream.tv/embed/18390482","米非 公民記者",,,"米非 6/26加入",,,,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,," 小鳥台 6/28加入",,,,,,,,
 " http://www.ustream.tv/embed/17916604",阿賢文旦直播台,," 鹿港",ahsien98,,,,,,,,
