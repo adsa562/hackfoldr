@@ -19,7 +19,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,"豪豬 5/5加入",,,,,,,,
 " http://www.ustream.tv/embed/17863662","點點 公民記者",,,點點,,,,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,"文森 6/26加入",,,,,,,,
-" http://www.ustream.tv/embed/18390482","米非 公民記者",,,"米非 6/26加入",,,,,,,,
+" http://www.ustream.tv/embed/18390482","米飛  公民記者",,,"米飛  6/26加入",,,,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,," 小鳥台 6/28加入",,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
