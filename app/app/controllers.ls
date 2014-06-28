@@ -63,7 +63,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://www.youtube.com/embed/-cWb3SnnyfM","青島東 (蘋報) ",,,,appledaily,au,,,,,,
 ,拒絕王張會全台活動,"{""expand"": true}",,,,,,,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,,,,,,
-http://www.ndc.gov.tw/m1.aspx?sNo=0060472,"0629「行政院」經貿國是會議 南區分區會議",,"0900~1220 直播列表請見上方",,,,,,,,,
+" http://www.ndc.gov.tw/m1.aspx?sNo=0060472","0629「行政院」經貿國是會議 南區分區會議",,"0900~1220 直播列表請見上方",,,,,,,,,
 " https://www.facebook.com/ey.gov.tw/photos/a.449506128410605.115211.135213893173165/837984339562780/","0628~29「行政院」經貿國是會議 南區分區會議",,"高雄市 中油 宏南活動中心",,,,,,,,,
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,6/13新增,,,,,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,"6/4日 新增",,,,,,,,
