@@ -67,7 +67,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.youtube.com/embed/-cWb3SnnyfM","青島東 (蘋報) ",,,,appledaily,au,,,,,,
 ,全台活動事件,"{""expand"": true}",,,,,,,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,,,,,,
-" https://www.facebook.com/Appendectomy/photos/a.249135138604869.1073741828.248848828633500/273358276182555/?type=1",0629[割闌尾]WEGO+祭止兀,,,6/29新增,,,,,,,,
+" https://www.facebook.com/Appendectomy/photos/a.249135138604869.1073741828.248848828633500/273358276182555/?type=1",0629[割闌尾]WEGO+祭止兀,," 共四個時段，請見網頁",6/29新增,,,,,,,,
 " https://www.facebook.com/photo.php?fbid=555027307939489&set=a.538208232954730.1073741828.534777863297767&type=1",0629【島國前進，公投修法連署】台北週末行動,,"1300~1700 威秀影城行人徒步區",6/29新增,,,,,,,,
 " https://www.facebook.com/photo.php?fbid=314406452050908&set=a.276078935883660.1073741828.240170506141170&type=1",0629台灣，你資安有洞嗎？(沃草),,"1400~1730 台灣大學 (新聞所103教室)",6/29新增,,,,,,,,
 " https://www.facebook.com/happylosheng/photos/a.10150251199342195.373062.155239842194/10153327911962195/?type=1",0629樂生紀錄片放映&院區導覽,,"1400~1700新莊 樂生療養院 (蓬萊舍)",6/29新增,,,,,,,,
