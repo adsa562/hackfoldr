@@ -1,7 +1,6 @@
 const CONST_CSV = """
 ,反黑箱服貿協議・守護民主日與夜,,,,直播人,更新人,"g0v.today 每 3 分鐘更新",,,,,
 http://newday.tw/intro/,讓晨曦照亮民主,,守護民主手環:important,,,even,,,,,,
-http://inlivetw.github.io/chrome,"inLiveTW 直播",,最新資訊:important,,,au,,,,,,
 http://ecfa.speaking.tw/,服貿跑馬燈,"{""expand"":false} ",,,,,,,,,,
 " http://fact.g0v.tw/tisa.html",服貿跑馬燈-時間軸,,,,,,,,,,,
 http://ecfa.speaking.tw/imho.php,"服貿東西軍 ",,,,,,"更新前請 *務必* 先刷新整頁試算表再改，感謝！",,,,,
@@ -13,7 +12,7 @@ http://nonuke.today/,停建核四、遍地烽火全記錄,"{""target"":""_blank"
 http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":true}",,,,,,,,,,
 " https://chrome.google.com/webstore/detail/livetw/fhcffinobmpdchcoapdeoinhdmlihiok",Chrome：,"{""target"":""_blank""}",新分頁:issue,,,,,,,,,
 " https://play.google.com/store/apps/details?id=com.g0v.live",Android：,"{""target"":""_blank""}",新分頁:issue,,,,,,,,,
-http://inlivetw.github.io/chrome/#/tab/live,Web：,,新版:important,,,,,,,,,
+http://inlivetw.github.io/chrome/,Web：,,新版:important,,,,,,,,,
 ,影音直播,"{""expand"": true}",,,,,"影音更新時請記得 *保留前方空白* 和 /embed/ 格式, 把 youtube watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的「時間」和 F 欄的「更新人」。感謝!",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,,,,,,
 " https://livehouse.in/channel/NectwChannel-M","行政院 經貿國是會議 高雄第一會場 - 愛卡拉(iKala)",,"0900~1220 LIVE","愛卡拉(iKala)互動媒體股份有限公司 6/29新增",,,,,,,,
