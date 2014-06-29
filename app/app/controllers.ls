@@ -28,7 +28,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17811041",Sean-公民記者,,,"sean 5/13修改5/20改回",,,,,,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,"豪豬 5/5加入",,,,,,,,
 " http://www.ustream.tv/embed/17863662","點點 公民記者",,,點點,,,,,,,,
-" http://www.ustream.tv/embed/18103859",文森直播,,,"文森 6/26加入",,,,,,,,
+" http://www.ustream.tv/embed/18103859",文森直播,," 淡水割闌尾","文森 6/26加入",,,,,,,,
 " http://www.ustream.tv/embed/18390482","米飛  公民記者",,,"米飛  6/26加入",,,,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,," 小鳥台 6/28加入",,,,,,,,
 " http://www.ustream.tv/embed/17857738",公投盟直播,,,公投盟6/27加入,,,,,,,,
