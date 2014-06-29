@@ -17,7 +17,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,影音直播,"{""expand"": true}",,,,,"影音更新時請記得 *保留前方空白* 和 /embed/ 格式, 把 youtube watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的「時間」和 F 欄的「更新人」。感謝!",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,,,,,,
 " http://www.ustream.tv/embed/17969826","飛魚台 南部實況",,"台中 天光未?:important, 1830~2130,史明,蔡丁貴,蔡亦竹,張慶恩","flyfish1130 5/25加入",,,,,,,,
-" http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,"阿凱 5/13加入",,,,,,,,
+" http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,桃園機場:important,"阿凱 5/13加入",,,,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,淡水割闌尾:important,"文森 6/26加入",,,,,,,,
 " https://livehouse.in/channel/watchout",【沃草直播室】,,"0900~1220 LIVE:","沃草直播室 5/25加入",,,,,,,,
 " https://livehouse.in/channel/watchout2",【沃草直播室2】,,台灣，你資安有洞嗎？:,"沃草直播室 5/25加入",,,,,,,,
