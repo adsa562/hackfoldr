@@ -9,6 +9,7 @@ https://sites.google.com/site/twdstreet/,公民審服貿,,街頭民主審議:inf
 " http://123.g0v.today/",三動作護台灣,,致電立委:important,,,ipa,,,,,,
 " http://appy.tw/",割闌尾計畫,"{""target"": ""_blank""} ",罷免連署:important,,,lee,,,,,,
 http://nonuke.today/,停建核四、遍地烽火全記錄,"{""target"":""_blank""}",新分頁:issue,,,,,,,,,
+http://hackfoldr.org/resistancelive/,"香港 反東北抗爭，迫爆立法會！","{""target"":""_blank""}",新分頁:issue,,,,,,,,,
 http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":true}",,,,,,,,,,
 " https://chrome.google.com/webstore/detail/livetw/fhcffinobmpdchcoapdeoinhdmlihiok",Chrome：,"{""target"":""_blank""}",新分頁:issue,,,,,,,,,
 " https://play.google.com/store/apps/details?id=com.g0v.live",Android：,"{""target"":""_blank""}",新分頁:issue,,,,,,,,,
