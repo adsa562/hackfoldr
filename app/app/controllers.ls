@@ -16,7 +16,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://inlivetw.github.io/chrome/",Web：,,新版:important,,,,,,,,,
 ,影音直播,"{""expand"": true}",,,,,"影音更新時請記得 *保留前方空白* 和 /embed/ 格式, 把 youtube watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的「時間」和 F 欄的「更新人」。感謝!",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,,,,,,
-,,,,,,,,,,,,
+" http://www.ustream.tv/embed/17992061","Masaru 南部實況",,"深夜收割飛魚台論壇:,2300開始","Masaru 南部實況轉播 5/9加入",,,,,,,,
 " http://www.ustream.tv/embed/17969826","飛魚台 南部實況",,,"flyfish1130 5/25加入",,,,,,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,文源LIVE秀,,,,,,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,"阿凱 5/13加入",,,,,,,,
