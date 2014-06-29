@@ -20,7 +20,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,桃園機場:important,文源LIVE秀,,,,,,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,桃園機場:important,"阿凱 5/13加入",,,,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,桃園機場:important," 小鳥台 6/28加入",,,,,,,,
-" http://www.ustream.tv/embed/18390482","米飛  公民記者",,,"米飛  6/26加入",,,,,,,,
+" http://www.ustream.tv/embed/18390482","米飛  公民記者",,桃園機場:important,"米飛  6/26加入",,,,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,"文森 6/26加入",,,,,,,,
 " https://livehouse.in/channel/watchout",【沃草直播室】,,"0900~1220 LIVE:","沃草直播室 5/25加入",,,,,,,,
 " https://livehouse.in/channel/watchout2",【沃草直播室2】,,台灣，你資安有洞嗎？:,"沃草直播室 5/25加入",,,,,,,,
