@@ -78,7 +78,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/KaohsiungCentralParkTree/photos/pcb.526361374142067/526357750809096/?type=1&theater",0630[高雄護樹]李科永紀念圖書館選址說明會,,"1900~2100,高雄市苓雅區四維四路61號:important","FB照片 6/30新增",,,,,,,,
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,6/13新增,,,,,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,"6/4日 新增",,,,,,,,
-" https://www.ptt.cc/bbs/ShuangHe/M.1404035577.A.534.html",永和圖書館與國父紀念館原地保留連署,," 每天0900~1900,新北市永和區竹林路215號:important","PTT 雙和版6/30新增",,,,,,,,
+" https://www.ptt.cc/bbs/ShuangHe/M.1404035577.A.534.html",永和圖書館與國父紀念館原地保留連署,,"每天0900~1900,新北市永和區竹林路215號:important","PTT 雙和版6/30新增 自己的圖書館自己救，打一下廣告",,,,,,,,
 " https://www.facebook.com/pages/%E6%88%91%E6%98%AF%E4%BA%BA%E6%88%91%E5%8F%8D%E6%A0%B8/307969115955037",五六運動、公民論壇,,"每周五 1800起 自由廣場:",因為性質既是活動，又是資訊整合，因此重複放了一份,,,,,,,,
 ,已結束活動列表,"{""expand"":false} ",,,,,,,,,,
 " https://www.facebook.com/Appendectomy/photos/a.249135138604869.1073741828.248848828633500/273358276182555/?type=1",0629[割闌尾]WEGO+祭止兀,,,6/29新增,,,,,,,,
