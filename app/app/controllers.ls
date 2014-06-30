@@ -16,7 +16,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://inlivetw.github.io/chrome/",Web：,,新版:important,,,,,,,,,
 ,影音直播,"{""expand"": true}",,,,,"影音更新時請記得 *保留前方空白* 和 /embed/ 格式, 把 youtube watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的「時間」和 F 欄的「更新人」。感謝!",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,,,,,,
-http://musou.tw/live_streams/107,國會無雙0630IVOD賽程臨時會【全院委員會】監察委員公聽會,"{""target"":""_blank""}","新分頁:,0900~1300:important",國會無雙IVOD,,,,,,,,
+" http://musou.tw/live_streams/107",國會無雙0630IVOD賽程臨時會【全院委員會】監察委員公聽會,"{""target"":""_blank""}","新分頁:,0900~1300:important",國會無雙IVOD,,,,,,,,
 " https://livehouse.in/channel/watchout",【沃草直播室】,," 民進黨邀陸委會質詢王張會:important,1000~1800預定","沃草直播室 5/25加入",,,,,,,,
 " http://www.ustream.tv/embed/17401996","沃草國會無雙 第二競技場",,,"國會無雙 5/13加入",,,,,,,,
 " http://www.ustream.tv/embed/17012502","沃草國會無雙 第一競技場",,,"沃草國會無雙-1 5/15加入",,,,,,,,
