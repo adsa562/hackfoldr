@@ -20,6 +20,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17012502","沃草國會無雙 第一競技場",,,"沃草國會無雙-1 5/15加入",,,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/27"," 蘋果LIVE[直擊現場]香港七一遊行",,LIVE,,,,,,,,,
 " https://www.youtube.com/watch?v=jhBebtXaIC8"," 蘋果LIVE[直擊現場]香港七一遊行",,,,,,,,,,,
+" http://new.livestream.com/accounts/2682576/events/1857932",香港民陣七一大遊行,"{""target"":""_blank""}",LIVE,,,,,,,,,
 " http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,香港71遊行,,,,,,,,,
 " http://www.ustream.tv/embed/18401148",音地大帝in香港,,香港71遊行,,,,,,,,,
 " http://www.ustream.tv/embed/17401996","沃草國會無雙 第二競技場",,,"國會無雙 5/13加入",,,,,,,,
