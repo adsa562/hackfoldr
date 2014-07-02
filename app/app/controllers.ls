@@ -21,6 +21,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,,"PENNYKEN 5/12加入",,,,,,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,,battery0922,,,,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,"文森 6/26加入",,,,,,,,
+" http://www.ustream.tv/embed/18246634","love378297 公民記者",,,"love378297 6/28加入",,,,,,,,
 " http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,香港71遊行,,,,,,,,,
 " http://www.ustream.tv/embed/17733674","jackywolf 公民記者",,,"jackywolf 6/9加入",,,,,,,,
 " http://www.ustream.tv/embed/17012502","沃草國會無雙 第一競技場",,,"沃草國會無雙-1 5/15加入",,,,,,,,
