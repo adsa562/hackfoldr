@@ -21,7 +21,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.appledaily.com.tw/livechannel/subject/17",蘋果立法院議會LIVE,,LIVE,"蘋果立法院議會 6/13 加入",,,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,"Masaru 南部實況轉播 5/9加入",,,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/27"," 蘋果LIVE[直擊現場]香港七一遊行",,,,,,,,,,,
-" https://www.youtube.com/watch?v=jhBebtXaIC8"," 蘋果LIVE[直擊現場]香港七一遊行",,LIVE,,,,,,,,,
+" https://www.youtube.com/watch?v=jhBebtXaIC8"," 蘋果LIVE[直擊現場]香港七一遊行",,,,,,,,,,,
 " http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,,,,,,,,,,
 " http://www.ustream.tv/embed/18401148",音地大帝in香港,,,,,,,,,,,
 " http://www.ustream.tv/embed/17401996","沃草國會無雙 第二競技場",,,"國會無雙 5/13加入",,,,,,,,
