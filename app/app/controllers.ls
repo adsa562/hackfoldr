@@ -22,7 +22,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.youtube.com/watch?v=jhBebtXaIC8"," 蘋果LIVE[直擊現場]香港七一遊行",,,,,,,,,,,
 " http://new.livestream.com/accounts/2682576/events/1857932",香港民陣七一大遊行,"{""target"":""_blank""}",,,,,,,,,,
 " http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,香港71遊行,,,,,,,,,
-" http://new.livestream.com/vdo/71live",71LIVE,"{""target"":""_blank""}",,,,,,,,,,
+" http://new.livestream.com/vdo/71live",71LIVE,"{""target"":""_blank""}",LIVE,,,,,,,,,
 http://www.ustream.tv/embed/18330831,"香港 學聯直播 (行動鏡頭1)",,,,,,,,,,,
 http://www.ustream.tv/embed/18330797,"香港 學聯直播 (行動鏡頭2)",,,,,,,,,,,
 " http://www.ustream.tv/embed/18415313",香港佔領中環預演現場,,,,,,,,,,,
