@@ -26,7 +26,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://livehouse.in/channel/watchout",【沃草直播室】,,,"沃草直播室 5/25加入",,,,,,,,
 " https://livehouse.in/channel/watchout2",【沃草直播室2】,,,"沃草直播室 5/25加入",,,,,,,,
 " http://www.ustream.tv/embed/17823792","民報直播 立法院OnLine",,,"cks6662 5/13加入",,,,,,,,
-" http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,"Masaru 南部實況轉播 5/9加入",,,,,,,,
+,,,,,,,,,,,,
 " http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,,"PENNYKEN 5/12加入",,,,,,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,,battery0922,,,,,,,,
 ,,,,,,,,,,,,
