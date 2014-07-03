@@ -87,6 +87,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/milkfishtainan/photos/a.673284986077545.1073741827.673275422745168/714602495279127/?type=1","0704魚腸花街頭文藝復興運動 台南青年志士大對談會",,"1900~2100,台南市中西區府緯街4巷6號:,仙草里活動中心:,葉宜津:important,蔡亦竹:important,Masaru直播預定:info",,,,,,,,,
 " https://www.facebook.com/photo.php?fbid=803357396371797&set=a.168257056548504.32682.142163125824564&type=1","0704哲五 割割罷罷真偉大 割闌尾進行式",,"1930~2130,慕哲咖啡館 地下沙龍:,台北市紹興北街 3 號 B1:",,,,,,,,,
 " https://www.facebook.com/events/656220247793483/?ref=22","0705壓不扁的玫瑰 寫下台灣反抗史的家族",,"1500開始,Ho覓藝文實驗研究所:,屏東中山路58-3號:,楊翠:important,魏揚:important,Masaru直播預定:info",,,,,,,,,
+" https://www.facebook.com/photo.php?fbid=1452992851623387&set=gm.646561768753566&type=1","0706雙湖音樂祭 補正公投法 割掉祭止兀",,"1400~2100,北市美麗華百樂園:,捷運劍南路站:,仿生鳥:important,鴿闌尾:important,青春快閃:important,島國前進:important",,,,,,,,,
 " https://www.facebook.com/photo.php?fbid=331106903706889&set=a.102591343225114.6915.100004227453348&type=1","0706光榮高雄 台獨ing",,"1900~2200,每人低消NTD120.:important,高雄市鼓山區蓬萊路99號B10倉庫:,史明:important,黃敏紅:important,張慶恩:important,鄭兆恩:important,Masaru直播預定:info","FB照片 6/30新增",,,,,,,,
 " http://watchout.kktix.cc/events/citizenreporters","0706以前報名 沃草 夏日公民記者副本計劃","{""target"":""_blank""}","全國大專院校在學學生:important,7/16/17/18/21/22/23/24,1300-1500,臺北市區:",,,,,,,,,
 " https://www.ptt.cc/bbs/ShuangHe/M.1404035577.A.534.html","0709以前 永和 搶救圖書館與國父紀念館 連署",," 實體聯署站結束:,仍可透過郵寄e-mail連署",,,,,,,,,
