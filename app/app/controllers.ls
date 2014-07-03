@@ -16,7 +16,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://inlivetw.github.io/chrome/",Web：,,新版:important,,,,,,,,,
 ,影音直播,"{""expand"": true}",,,,,"影音更新時請記得 *保留前方空白* 和 /embed/ 格式, 把 youtube watch?v=XXXXXX 的 XXXXX 放到 /embed/ 後即可。ustream 也是使用 /embed/ (按「Share/共用」可取得 embed code) — 然後更新 D 欄的「時間」和 F 欄的「更新人」。感謝!",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,,,,,,
-" http://musou.tw/live_streams/109",國會無雙0702IVOD賽程臨時會【臨時會院會】監察院正副院長接受質詢,"{""target"":""_blank""}","新分頁:,0900~1800",國會無雙IVOD,,,,,,,,
+" http://musou.tw/live_streams/110","國會無雙0703IVOD賽程 【全院委員會】監察委員提名人審查","{""target"":""_blank""}","新分頁:,0900~1800",國會無雙IVOD,,,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,"Masaru 南部實況轉播 5/9加入",,,,,,,,
 " http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,,"PENNYKEN 5/12加入",,,,,,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,,battery0922,,,,,,,,
