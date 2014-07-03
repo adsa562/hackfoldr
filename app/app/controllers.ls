@@ -30,7 +30,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,,"PENNYKEN 5/12加入",,,,,,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,,battery0922,,,,,,,,
 " http://www.ustream.tv/embed/18246634","love378297 公民記者",,,"love378297 6/28加入",,,,,,,,
-" http://www.ustream.tv/embed/13620594",五六運動、公民論壇,," 每周五:info,1800~2100,中正紀念堂:,自由廣場前:",,,,,,,,,
+" http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,"周五1800~2100,中正紀念堂:,自由廣場前:",,,,,,,,,
 " http://www.ustream.tv/embed/17733674","jackywolf 公民記者",,,"jackywolf 6/9加入",,,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/27"," 蘋果LIVE[直擊現場]香港七一遊行",,,,,,,,,,,
 " https://www.youtube.com/watch?v=jhBebtXaIC8"," 蘋果LIVE[直擊現場]香港七一遊行",,,,,,,,,,,
