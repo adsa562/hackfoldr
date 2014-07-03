@@ -59,7 +59,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17569549","g0v 機動1號機",,,,jackie6chiang,chien,,,,,,
 " http://www.ustream.tv/embed/17733928","只是路過 (公民記者)",,,,,,,,,,,
 " http://www.ustream.tv/embed/17747496",台南魚腸花論壇,,,,,,,,,,,
-,,,,12am,,rsghost,,,,,,
 " http://www.ustream.tv/embed/17548030","English LIVE",,,,(1F),rsghost,,,,,,
 " http://www.ustream.tv/embed/17592160","機動 - 淡水掃街 (g0v)",,,,jonethwc,au,,,,,,
 " http://www.ustream.tv/embed/17622630","banana 公民記者",,,,bananana,au,,,,,,
