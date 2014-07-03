@@ -86,6 +86,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/AppendectomyDeWhip/posts/607239036050803?fref=nf","0703割闌尾 板橋林鴻池",,"1900~2100,板橋文化路郵局:important,新埔站一號出口:important,新北市板橋區文化路1段395號:",,,,,,,,,
 " https://www.facebook.com/pages/%E6%88%91%E6%98%AF%E4%BA%BA%E6%88%91%E5%8F%8D%E6%A0%B8/307969115955037",五六運動、公民論壇,,"每周五 1800起 自由廣場:",因為性質既是活動，又是資訊整合，因此重複放了一份,,,,,,,,
 " https://www.facebook.com/milkfishtainan/photos/a.673284986077545.1073741827.673275422745168/714602495279127/?type=1","0704魚腸花街頭文藝復興運動 台南青年志士大對談會",,"1900~2100,台南市中西區府緯街4巷6號:,仙草里活動中心:,葉宜津:important,蔡亦竹:important",,,,,,,,,
+" https://www.facebook.com/events/656220247793483/?ref=22","0705壓不扁的玫瑰 寫下台灣反抗史的家族",,"1500開始,楊翠,魏揚,Ho覓藝文實驗研究所:,屏東中山路58-3號:,Masaru直播預定:important",,,,,,,,,
 " https://www.facebook.com/photo.php?fbid=331106903706889&set=a.102591343225114.6915.100004227453348&type=1","0706光榮高雄 台獨ing",,"1900~2200,每人低消NTD120.:important,高雄市鼓山區蓬萊路99號B10倉庫:,史明:important,黃敏紅:important,張慶恩:important,鄭兆恩:important","FB照片 6/30新增",,,,,,,,
 " http://watchout.kktix.cc/events/citizenreporters","0706以前報名 沃草 夏日公民記者副本計劃","{""target"":""_blank""}","全國大專院校在學學生:important,7/16/17/18/21/22/23/24,1300-1500,臺北市區:",,,,,,,,,
 " https://www.ptt.cc/bbs/ShuangHe/M.1404035577.A.534.html","0709以前 永和 搶救圖書館與國父紀念館 連署",," 實體聯署站結束:,仍可透過郵寄e-mail連署",,,,,,,,,
