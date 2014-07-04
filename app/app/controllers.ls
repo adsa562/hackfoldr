@@ -20,7 +20,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17012502","沃草國會無雙 第一競技場",,,"沃草國會無雙-1 5/15加入",,,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/17",蘋果立法院議會LIVE,,,"蘋果立法院議會 6/13 加入",,,,,,,,
 " https://www.youtube.com/watch?v=OPRHE-taYU8",蘋果立法院議會LIVE,,,,,,,,,,,
-" http://www.ustream.tv/embed/7468658",文源LIVE秀,,,文源LIVE秀,,,,,,,,
+" http://www.ustream.tv/embed/7468658",文源LIVE秀,,逆風教育計畫記者會,文源LIVE秀,,,,,,,,
 " http://www.ustream.tv/embed/17401996","沃草國會無雙 第二競技場",,,"國會無雙 5/13加入",,,,,,,,
 " http://www.ustream.tv/embed/17989031","沃草國會無雙 第三競技場",,,"沃草國會無雙-1 5/15加入",,,,,,,,
 " https://livehouse.in/channel/watchout",【沃草直播室】,,,"沃草直播室 5/25加入",,,,,,,,
