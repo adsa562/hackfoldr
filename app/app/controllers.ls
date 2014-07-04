@@ -16,7 +16,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://inlivetw.github.io/chrome/",Web：,,新版:important,,,,,,,,,
 ,影音直播,"{""expand"": true}",,,,,,,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,,,,,,
-" http://musou.tw/live_streams/111",國會無雙0704IVOD賽程【院會】監察委員同意權行使,"{""target"":""_blank""}","新分頁:,0900~1800",國會無雙IVOD,,,,,,,,
+" http://musou.tw/live_streams/111",國會無雙0704IVOD賽程【院會】監察委員同意權行使,"{""target"":""_blank""}","新分頁:,今日散會",國會無雙IVOD,,,,,,,,
 " http://www.ustream.tv/embed/17012502","沃草國會無雙 第一競技場",,,"沃草國會無雙-1 5/15加入",,,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/17",蘋果立法院議會LIVE,,,"蘋果立法院議會 6/13 加入",,,,,,,,
 " https://www.youtube.com/watch?v=OPRHE-taYU8",蘋果立法院議會LIVE,,,,,,,,,,,
