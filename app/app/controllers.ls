@@ -88,6 +88,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/taiwanmarch.tw/posts/557881387654081","0705島國前進，南北合進 週末行動",,"1400~1730,台北華山文創園區:,陳惠敏、黃國昌短講:important,1700~1900,高雄中央公園捷運站1號出口&新崛江:,林飛帆短講:important",,,,,,,,,
 " https://www.facebook.com/photo.php?fbid=608397309268309&set=gm.291324377708124&type=1","0705割闌尾 林鴻池 板橋遊行x仿聲鳥",,"1300板橋火車站前廣場出發,～1640捷運府中站結束",,,,,,,,,
 " https://www.facebook.com/photo.php?fbid=819140311430845&set=a.804875019524041.1073741827.804848699526673&type=1&theater",0705割闌尾HereWEGO!,,"1400~1800,竹圍民族路三角市集:,1600~2000,淡水英專路屈臣氏:",,,,,,,,,
+" https://plus.google.com/events/c79e74aha27oc894uhqrtaaoc4o","=====分隔線===== 0706袁紅冰教授台南板聚","{""target"":""_blank""}","1400~1600,政大書城(台南店):,Hangouts 直播預定:info,新分頁:",,,,,,,,,
 " https://www.facebook.com/photo.php?fbid=1452992851623387&set=gm.646561768753566&type=1","0706雙湖音樂祭 補正公投法 割掉祭止兀",,"1400~2100,北市美麗華百樂園:,捷運劍南路站:,仿生鳥:important,鴿闌尾:important,青春快閃:important,島國前進:important",,,,,,,,,
 " https://www.facebook.com/photo.php?fbid=331106903706889&set=a.102591343225114.6915.100004227453348&type=1","0706光榮高雄 台獨ing",,"1900~2200,每人低消NTD120.:important,高雄市鼓山區蓬萊路99號B10倉庫:,史明:important,黃敏紅:important,張慶恩:important,鄭兆恩:important,Masaru直播預定:info","FB照片 6/30新增",,,,,,,,
 " http://watchout.kktix.cc/events/citizenreporters","0706以前報名 沃草 夏日公民記者副本計劃","{""target"":""_blank""}","全國大專院校在學學生:important,7/16/17/18/21/22/23/24,1300-1500,臺北市區:",,,,,,,,,
