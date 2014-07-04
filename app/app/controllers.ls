@@ -21,7 +21,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17969826","飛魚台 南部實況",,哲學星期五@台中,"flyfish1130 5/25加入",,,,,,,,
 " https://www.youtube.com/watch?v=I2_gPppiEqg"," 公投盟 立法院前公民論壇",,LIVE,,,,,,,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,,battery0922,,,,,,,,
-" http://www.ustream.tv/embed/7468658",文源LIVE秀,,"五六運動、公民論壇,文源代班",文源LIVE秀,,,,,,,,
+" http://www.ustream.tv/embed/7468658",文源LIVE秀,,,文源LIVE秀,,,,,,,,
 " http://musou.tw/live_streams/111",國會無雙0704IVOD賽程【院會】監察委員同意權行使,"{""target"":""_blank""}","新分頁:,今日散會",國會無雙IVOD,,,,,,,,
 " http://www.ustream.tv/embed/17012502","沃草國會無雙 第一競技場",,,"沃草國會無雙-1 5/15加入",,,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/17",蘋果立法院議會LIVE,,,"蘋果立法院議會 6/13 加入",,,,,,,,
