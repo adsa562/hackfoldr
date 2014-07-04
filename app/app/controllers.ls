@@ -16,7 +16,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://inlivetw.github.io/chrome/",Web：,,新版:important,,,,,,,,,
 ,影音直播,"{""expand"": true}",,,,,,,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,,,,,,
-" http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,"周五1800~2100,中正紀念堂:,自由廣場前:",,,,,,,,,
+" http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,"周五1800~2100:,中正紀念堂:,自由廣場前:",,,,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,"Masaru 南部實況轉播 5/9加入",,,,,,,,
 " http://www.ustream.tv/embed/17969826","飛魚台 南部實況",,,"flyfish1130 5/25加入",,,,,,,,
 " https://www.youtube.com/watch?v=I2_gPppiEqg"," 公投盟 立法院前公民論壇",,,,,,,,,,,
