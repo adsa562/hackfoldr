@@ -83,6 +83,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,6/13新增,,,,,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,"6/4日 新增",,,,,,,,
 " https://www.facebook.com/aorft/posts/777770432268209","控訴國家暴力自訴案件 0323~24尋找證人",,有些帳現在不算，以後就沒機會了！:important,,,,,,,,,
+" https://www.facebook.com/events/695837893785433/",0705呼籲新北市政府履行承諾，保留永和國父紀念館公共空間和圖書館,,"1000開始,說明會:info,新北市永和區竹林路213號:,永和國父紀念館對面:",,,,,,,,,
 " https://www.facebook.com/events/656220247793483/?ref=22","0705壓不扁的玫瑰 寫下台灣反抗史的家族",,"1500開始,Ho覓藝文實驗研究所:,屏東中山路58-3號:,楊翠:important,魏揚:important,Masaru直播預定:info",,,,,,,,,
 " https://www.facebook.com/photo.php?fbid=1452992851623387&set=gm.646561768753566&type=1","0706雙湖音樂祭 補正公投法 割掉祭止兀",,"1400~2100,北市美麗華百樂園:,捷運劍南路站:,仿生鳥:important,鴿闌尾:important,青春快閃:important,島國前進:important",,,,,,,,,
 " https://www.facebook.com/photo.php?fbid=331106903706889&set=a.102591343225114.6915.100004227453348&type=1","0706光榮高雄 台獨ing",,"1900~2200,每人低消NTD120.:important,高雄市鼓山區蓬萊路99號B10倉庫:,史明:important,黃敏紅:important,張慶恩:important,鄭兆恩:important,Masaru直播預定:info","FB照片 6/30新增",,,,,,,,
