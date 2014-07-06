@@ -119,7 +119,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/photo.php?fbid=436065626536364&set=a.368489606627300.1073741828.367922930017301&type=1","備戰通知 二次臨時會已排入自經區審議",,議程時間0728~0808:important,,,,
 " https://www.facebook.com/CafeDelam/photos/a.377311555656726.91535.377298322324716/679613385426540/?type=1&theater",0712陪爸媽一起到老的健康寶典,,"1500~1700,劉介修,台大醫院竹東分院社區健康營造中心執行長,台大醫院老年醫學部兼任主治醫師:important,Cafe De lam 竹南咖啡:,苗栗縣大營路99號:",,,,
 " https://www.facebook.com/events/1499824633565724/",0712助陣!!海洋音樂祭決賽,,福隆海水浴場,,,,
-" http://watchout.kktix.cc/events/citizenreporters","0706以前報名 沃草 夏日公民記者副本計劃","{""target"":""_blank""}","全國大專院校在學學生:important,7/16/17/18/21/22/23/24,1300-1500,臺北市區:",,,,
+" http://watchout.kktix.cc/events/citizenreporters","0707 1000以前報名 沃草 夏日公民記者副本計劃","{""target"":""_blank""}","全國大專院校在學學生:important,7/16/17/18/21/22/23/24,1300-1500,臺北市區:",,,,
 " https://www.ptt.cc/bbs/ShuangHe/M.1404035577.A.534.html","=====分隔線===== 0709以前 永和 搶救圖書館與國父紀念館 連署",," 實體聯署站結束:,仍可透過郵寄e-mail連署",,,,
 " https://www.facebook.com/photo.php?fbid=10202844958379045&set=a.1126191389017.2019054.1054135540&type=1","0709我是創作人 我主張暫停著作權修法",,"1400開始,辛亥路二段185號:,台大後門斜對面:",,,,
 " https://www.facebook.com/pages/%E6%88%91%E6%98%AF%E4%BA%BA%E6%88%91%E5%8F%8D%E6%A0%B8/307969115955037",五六運動、公民論壇,,"每周五 1800起 自由廣場",因為性質既是活動，又是資訊整合，因此重複放了一份,,,
