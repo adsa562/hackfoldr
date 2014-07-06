@@ -53,6 +53,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17890296","雨停 公民記者","{""bar"": ""http://g0v.github.io/live/status_bar.html?{url}"", ""enable_bar"": {""video"":true}}",,雨停,,,
 " http://www.ustream.tv/embed/17929143","小六 公民記者",,,"小六 5/8加入",,,
 " http://www.ustream.tv/embed/17988421","Hulk_Che 公民記者",,,"Hulk_Che 5/14加入",,,
+http://www.ustream.tv/embed/17755037,"帽客 公民記者",,,,,,
 " http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,"週五1800~2100:,中正紀念堂:,自由廣場前:",,,,
 " http://www.ustream.tv/embed/17640717","人民民主陣線 人民議會",,"週六1900~2200:,青島東路8號:",peopleboss,,,
 " http://www.ustream.tv/embed/18123294","週五 太陽花講習會",,"週五1900~2100:,中正紀念堂:,國家劇院前:,0704&0711暫停乙次:info","太陽花講習會 6/21加入",,,
