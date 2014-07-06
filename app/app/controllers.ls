@@ -31,8 +31,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18200914",直樹Live頻道,,,,,,
 " http://www.ustream.tv/embed/17969826","飛魚台 南部實況",,,"flyfish1130 5/25加入",,,
 " http://www.ustream.tv/embed/17843610",電池線上,,,battery0922,,,
-,,,,,,,
-,,,,,,,
 " http://www.ustream.tv/embed/17866960",小駿線上,,,小駿,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,"文森 6/26加入",,,
 " http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,,"PENNYKEN 5/12加入",,,
