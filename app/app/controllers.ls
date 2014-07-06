@@ -26,7 +26,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18390482","米飛  公民記者",,,"米飛  6/26加入",,,
 " http://www.ustream.tv/embed/17562385","麵線 公民記者",,,,,,
 " https://www.youtube.com/watch?v=waVGo0FB1mQ&feature=youtu.be","行政院 經貿國是會議 - 公民攝影守護民主陣線",,,,,,
-" http://www.ustream.tv/embed/18322764","行政院 經貿國是會議 - 戲智科技-1",,"台中場:,0706:,0900~1220:","戲智科技 6/29新增",,,
+" http://www.ustream.tv/embed/18322764","行政院 經貿國是會議 - 戲智科技-1",,"花蓮場:,0712:,0900~1710:","戲智科技 6/29新增",,,
 " http://www.ustream.tv/embed/18316356","行政院 經貿國是會議 - 戲智科技-2",,,"戲智科技 6/29新增",,,
 " https://livehouse.in/channel/NectwChannel-M","行政院 經貿國是會議 - 愛卡拉(iKala)-1",,,"愛卡拉(iKala)互動媒體股份有限公司 6/29新增",,,
 " https://livehouse.in/channel/NectwChannel-S","行政院 經貿國是會議 - 愛卡拉(iKala)-2",,,"愛卡拉(iKala)互動媒體股份有限公司 6/29新增",,,
