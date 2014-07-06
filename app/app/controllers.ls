@@ -117,7 +117,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,"6/4日 新增",,,
 " https://www.facebook.com/aorft/posts/777770432268209","控訴國家暴力自訴案件 0323~24尋找證人",,有些帳現在不算，以後就沒機會了！:important,,,,
 " https://www.facebook.com/photo.php?fbid=436065626536364&set=a.368489606627300.1073741828.367922930017301&type=1","備戰通知 二次臨時會已排入自經區審議",,議程時間0728~0808:important,,,,
-" https://www.facebook.com/photo.php?fbid=819140311430845&set=a.804875019524041.1073741827.804848699526673&type=1&theater",0706割闌尾HereWEGO!,,"0900~1200,泰山公有市場&福泰市場:,1400~1500,淡水竹圍民族路三角市集:,1600~2000,淡水英專路屈臣氏:",,,,
+" https://www.facebook.com/photo.php?fbid=819140311430845&set=a.804875019524041.1073741827.804848699526673&type=1&theater",0706割闌尾HereWEGO!,,,,,,
 " https://www.facebook.com/CafeDelam/photos/a.377311555656726.91535.377298322324716/679613385426540/?type=1&theater",0706從法律角度看服貿,,"1400~1600,陳家慶同學(臺大法研所公法組):important,Cafe De lam 竹南咖啡:,苗栗縣大營路99號:",,,,
 " https://plus.google.com/events/c79e74aha27oc894uhqrtaaoc4o",0706袁紅冰教授台南板聚,"{""target"":""_blank""}","1400~1600,政大書城(台南店):,Hangouts 直播預定:info,新分頁:",,,,
 " https://www.facebook.com/photo.php?fbid=1452992851623387&set=gm.646561768753566&type=1","0706雙湖音樂祭 補正公投法 割掉祭止兀",,"1400~2100,北市美麗華百樂園:,捷運劍南路站:,仿生鳥:important,鴿闌尾:important,青春快閃:important,島國前進:important",,,,
