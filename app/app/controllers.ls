@@ -16,6 +16,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://inlivetw.github.io/chrome/",Web：,,新版:important,,,,
 ,影音直播,"{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,
+" https://www.youtube.com/watch?v=waVGo0FB1mQ&feature=youtu.be","行政院 經貿國是會議 - 公民攝影守護民主陣線",,,,,,
 " http://www.ustream.tv/embed/18322764","行政院 經貿國是會議 - 戲智科技-1",,"台中場,0706,0900~1220","戲智科技 6/29新增",,,
 " http://www.ustream.tv/embed/18316356","行政院 經貿國是會議 - 戲智科技-2",,,"戲智科技 6/29新增",,,
 " https://livehouse.in/channel/NectwChannel-M","行政院 經貿國是會議 - 愛卡拉(iKala)-1",,,"愛卡拉(iKala)互動媒體股份有限公司 6/29新增",,,
