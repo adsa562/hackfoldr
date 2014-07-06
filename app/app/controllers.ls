@@ -46,7 +46,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17755037","帽客 公民記者",,," 帽客6/28加入",,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,,"公視新聞網 6/4加入",,,
 " http://www.ustream.tv/embed/17568654",南民思潮,,,"南民思潮 6/27新增",,,
-" http://www.ustream.tv/embed/17513092",拖鞋直播-1,,,阿北一號機,,,
 " http://www.ustream.tv/embed/18379958","皮皮 公民記者",,,"皮皮jonethwc 6/26加入",,,
 " http://www.ustream.tv/embed/18174265","小光 公民記者",,,"cvspka04476 6/13加入",,,
 " http://www.ustream.tv/embed/17894339","阿法 公民記者",,,"afrayang211 5/5加入",,,
