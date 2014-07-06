@@ -42,7 +42,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18401148",音地大帝,,,,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,"豪豬 5/5加入",,,
 ,,,,,,,
-" http://www.ustream.tv/embed/17916604",阿賢文旦直播台,,,ahsien98,,,
+" http://www.ustream.tv/embed/17916604","阿賢 直播台",,,ahsien98,,,
 " http://www.ustream.tv/embed/17811041",Sean-公民記者,,,"sean 5/13修改5/20改回",,,
 " http://www.ustream.tv/embed/17863662","點點 公民記者",,,點點,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,,"公視新聞網 6/4加入",,,
