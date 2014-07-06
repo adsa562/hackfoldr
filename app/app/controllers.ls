@@ -65,6 +65,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17548030","English LIVE",,,,(1F),rsghost,
 " http://www.ustream.tv/embed/17537793","濟南路 南側 ",,,,,,
 " http://www.ustream.tv/embed/17576277",清大野台講堂,,,,,,
+http://www.ustream.tv/embed/12933307,公投盟直播機,,,,,,
 " http://www.ustream.tv/embed/18322764","行政院 經貿國是會議 - 戲智科技-1",,"花蓮場:,0712:,0900~1710:","戲智科技 6/29新增",,,
 " http://www.ustream.tv/embed/18316356","行政院 經貿國是會議 - 戲智科技-2",,,"戲智科技 6/29新增",,,
 " https://livehouse.in/channel/NectwChannel-M","行政院 經貿國是會議 - 愛卡拉(iKala)-1",,,"愛卡拉(iKala)互動媒體股份有限公司 6/29新增",,,
