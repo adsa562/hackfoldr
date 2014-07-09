@@ -118,8 +118,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,,,,
 " https://www.facebook.com/aorft/posts/777770432268209","控訴國家暴力自訴案件 0323~24尋找證人",,有些帳現在不算，以後就沒機會了！:important,,,,
 " https://www.facebook.com/photo.php?fbid=436065626536364&set=a.368489606627300.1073741828.367922930017301&type=1","備戰通知 二次臨時會已排入自經區審議",,議程時間0728~0808:important,,,,
-" http://www.coolloud.org.tw/node/79293",0709[內政部]淡北道路土地徵收審議,,"0900,濟南路一段2-2號:,記者會:important,0930~1100,會議:important,中央聯合辦公大樓南棟18樓第2會議室:,臺北市徐州路5號18樓:",,,,
-" https://www.facebook.com/usedtissuestudio/photos/a.664354840308149.1073741830.661285370615096/682979691778997/?type=1&theater","0709我是創作人 我主張暫停著作權修法",,"1400~1600,台北市大安區辛亥路2段185號:,台大後門斜對面:,經濟部智慧財產局18樓禮堂:,jackywolf、豪豬台 直播預定:info",,,,
 " https://www.facebook.com/events/1532167880340395/","0710[小蜜蜂] 桃園八德",,"1830~2130,桃園市大有路189號(新光三越1F):",,,,
 " https://www.facebook.com/AppendectomyDeWhip/posts/609996085775098","0710[割闌尾]板橋 林鴻池(固定擺攤)",,"1900~2100,板橋郵局:,捷運新埔站旁，近一號出口:,新北市板橋區文化路1段395號:",,,,
 " https://www.facebook.com/photo.php?fbid=342244939260866&set=a.337300016422025.1073741827.337299219755438&type=1&theater","0710[論壇]台北 兒時的記憶：遊樂場、公園、歷史空間的發展",,"1900~2130,台北市中正區紹興北街3號:,善導寺站6號出口:,慕哲咖啡:,董建宏(中興大學景觀與遊憩:important,碩士學位學程助理教授):important",,,,
