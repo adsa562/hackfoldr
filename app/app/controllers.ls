@@ -121,7 +121,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/events/1532167880340395/","0710[小蜜蜂] 桃園八德",,"1830~2130,桃園市大有路189號(新光三越1F):",,,,
 " https://www.facebook.com/AppendectomyDeWhip/posts/609996085775098","0710[割闌尾]板橋 林鴻池(固定擺攤)",,"1900~2100,板橋郵局:,捷運新埔站旁，近一號出口:,新北市板橋區文化路1段395號:",,,,
 " https://www.facebook.com/photo.php?fbid=342244939260866&set=a.337300016422025.1073741827.337299219755438&type=1&theater","0710[論壇]台北 兒時的記憶：遊樂場、公園、歷史空間的發展",,"1900~2130,台北市中正區紹興北街3號:,善導寺站6號出口:,慕哲咖啡:,董建宏(中興大學景觀與遊憩:important,碩士學位學程助理教授):important",,,,
-" http://www.ystaiwan.org/green_forum/","0709[論壇]台北 都市再生遺漏的篇章：以北市南機場整宅社區為例","{""target"":""_blank""}","1900~2130,台北市中正區紹興北街3號:,善導寺站6號出口:,慕哲咖啡:,彭揚凱(OURs都市改革組織秘書長):important,方荷生(台北市中正區忠勤里里長):important",,,,
+" http://www.ystaiwan.org/green_forum/","0710[論壇]台北 兒時的記憶：遊樂場、公園、歷史空間的發展","{""target"":""_blank""}","1900~2130,台北市中正區紹興北街3號:,善導寺站6號出口:,慕哲咖啡:,董建宏(中興大學景觀與遊憩:important,碩士學位學程助理教授):important",,,,
 " https://www.facebook.com/events/312281168947656/?ref=3&ref_newsfeed_story_type=regular","0710島國前進夥伴工作坊 新竹苗栗場",,"1930~2130,竹南保民宮廟埕:,苗栗縣竹南鎮保民巷一號:",,,,
 " https://www.facebook.com/pages/%E6%88%91%E6%98%AF%E4%BA%BA%E6%88%91%E5%8F%8D%E6%A0%B8/307969115955037",======分隔線======五六運動、公民論壇,,"每周五:,1800~2100:,自由廣場:,",,,,
 " http://cp5taichunng.kktix.cc/events/2996579a","0712[割闌尾]高雄 打狗割正順 前鎮區","{""target"":""_blank""}","0800~1300,和誠路＆草衙二路:",,,,
