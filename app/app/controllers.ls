@@ -16,6 +16,8 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://inlivetw.github.io/chrome/",Web：,,新版:important,,,,
 ,影音直播,"{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,
+" http://www.ustream.tv/embed/18469624",二次自經區溝通會,,"1030開始,7/11會前會:info,7/21 總體政策:,7/24 國際健康:,7/31 農業加值:,8/4 教育創新:,1830開始:",,,,
+,,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,"Masaru 南部實況轉播 5/9加入",,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,"文森 6/26加入",,,
 " http://www.ustream.tv/embed/18412678","麵包 公民記者",,,,,,
