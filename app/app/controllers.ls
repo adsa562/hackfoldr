@@ -23,7 +23,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,"豪豬 5/5加入",,,
 " http://www.ustream.tv/embed/18476332","公民線上 Citizen Live",,,,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,"love378297 6/28加入",,,
-" http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,"自由貿易趨勢下:info,台灣農村與農業的未來挑戰:info,廖志桓:important"," 小鳥台 6/28加入",,,
+" http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,," 小鳥台 6/28加入",,,
 " http://www.ustream.tv/embed/17858274",台南民主店頭,,,,,,
 " http://www.ustream.tv/embed/18469624",二次自經區溝通會,,"7/21 總體政策:,7/24 國際健康:,7/31 農業加值:,8/4 教育創新:,1830開始:",,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,"Masaru 南部實況轉播 5/9加入",,,
