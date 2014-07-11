@@ -16,7 +16,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://inlivetw.github.io/chrome/",Web：,,新版:important,,,,
 ,影音直播,"{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,
-http://www.appledaily.com.tw/livechannel/subject/32," 蘋果LIVE島國前進 連署活動",,"7/12 1400~2000,內湖:,WEGO美麗湖民主前進:info,7/13 1500~1900:,淡水:,淡水誓師 人民做主:",,,,
+" http://www.appledaily.com.tw/livechannel/subject/32"," 蘋果LIVE島國前進 連署活動",,"7/12 1400~2000,內湖:,WEGO美麗湖民主前進:info,7/13 1500~1900:,淡水:,淡水誓師 人民做主:",,,,
 " http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,"週五1800~2100:,中正紀念堂:,自由廣場前:",,,,
 " http://www.ustream.tv/embed/18308641",哲學星期五＠台中,,,,,,
 " http://www.ustream.tv/embed/18385635",阿弘直播台,,,,,,
