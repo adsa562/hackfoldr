@@ -125,7 +125,7 @@ http://www.appledaily.com.tw/livechannel/subject/32," 蘋果LIVE島國前進 連
 " https://www.facebook.com/aorft/posts/777770432268209","控訴國家暴力自訴案件 0323~24尋找證人",,有些帳現在不算，以後就沒機會了！:important,,,,
 " https://www.facebook.com/photo.php?fbid=436065626536364&set=a.368489606627300.1073741828.367922930017301&type=1",0728~0808二次臨時會已排入自經區審議,,備戰通知:important,,,,
 " https://www.facebook.com/pages/%E6%88%91%E6%98%AF%E4%BA%BA%E6%88%91%E5%8F%8D%E6%A0%B8/307969115955037",五六運動、公民論壇,,"每週五,1800~2100,中正紀年堂 自由廣場:",,,,
-" http://www.cet-taiwan.org/node/1950",0711[高雄講座]地球公民南方學堂--綠色經濟在台灣,,"1900~2100,地球公民基金會高雄總部:高雄市左營區博愛二路198號9樓之2:,蕭代基 中央研究院經濟所研究員:important,賴偉傑 綠色公民行動聯盟理事長:important,",,,,
+" http://www.cet-taiwan.org/node/1950",0718[高雄講座]從公衛觀點看台灣的空氣污染,,"1900~2100,地球公民基金會高雄總部:高雄市左營區博愛二路198號9樓之2:,蕭代基 中央研究院經濟所研究員:important,賴偉傑 綠色公民行動聯盟理事長:important,",,,,
 " https://www.facebook.com/photo.php?fbid=342244939260866&set=a.337300016422025.1073741827.337299219755438&type=1&theater","=====分隔線===== 0712[割闌尾]高雄 打狗割正順 前鎮區",,"0800~1300:,和誠路＆草衙二路:",,,,
 " https://www.facebook.com/photo.php?fbid=561227617319458&set=a.538208232954730.1073741828.534777863297767&type=1","0712島國前進 補正公投法 掃街連署 罷免WEGO",,"1400~2000:,內湖捷運文德站1號出口集合:,文德>港墘>西湖>劍南路>美麗華:,島國前進:important,割闌尾:important,青春快閃:important,卡到音:important,舞動青春:important",,,,
 " https://www.facebook.com/CafeDelam/photos/a.377311555656726.91535.377298322324716/679613385426540/?type=1&theater",0712陪爸媽一起到老的健康寶典,,"1500~1700:,劉介修:important,台大醫院竹東分院社區健康營造中心執行長:important,台大醫院老年醫學部兼任主治醫師:important,Cafe De lam 竹南咖啡:,苗栗縣大營路99號:",,,,
