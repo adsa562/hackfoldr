@@ -129,7 +129,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/RecaptureTaoyuan/posts/438661339610126",7/12北桃園行踏「人民作主、歡喜行踏」,,"0830~1230,桃園火車站大遠百廣場集合:,0900出發:info",,,,
 " https://docs.google.com/forms/d/1MLxWcWGETeMbkhH57pPpmCoGecqp8CwVDCyWNf_lVqY/viewform?fbzx=7578344857076229268","7/12[演講]台北 媒體壟斷！真威脅或是假議題",,"1000~1200,文化大學大新館309教室:,台北市延平南路127號:,張時健:important,國立交通大學傳播與科技學系老師:important",,,,
 " https://www.facebook.com/appendectomy737/photos/a.731621866861351.1073741827.731115960245275/760272470662957/?type=1","7/12[割闌尾]內湖 還我罷免權 今天就割菜",,"1000~1300,台北市內湖區康寧路一段54號:",,,,
-http://www.coolloud.org.tw/node/79313,"7/12[公視]桃園 公視踹共：還派遣工工作權",,"1400~1600,桃園縣中壢市中美路16號:",,,,
+" http://www.coolloud.org.tw/node/79313","7/12[公視]桃園 公視踹共：還派遣工工作權",,"1400~1600,桃園縣中壢市中美路16號:",,,,
 " https://www.facebook.com/events/267463096770142/?ref=4",7/12台中光榮台獨ing~民眾的Q&A問答專案,,"1400~1900,台中精誠五街32號:,Art Anew 咖啡藝術空間:,史明:important,黃敏紅:important,張慶恩:important,低消NTD 50~200.",,,,
 " https://www.facebook.com/XDSelect/posts/10154320900710403","7/12島國前進 補正公投法 掃街連署 罷免WEGO",,"1400~2000,內湖捷運文德站1號出口集合:,文德>港墘>西湖>劍南路>美麗華:,島國前進:important,割闌尾:important,青春快閃:important,卡到音:important,舞動青春:important",,,,
 " https://www.facebook.com/events/270219623170308/",7/12公民活動網路直播教學與分享,,"1500開始,府城舊冊店三樓（東門圓環旁）:,Masaru主講＋直播:important",,,,
