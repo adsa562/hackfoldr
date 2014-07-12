@@ -19,7 +19,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,
 " https://www.youtube.com/watch?v=ZU9LX31Rk2Y",公投盟x大腸花論壇,,,,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,公投盟x大腸花論壇,battery0922,,,
-http://www.ustream.tv/embed/18482988,wwe_dx_jad,,,,,,
+" http://www.ustream.tv/embed/18482988",wwe_dx_jad,,,,,,
 " http://www.ustream.tv/embed/18407461","Eason小胖 公民記者",,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,"台南民主藝術節--熟男減碳日記,深夜老歌論壇 2300開始:","Masaru 南部實況轉播 5/9加入",,,
 " http://www.appledaily.com.tw/livechannel/subject/32"," 蘋果LIVE島國前進 連署活動",,"7/12內湖:important,1400~2000,WEGO美麗湖民主前進:info,7/13淡水:,1500~1900:,淡水誓師 人民做主:",,,,
