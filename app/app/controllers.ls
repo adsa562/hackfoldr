@@ -136,6 +136,7 @@ http://www.coolloud.org.tw/node/79313,"7/12[公視]桃園 公視踹共：還派�
 " https://www.facebook.com/CafeDelam/photos/a.377311555656726.91535.377298322324716/679613385426540/?type=1&theater",7/12陪爸媽一起到老的健康寶典,,"1500~1700,劉介修:important,台大醫院竹東分院社區健康營造中心執行長:important,台大醫院老年醫學部兼任主治醫師:important,Cafe De lam 竹南咖啡:,苗栗縣大營路99號:",,,,
 " https://www.facebook.com/events/1499824633565724/",7/12助陣!!海洋音樂祭決賽,,福隆海水浴場:,,,,
 " https://www.facebook.com/events/681813145207871/","7/12[演講]新竹 基進側翼全國見面會 新一",,"1800~2100,新竹市北區江山街17-4號:,江山藝改所:,低消一杯飲料:info",,,,
+,,,,,,,
 " https://www.facebook.com/rtsj0503/photos/a.1402879539998323.1073741829.1395551180731159/1443521179267492/?type=1",7/12「神鬼大腸花之大腸水療法」,,"1900開始,立院正門:,公民論壇x音地大帝 大腸花:important",,,,
 " https://www.facebook.com/events/1498479937052205/?ref=4","7/12 和平協議？！相關國際法與各國實例",,"1900~2130,台大校友會館(立法院群賢樓正對面):,臺北市濟南路一段2之1號:,3樓3B會議室:,張國城教授:important",,,,
 " https://www.facebook.com/events/1557478661146485/?ref=3&ref_newsfeed_story_type=regular","=====分隔線===== 0713淡水誓師 人民作主：聯合掃街大會",,"1500~1900:,淡水老街入口廣場:,淡水捷運站1號出口旁廣場:,華南銀行、大塊牛排對面:,割闌尾: important,島國前進: important,民主黑潮學生聯盟: important,北鳥：歌唱革命: important,",,,,
