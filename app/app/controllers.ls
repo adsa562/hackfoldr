@@ -125,7 +125,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/aorft/posts/777770432268209","控訴國家暴力自訴案件 3/23~24尋找證人",,有些帳現在不算，以後就沒機會了！:important,,,,
 " https://www.facebook.com/photo.php?fbid=436065626536364&set=a.368489606627300.1073741828.367922930017301&type=1",7/28~8/8二次臨時會已排入自經區審議,,備戰通知:important,,,,
 " http://www.stormmediagroup.com/opencms/news/detail/83f5c8b0-08f5-11e4-8645-ef2804cba5a1/?uuid=83f5c8b0-08f5-11e4-8645-ef2804cba5a1",九月海協會長陳德銘訪台,,,,,,
-" https://www.facebook.com/photo.php?fbid=343273049158055&set=a.337300016422025.1073741827.337299219755438&type=1","7/12[割闌尾]高雄 打狗割正順 前鎮區",,"0800~1300:,和誠路＆草衙二路:",,,,
+" https://www.facebook.com/photo.php?fbid=343273049158055&set=a.337300016422025.1073741827.337299219755438&type=1","7/12[割闌尾]高雄 打狗割正順 前鎮區",,"0800~1300,和誠路＆草衙二路:",,,,
 " https://www.facebook.com/RecaptureTaoyuan/posts/438661339610126",7/12北桃園行踏「人民作主、歡喜行踏」,,"0830~1230,桃園火車站大遠百廣場集合:,0900出發:info",,,,
 " https://www.facebook.com/events/267463096770142/?ref=4",7/12台中光榮台獨ing~民眾的Q&A問答專案,,"1400~1900,台中精誠五街32號:,Art Anew 咖啡藝術空間:,史明:important,黃敏紅:important,張慶恩:important,低消NTD 50~200.",,,,
 " https://www.facebook.com/XDSelect/posts/10154320900710403","7/12島國前進 補正公投法 掃街連署 罷免WEGO",,"1400~2000,內湖捷運文德站1號出口集合:,文德>港墘>西湖>劍南路>美麗華:,島國前進:important,割闌尾:important,青春快閃:important,卡到音:important,舞動青春:important",,,,
