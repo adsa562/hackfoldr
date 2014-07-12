@@ -17,6 +17,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,影音直播,"{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,
 " http://www.ustream.tv/embed/18322764","行政院 經貿國是會議-戲智科技1",,"7/12花蓮:important,0900~1710","戲智科技 6/29新增",,,
+" https://www.youtube.com/watch?v=CCMVNd28Q_Q","行政院 經貿國是會議-戲智科技1",,,,,,
 " http://www.ustream.tv/embed/18316356","行政院 經貿國是會議-戲智科技2",,,"戲智科技 6/29新增",,,
 " https://livehouse.in/channel/NectwChannel-M","行政院 經貿國是會議-愛卡拉(iKala)1",,,"愛卡拉(iKala)互動媒體股份有限公司 6/29新增",,,
 " https://livehouse.in/channel/NectwChannel-S","行政院 經貿國是會議-愛卡拉(iKala)2",,,"愛卡拉(iKala)互動媒體股份有限公司 6/29新增",,,
