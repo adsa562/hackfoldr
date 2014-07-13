@@ -17,7 +17,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,影音直播,"{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,
-" http://www.appledaily.com.tw/livechannel/subject/32"," 蘋果LIVE島國前進 連署活動",,今日活動結束:important,,,,
 " http://www.ustream.tv/embed/17562385","麵線 公民記者",,,,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,"豪豬 5/5加入",,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,"文森 6/26加入",,,
