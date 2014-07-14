@@ -138,6 +138,8 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/permalink.php?story_fbid=257179767811336&id=253456431517003","7/16[中選會]自己的民主，自己守 自己的選票，自己顧",,"1000~1200,台灣台北市中正區徐州路中選會:",,,,
 " http://apcs.nctu.edu.tw/page1.aspx?no=277671&step=1&newsno=37406","7/16[台北講座]Ashis NANDY--亞際文化研究學會暑期班年度講座 2/3",,"1330~1730,輔仁大學百鍊廳:,20、40、60三代社運工作者:important",,,,
 " https://www.facebook.com/photo.php?fbid=306625269515850&set=a.263018680543176.1073741829.262680967243614&type=1",7/16[台北培訓]社運紀實口述歷史1/3,,"1330~1800,和平東路一段162號:,國立台灣師範大學勤308教室:,文學院會議室:",,,,
+" https://www.ptt.cc/bbs/PublicIssue/M.1404888719.A.50E.html","7/16[新北活動]水牛vs網友 鄉民市政見面會",,"1800~2000,板橋區民權路28號:,游錫堃辦公室:,近板橋車站、府中捷運站:",,,,
+" https://www.facebook.com/events/712983578772689/",,,,,,,
 " https://www.facebook.com/photo.php?fbid=563454543763432&set=a.538208232954730.1073741828.534777863297767&type=1","7/16[高雄]島國前進 補正公投聯署行動",,"1900~2100,捷運中央公園站1號出口:",,,,
 " https://docs.google.com/forms/d/1foC6mP-38GflPImg6iD2-Cp1QbR5a5Bnni8eNrqbUf0/viewform",[樂生]暑期修繕工作坊,,"7/17~7/24,蓬萊社:,台灣新北市新莊區中正路794號:,請務必填寫，以利統計人數及保險:important,提供代訂午餐:info,將於當日統計數量及收取費用:info",,,,
 " https://www.facebook.com/events/611981975582018/","7/17[高雄市]茄萣濕地 環評大會",,"1400~1600,高雄市政府10樓第三會議室:",,,,
