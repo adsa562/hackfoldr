@@ -19,6 +19,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,"座談 讓城市用力搖滾 1900~2100:info","阿凱 5/13加入",,,
 " http://www.ustream.tv/embed/17755037","帽客 公民記者",,,,,,
+" https://www.youtube.com/watch?v=XLMPYVKMS6U","7／14 讓城市用力搖滾",,,,,,
 " https://www.youtube.com/watch?v=ckRZY5Oc84E&feature=youtu.be",宜蘭縣境內及大南澳地區是否會成為高階核廢料最終處置地會議,,,,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,"love378297 6/28加入",,,
 " http://www.ustream.tv/embed/18245525",茄萣濕地環評前公聽會,,,,,,
