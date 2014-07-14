@@ -19,7 +19,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,
 " https://www.youtube.com/watch?v=ckRZY5Oc84E&feature=youtu.be",宜蘭縣境內及大南澳地區是否會成為高階核廢料最終處置地會議,,,,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,"love378297 6/28加入",,,
-http://www.ustream.tv/embed/18245525,茄萣濕地環評前公聽會,,,,,,
+" http://www.ustream.tv/embed/18245525",茄萣濕地環評前公聽會,,,,,,
 " http://www.ustream.tv/embed/17562385","麵線 公民記者",,,,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,"豪豬 5/5加入",,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,"文森 6/26加入",,,
