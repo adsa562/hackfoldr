@@ -147,6 +147,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/AppendectomyDeWhip/posts/609996085775098","7/17[割闌尾]板橋 林鴻池(每週四固定擺攤)",,"1900~2100,板橋郵局:,捷運新埔站旁，近一號出口:,新北市板橋區文化路1段395號:",,,,
 " https://www.facebook.com/HanWeiMiaoLiQingNianLianMeng/photos/a.481218825297334.1073741829.481213905297826/658120657607149/?type=1","7/18公義，不會忘記 大埔強拆周年紀念系列活動",,"1800~2100,大埔張藥房原址:,公義路仁愛路口:",,,,
 " https://www.facebook.com/pages/%E6%88%91%E6%98%AF%E4%BA%BA%E6%88%91%E5%8F%8D%E6%A0%B8/307969115955037",五六運動、公民論壇,,"每週五,1800~2100,中正紀年堂 自由廣場:",,,,
+" https://www.facebook.com/events/547944035312302/?ref=22","7/18[彰化講座]公民思潮之夜 第12夜 文明的反抗 非暴力抗爭",,"1900~2100,彰化市三民路119號:,三民御璽 1F會議室:,簡端良:important,雲科大通識課程教授 東海哲學系碩士:important",,,,
 " https://www.facebook.com/civilmedia/photos/a.129045361879.104395.79765636879/10152534211511880/?type=1",7/19[台北講座]台灣新聞自由的危機？從資通訊安全到新聞自由,,"1400~1600,台北文創大樓6樓會議室:,臺北市信義區菸廠路88號6樓:",,,,
 " https://docs.google.com/forms/d/1MLxWcWGETeMbkhH57pPpmCoGecqp8CwVDCyWNf_lVqY/viewform?fbzx=7578344857076229268","7/19[演講]台北 開窗說話‧我心目中的新聞人",,"1000~1200,文化大學大新館309教室:,台北市延平南路127號:,楊伊湄:important,「新聞左左右右」節目主持人:important",,,,
 " https://www.facebook.com/photo.php?fbid=523191301141188&set=a.163357900457865.33932.100003509692968&type=1","7/19與台獨面對面 高雄場",,"1900~2200,高雄前鎮廣濟宮:,前鎮區中山二路217號:,蔡丁貴教授:important",,,,
