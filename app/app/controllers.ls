@@ -121,7 +121,7 @@ http://www.ustream.tv/embed/18477607,台獨國際新聞,,"7/20 1500~1900 光榮�
 ,持續關注&即將發生事件,"{""expand"": false}",,,,,
 " https://www.facebook.com/aorft/posts/777770432268209","控訴國家暴力自訴案件 3/23~24尋找證人",,有些帳現在不算，以後就沒機會了！:important,,,,
 " https://www.ptt.cc/bbs/PublicIssue/M.1404310911.A.D60.html","後灣開發案 不要再被財團騙了",,"線上連署:important,結束時間未定:info",,,,
-" http://ap.ntdtv.com/b5/20140714/video/128810.html","7/14驚傳限制出境！ 名製作人徐嘉森返台受阻",,,,,,
+http://udn.com/NEWS/ENTERTAINMENT/ENT7/8806738.shtml,"7/16徐嘉森北京遭扣留 傳與大陸肅貪有關",,,,,,
 " https://www.facebook.com/media/set/?set=a.360316390785171.1073741829.359933814156762&type=1","7/18開始 民主小草計劃",,,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,,,,
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,,,,
