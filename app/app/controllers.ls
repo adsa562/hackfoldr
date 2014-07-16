@@ -74,7 +74,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18308641",哲學星期五＠台中,,,,,,
 " http://www.ustream.tv/embed/17640717","人民民主陣線 人民議會",,"週六1900~2200:,青島東路8號:",peopleboss,,,
 " http://www.ustream.tv/embed/18469624",二次自經區溝通會,,"7/21 總體政策:,7/24 國際健康:,7/31 農業加值:,8/4 教育創新:,1830開始:",,,,
-http://www.ustream.tv/embed/18506067,"Mayaman 社運紀實",,"7/26:,1400~1800:,社運紀實口述歷史2/3:",,,,
+" http://www.ustream.tv/embed/18506067","Mayaman 社運紀實",,"7/26:,1400~1800:,社運紀實口述歷史2/3:",,,,
 " http://www.ustream.tv/embed/17569549","g0v 1號機",,,,jackie6chiang,chien,
 " http://www.ustream.tv/embed/17557850","g0v 2號機",,,,,,
 " http://www.ustream.tv/embed/17680676","g0v 3號機",,,,,,
