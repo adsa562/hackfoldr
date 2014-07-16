@@ -17,7 +17,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,
-" http://www.ustream.tv/embed/18477607",台獨國際新聞,,"深夜論壇:important,預告7/20:,1500~1900:,光榮史明革命ing:",,,,
+" http://www.ustream.tv/embed/18477607",台獨國際新聞,,"7/20:,1500~1900:,光榮史明革命ing:",,,,
 " http://www.ustream.tv/embed/18062563",基進側翼,,,,,,
 " http://www.ustream.tv/embed/18245525","髒髒 公民記者",,"7/17,茄萣濕地 環評大會 1400~1600預定",,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,文源LIVE秀,,,
