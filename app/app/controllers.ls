@@ -19,7 +19,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,拒絕廉價勞動力示範區:info,文源LIVE秀,,,
 " http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,"自己的民主，自己守 自己的選票，自己顧","PENNYKEN 5/12加入",,,
-,,,,,,,
+" http://www.ustream.tv/embed/17897006",野自Live,,,"野自 台中",,,
 " https://www.youtube.com/watch?v=mD0jUV3ODnc&feature=youtu.be","7/16 GIT的develop與master-前端攻城獅的團戰攻略",,1900開始,,,,
 " http://www.ustream.tv/embed/17863662","點點 公民記者",,,點點,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,"豪豬 5/5加入",,,
