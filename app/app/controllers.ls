@@ -18,6 +18,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,
 " http://www.ustream.tv/embed/18245525","髒髒 公民記者",,"茄萣濕地 環評大會:info,1400~1600",,,,
+http://www.ustream.tv/embed/18511678,"阿至 公民記者",,,freedom123602,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,"love378297 6/28加入",,,
 " http://www.ustream.tv/embed/18103859",文森直播,,"1800~2200,與呂前副總統的晚餐會談:info","文森 6/26加入",,,
 " http://www.ustream.tv/embed/18412678","麵包 公民記者",,,,,,
