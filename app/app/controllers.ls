@@ -133,7 +133,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.appledaily.com.tw/appledaily/article/headline/20140713/35956066/%E9%83%AD%E5%86%A0%E8%8B%B1%E9%80%80%E4%BC%91%E9%87%91%E7%9C%81%E5%BA%9C%EF%BC%9A%E5%85%88%E4%B8%8D%E7%B5%A6",郭冠英爽領退休金，全民關注！,,,,,,
 ,不核作全台活動,"{""expand"": true}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,,,,
-" http://www.coolloud.org.tw/node/79352",7/17[營建署]桃園航空城再次啟動專案小組審查,,"0900~1100,台北市八德路2段342號:",,,,
 " https://www.facebook.com/events/611981975582018/","7/17[高雄市]茄萣濕地 環評大會",,"1400~1600,高雄市政府10樓第三會議室:,欣欣 髒髒直播預定:info",,,,
 " http://www.coolloud.org.tw/node/79358","7/17[活動]民進黨凍結台獨黨綱 台灣人凍結民進黨",,"1500~1700,台北市中正區青島東路5號:",,,,
 " https://docs.google.com/forms/d/1foC6mP-38GflPImg6iD2-Cp1QbR5a5Bnni8eNrqbUf0/viewform",7/17~24[樂生]暑期修繕工作坊,,"蓬萊社:,台灣新北市新莊區中正路794號:,請務必填寫，以利統計人數及保險:important,提供代訂午餐:info,將於當日統計數量及收取費用:info",,,,
