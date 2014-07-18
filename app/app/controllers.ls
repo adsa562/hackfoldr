@@ -17,7 +17,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,
-" http://www.ustream.tv/embed/18477607",台獨國際新聞,,台獨ING迅速成功5大秘訣:info,"7/20:,1500~1900:,光榮史明革命ing:",,,
+" http://www.ustream.tv/embed/18477607",台獨國際新聞,,"7/20:,1500~1900:,光榮史明革命ing:",,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,文源LIVE秀,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,"豪豬 5/5加入",,,
 " https://www.youtube.com/watch?v=Vr02tjCqGzc&feature=youtu.be",718大埔周年紀念晚會,,,,,,
