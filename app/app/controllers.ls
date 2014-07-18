@@ -17,7 +17,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,
-" http://www.ustream.tv/embed/18477607",台獨國際新聞,,"7/20:,1500~1900:,光榮史明革命ing:",,,,
+" http://www.ustream.tv/embed/18477607",台獨國際新聞,,"午間台獨論台:important,7/20:,1500~1900:,光榮史明革命ing:",,,,
 " http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,"週五1800~2100,中正紀念堂:,自由廣場前:",,,,
 " http://www.ustream.tv/embed/18308641",哲學星期五＠台中,,,,,,
 " http://www.ustream.tv/embed/17858274",台南民主店頭,,,,,,
