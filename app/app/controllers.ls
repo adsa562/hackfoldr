@@ -139,7 +139,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.appledaily.com.tw/appledaily/article/headline/20140713/35956066/%E9%83%AD%E5%86%A0%E8%8B%B1%E9%80%80%E4%BC%91%E9%87%91%E7%9C%81%E5%BA%9C%EF%BC%9A%E5%85%88%E4%B8%8D%E7%B5%A6",郭冠英爽領退休金，全民關注！,,,,,,
 ,全台活動,"{""expand"": true}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,,,,
-" https://www.facebook.com/LoveShengang","7/19[台中緊急動員]守護神岡，守護浮圳 ! ",,"0800~1000,台中神岡區浮圳路:,坐台鐵到豐原站下車:,坐91號公車到神岡圳堵:,PS.距離現場還有一大段距離:,地點在國4神岡交流道出口處:",,,,
+" https://www.facebook.com/LoveShengang","7/19[台中緊急動員]守護神岡，守護浮圳 ! ",,"0800~1000:important,台中神岡區浮圳路:,坐台鐵到豐原站下車:,坐91號公車到神岡圳堵:,PS.距離現場還有一大段距離:,地點在國4神岡交流道出口處:",,,,
 " https://docs.google.com/forms/d/1foC6mP-38GflPImg6iD2-Cp1QbR5a5Bnni8eNrqbUf0/viewform",7/17~24[樂生]暑期修繕工作坊,,"7/19 1330~1700,蓬萊社:,台灣新北市新莊區中正路794號:,請務必填寫，以利統計人數及保險:important,提供代訂午餐:info,將於當日統計數量及收取費用:info",,,,
 " https://www.facebook.com/KaohsiungCentralParkTree/photos/a.520048634773341.1073741828.519999161444955/539327982845406/?type=1",7/19[高雄護樹公聽會]守護中央公園，自己的公園自己救！,,"0930開始,高雄市立圖書館總館 中興堂:",,,,
 " https://www.facebook.com/civilmedia/photos/a.129045361879.104395.79765636879/10152534211511880/?type=1",7/19[台北講座]台灣新聞自由的危機？從資通訊安全到新聞自由,,"1400~1600,台北文創大樓6樓會議室:,臺北市信義區菸廠路88號6樓:",,,,
