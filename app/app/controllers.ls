@@ -18,7 +18,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,5/16加入,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,
 " http://www.ustream.tv/embed/17989057",哲學星期五＠台中,,"守護！彰化台鐵宿舍村保存運動:info,我們一起找回城市的歷史記憶:info",,,,
-" http://www.ustream.tv/embed/18245525","髒髒 公民記者",,高雄護樹公聽會:info,,,,
+" http://www.ustream.tv/embed/18245525","髒髒 公民記者",,,,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,"love378297 6/28加入",,,
 " http://www.ustream.tv/embed/18401148",梁文韜,,,,,,
 " http://www.ustream.tv/embed/17897006",野自Live,,,"野自 台中",,,
