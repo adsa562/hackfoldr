@@ -25,6 +25,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18103859",文森直播,,,"文森 6/26加入",,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,"阿凱 5/13加入",,,
 " http://www.ustream.tv/embed/18401148",梁文韜,,,,,,
+" http://www.ustream.tv/embed/18062563",基進側翼,,,,,,
 " http://www.ustream.tv/embed/18511952",哲學非星期五＠台中,,,,,,
 " http://www.ustream.tv/embed/17989057",哲學星期五＠台中,,,,,,
 " http://www.ustream.tv/embed/18245525","髒髒 公民記者",,,,,,
