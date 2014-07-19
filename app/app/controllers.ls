@@ -19,7 +19,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,
 " https://www.youtube.com/watch?v=l2UIV9pv_tg",與台獨面對面,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,與台獨面對面:info,"Masaru 南部實況轉播 5/9加入",,,
-,,,,,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,"love378297 6/28加入",,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,"文森 6/26加入",,,
 " https://livehouse.in/channel/yda",經貿國是會議青年辯論示範賽,,,,,,
