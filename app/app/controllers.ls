@@ -154,7 +154,7 @@ http://www.tfam.museum/Event/Event_page.aspx?ddlLang=zh-tw&id=2135&allObj=%7B%22
 " https://www.facebook.com/photo.php?fbid=480083758793609&set=a.326546650813988.1073741828.323779901090663&type=1&theater",7/19[高雄@哲五]教科書的轉型正義：歷史課綱細說從頭,,"1530~1800,高雄市鹽埕區大勇路64號2F:,新濱碼頭藝術空間:,捷運橘線鹽埕埔站1號出口右斜對面:,周婉窈 台大歷史系教授:important",,,,
 " https://www.facebook.com/photo.php?fbid=523191301141188&set=a.163357900457865.33932.100003509692968&type=1",7/19[高雄講座]與台獨面對面,,"1900~2200,蔡丁貴教授:important,高雄前鎮廣濟宮:,前鎮區中山二路217號:",,,,
 " http://eaphet.myweb.hinet.net/latest.html",7/19[屏東講座]棄民與隱蔽、福島的現在,,"1000~1200,屏東市華正路97號108室:,屏東縣托育資源中心:,古川Chikashi老師:important,東海大學日本語言文化學系:important,Eaphet台灣東亞歷史資料交流協會:important,昌子媽媽:important,來自福島避難的媽媽:important,",,,,
-" https://www.facebook.com/permalink.php?story_fbid=327757484053818&id=320272928135607",7/19[內湖南港割闌尾],,"1000~1300,東湖攤(渣打銀行旁):,1630~2000,碧湖攤:,1630~2000,東湖攤(哈拉旁中信騎樓):",,,,
+" https://www.facebook.com/permalink.php?story_fbid=327757484053818&id=320272928135607",7/19[內湖南港割闌尾],,"1000~1300,東湖攤(渣打銀行旁):,1630~2000,碧湖攤:,&東湖攤(哈拉旁中信騎樓):",,,,
 " https://www.facebook.com/events/1444150475867173/","7/19[內湖小蜜蜂] 湖頭蜂再臨─內湖夏日uBike花火祭",,"1600~1930,東湖國小ubike點集合:,臺北市內湖區東湖路133巷49弄1號:",,,,
 " https://www.facebook.com/AppendectomyDeWhip/posts/610964449011595",7/19[板橋割闌尾]林鴻池(固定擺攤),,"1730~2030,板橋車站的站前廣場:,板橋萬坪都會公園:,靠近""文化路一段""那一側:,捷運板橋站三號出口:,往文化路一段方向走:",,,,
 ,次日活動,"{""expand"": false}",,,,,
