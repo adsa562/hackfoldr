@@ -140,7 +140,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,全台活動,"{""expand"": true}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,,,,
 " https://www.facebook.com/LoveShengang","7/19[台中緊急動員]守護神岡，守護浮圳 ! ",,"0800~1000:important,台中神岡區浮圳路:,坐台鐵到豐原站下車:,坐91號公車到神岡圳堵:,PS.距離現場還有一大段距離:,地點在國4神岡交流道出口處:",,,,
-" https://www.facebook.com/KaohsiungCentralParkTree/photos/a.520048634773341.1073741828.519999161444955/539327982845406/?type=1",7/19[高雄護樹公聽會]守護中央公園，自己的公園自己救！,,"0930~1130,欣欣直播預定:info,高雄市立圖書館總館 中興堂:",,,,
+" https://www.facebook.com/KaohsiungCentralParkTree/photos/a.520048634773341.1073741828.519999161444955/539327982845406/?type=1",7/19	[高雄公聽會]中央公園需要你站出來,,"0930~1130,欣欣直播預定:info,高雄市立圖書館總館 中興堂:",,,,
 " https://docs.google.com/forms/d/1foC6mP-38GflPImg6iD2-Cp1QbR5a5Bnni8eNrqbUf0/viewform",7/17~24[樂生]暑期修繕工作坊,,"7/19 1330~1700,蓬萊社:,台灣新北市新莊區中正路794號:,請務必填寫，以利統計人數及保險:important,提供代訂午餐:info,將於當日統計數量及收取費用:info",,,,
 " https://www.facebook.com/events/520301858069718/?ref=3&ref_newsfeed_story_type=regular","7/19[綠黨]王鐘銘 競選總部成立",,"1400~2100,淡水區新市一路三段55號:",,,,
 " https://docs.google.com/forms/d/1MLxWcWGETeMbkhH57pPpmCoGecqp8CwVDCyWNf_lVqY/viewform?fbzx=7578344857076229268","7/19[台北講座] 開窗說話‧我心目中的新聞人",,"1000~1200,文化大學大新館309教室:,台北市延平南路127號:,楊伊湄:important,「新聞左左右右」節目主持人:important",,,,
