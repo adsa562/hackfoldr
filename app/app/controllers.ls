@@ -17,6 +17,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,,,,
+,,,,,,,
 " http://www.ustream.tv/embed/18477607",台獨國際新聞,,,"7/20:,1500~1900:,光榮史明革命ing:",,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,,,,
