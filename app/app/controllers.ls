@@ -29,7 +29,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18511952",哲學非星期五＠台中,,,,,,
 " http://www.ustream.tv/embed/17989057",哲學星期五＠台中,,,,,,
 " http://www.ustream.tv/embed/18245525","髒髒 公民記者",,,,,,
-" https://livehouse.in/channel/yda",經貿國是會議青年辯論示範賽,,,,,,
+" https://livehouse.in/channel/yda",教育部青年發展署,,,,,,
 " http://www.ustream.tv/embed/17897006",野自Live,,,"野自 台中",,,
 ,,,,,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,文源LIVE秀,,,
