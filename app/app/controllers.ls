@@ -127,7 +127,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,持續關注&即將發生事件,"{""expand"": false}",,,,,
 " https://www.facebook.com/aorft/posts/777770432268209","控訴國家暴力自訴案件 3/23~24尋找證人",,有些帳現在不算，以後就沒機會了！:important,,,,
 " https://www.ptt.cc/bbs/PublicIssue/M.1404310911.A.D60.html","後灣開發案 不要再被財團騙了",,"線上連署:important,結束時間未定:info",,,,
-" http://udn.com/NEWS/MAINLAND/MAI1/8811559.shtml","7/18和展影視董事長徐嘉森 遭陸限制出境",,,,,,
+" http://www.chinatimes.com/newspapers/20140719000427-260108","7/19徐嘉森遭限制出境 海基會聘台籍律師協助",,,,,,
 " https://www.facebook.com/vivian.chang.18041/posts/10152368592518022","8/2桃園 五千坪客家老宅即將變廢墟",,,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,,,,
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,,,,
