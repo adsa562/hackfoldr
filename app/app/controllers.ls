@@ -19,7 +19,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,6/19新增,,,
 " http://www.ustream.tv/embed/18245525","髒髒 公民記者",,高雄護樹公聽會:info,,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,"love378297 6/28加入",,,
-" http://www.ustream.tv/embed/18401148",音地大帝,,"七一遊行前後 香港的變化",,,,
+" http://www.ustream.tv/embed/18401148",音地大帝,,"七一遊行前後 香港的變化:info",,,,
 " http://www.ustream.tv/embed/17897006",野自Live,,"台中 守護神岡 守護浮圳:info","野自 台中",,,
 " http://www.ustream.tv/embed/18477607",台獨國際新聞,,"7/20:,1500~1900:,光榮史明革命ing:",,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,文源LIVE秀,,,
