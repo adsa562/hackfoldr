@@ -17,6 +17,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,,,,
+" https://www.youtube.com/watch?v=UdJ64ko8hsg&feature=youtu.be",與台獨面對面,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,與台獨面對面:info,,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,"法輪功 凱道前靜坐:info",,,,
