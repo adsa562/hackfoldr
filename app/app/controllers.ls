@@ -18,7 +18,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,,,,
 " http://www.ustream.tv/embed/17513092",拖鞋直播-1,,經濟自由化與台灣糧食主權狀況:info,,,,
-" http://www.ustream.tv/embed/18103859",文森直播,,"反對北宜直鐵 街頭開講",,,,
+" http://www.ustream.tv/embed/18103859",文森直播,,"反對北宜直鐵 街頭開講:info",,,,
 " https://livehouse.in/channel/yda",教育部青年發展署,,"LIVE,經貿國是會議青年World Café論壇:info",,,,
 " http://www.ustream.tv/embed/17640717","人民民主陣線 人民議會",,"小孩好動/視力不良，是病？不是病？:info,爸媽睜大眼，里民監督作伙來:info",週六1900~2200:,,,
 http://www.ustream.tv/embed/17551115,"蜂潮 再起",,,,,,
