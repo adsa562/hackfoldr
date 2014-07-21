@@ -18,7 +18,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"7/26:,1800~2200:,台獨史明革命ing:info",,,,
-" http://www.ustream.tv/embed/17948037","豪豬 公民記者",,台中浮圳:info,,,,
+" http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
 " http://www.ustream.tv/embed/18385635",阿弘直播台,,,,,,
 " http://www.ustream.tv/embed/18469624",二次自經區溝通會,,"7/24 國際健康: info,1830開始:,7/31 農業加值: info,8/4 教育創新: info",,,,
