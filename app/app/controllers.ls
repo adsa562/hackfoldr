@@ -14,7 +14,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://chrome.google.com/webstore/detail/livetw/fhcffinobmpdchcoapdeoinhdmlihiok",Chrome：,"{""target"":""_blank""}",新分頁:issue,,,,
 " https://play.google.com/store/apps/details?id=com.g0v.live",Android：,"{""target"":""_blank""}",新分頁:issue,,,,
 " http://inlivetw.github.io/chrome/",Web：,,新版:important,,,,
-,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
+,"7/24 行政院 各部會 專區","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"7/26:,1800~2200:,台獨史明革命ing:info",,,,
