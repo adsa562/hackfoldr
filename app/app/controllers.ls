@@ -31,7 +31,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
 " http://www.ustream.tv/embed/18109047","新竹蕾拉 公民記者",,,,,,
 " https://livehouse.in/channel/yda",教育部青年發展署,,,,,,
-" http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,,,,,
+" http://www.ustream.tv/embed/17157275","教育部 青年發展署",,,,,,
 " http://www.ustream.tv/embed/17551115","蜂潮 再起",,,,,,
 " http://www.ustream.tv/embed/18200914",直樹Live頻道,,,,,,
 " http://www.ustream.tv/embed/18401148",梁文韜,,,,,,
