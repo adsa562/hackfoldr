@@ -22,7 +22,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18385635",阿弘直播台,,,,,,
 " http://www.ustream.tv/embed/18469624",二次自經區溝通會,,"7/21 總體政策:info,1830開始,7/24 國際健康: info,7/31 農業加值: info,8/4 教育創新: info",,,,
 " https://www.youtube.com/watch?v=adFNN0dgsEY",二次自經區溝通會,,1830~2000:info,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"7/26:,1800~2200:,台獨史明革命ing:info",,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"7/26:,1800~2200:,台獨史明革命ing:info",做台獨，跟睡眠品質良好的關係！,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
 " https://www.youtube.com/watch?v=UdJ64ko8hsg&feature=youtu.be",7/20與台獨面對面,,,,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,,,,
