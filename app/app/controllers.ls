@@ -24,7 +24,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.youtube.com/watch?v=adFNN0dgsEY",二次自經區溝通會,,1830~2000:info,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"7/26:,1800~2200:,台獨史明革命ing:info",,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
-" https://www.youtube.com/watch?v=UdJ64ko8hsg&feature=youtu.be",與台獨面對面,,,,,,
+" https://www.youtube.com/watch?v=UdJ64ko8hsg&feature=youtu.be",7/20與台獨面對面,,,,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,,,,
 " http://www.ustream.tv/embed/17513092",拖鞋直播-1,,,,,,
