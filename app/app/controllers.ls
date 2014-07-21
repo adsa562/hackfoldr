@@ -118,7 +118,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,過往直播,"{""expand"":false} ",,,,,
 " https://www.youtube.com/watch?v=jhBebtXaIC8"," 蘋果LIVE[直擊現場]香港七一遊行",,,,,,
 http://www.ustream.tv/recorded/45245933,行政院機動組2,,,,,,
-http://www.youtube.com/embed/iFNS5umx3Uo,壹電視,,,,,,
 " https://www.youtube.com/watch?v=HwhE9nKcWdQ",壹電視,,,,,,
 http://www.youtube.com/embed/mXp2iD8QxvE,"濟南路 (g0v)",,,,BITCHDOG,lee,
 http://www.youtube.com/embed/sHKXPgq19xg,"議場內 1F (音地) ",,,,indietaiwan,,
