@@ -35,7 +35,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week","鄉民日報 事件列表",,,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"7/22:important,2330開始,台獨ING:info,深入中共發現台獨會成功分享:info","7/26:,1800~2200:,台獨史明革命ing:info",,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"7/22:important,2400開始,台獨ING:info,深入中共發現台獨會成功分享:info","7/26:,1800~2200:,台獨史明革命ing:info",,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,,,,
 " http://www.ustream.tv/embed/17897006",野自Live,,,,,,
