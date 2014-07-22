@@ -38,7 +38,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17897006",野自Live,,台中:info,,,,
 " http://www.ustream.tv/embed/17863662","點點 公民記者",,,,,,
 " http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"7/22:important,2300開始,台獨ING:info,連中國覺醒的人民都支持的證據:info","7/26:,1800~2200:,台獨史明革命ing:info",,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"7/22:important,2300開始,台獨ING:info,深入中共發現台獨會成功分享:info","7/26:,1800~2200:,台獨史明革命ing:info",,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,"7/22:important,1900~2100,被誇大的中韓FTA衝擊:info",,,,
 " http://www.ustream.tv/embed/18385635",阿弘直播台,,,,,,
