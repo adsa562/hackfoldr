@@ -40,6 +40,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://livehouse.in/channel/watchout",【沃草直播室】,,,,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,"1900~2100,自己的都市自己更:info,公民自主都更的實踐:info",,,,
 " http://www.ustream.tv/embed/17733674","jackywolf 公民記者",,"樹在 我就在 如果春天不再來:info",,,,
+" http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,,,,
 " http://www.ustream.tv/embed/17897006",野自Live,,,,,,
 " http://www.ustream.tv/embed/17863662","點點 公民記者",,,,,,
