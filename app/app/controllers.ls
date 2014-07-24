@@ -36,7 +36,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week",鄉民曆,,,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"大約2300,深夜談@台獨國際新聞:info,一中虛幻矩陣 VS 台獨現實:info","7/26:,1800~2200:,台獨史明革命ing:info",,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"大約2300,深夜談@台獨國際新聞:info,駭客任務＆台獨成功的關係:info","7/26:,1800~2200:,台獨史明革命ing:info",,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,"大約2300,深夜論壇:info",,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
 " http://www.ustream.tv/embed/17733674","jackywolf 公民記者",,,,,,
