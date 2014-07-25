@@ -95,7 +95,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/14603849",台灣民政府2,,,,,,
 " http://www.ustream.tv/embed/18445690",penghuyouth,,,,,,
 " http://www.ustream.tv/embed/16630308","Indie Love",,,,,,
-" http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,"週五1800~2100:,中正紀念堂:,自由廣場前:",,,,
 " http://www.ustream.tv/embed/18123294","週五 太陽花講習會",,"活動暫停:,週五1900~2100:,中正紀念堂:,國家劇院前:",,,,
 " http://www.ustream.tv/embed/17640717","人民民主陣線 人民議會",,週六1900~2200:,,,,
 " http://www.ustream.tv/embed/18506067","Mayaman 社運紀實",,"7/26:,1400~1800:,社運紀實口述歷史2/3:",,,,
