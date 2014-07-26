@@ -38,7 +38,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week",鄉民曆,,,,,,
 http://www.ustream.tv/embed/3526833,公視新聞網,,民間版模擬陪審法庭：性侵疑雲:info,,,,
-" http://www.ustream.tv/embed/17897006",野自Live,,,,,,
+" http://www.ustream.tv/embed/17897006",野自Live,,"布農族不滿台大把檜木拿走 爭議再起:info",,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,蜂鳥快閃in公館:info,,,,
 " http://www.ustream.tv/embed/18506067","Mayaman 社運紀實",,"社運紀實口述歷史2/3:info,1400~1800",,,,
 http://zh-tw.justin.tv/pnnpts,"公視新聞網 justin.tv",,,,,,
