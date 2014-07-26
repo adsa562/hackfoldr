@@ -26,6 +26,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://livehouse.in/channel/watchout",【沃草直播室】,,,,,,
 " https://livehouse.in/channel/watchout2",【沃草直播室2】,,,,,,
 " https://docs.google.com/forms/d/1yLABTGJpTcSP5l4OjUdD_Pew_NL0lzlVVqG2HVwNQDc/viewform","7/31[國發會 台北溝通會]示範區深度溝通#3農業加值",,"1830~2000,台灣台北市大安區光復南路102號:,近捷運國父紀念館站5號出口:,YOUR SPACE:",,,,
+,,,"8/4[國發會 台北溝通會]示範區深度溝通#4教育創新",,,,
 " http://www.appledaily.com.tw/livechannel/subject/37","7/31蘋果LIVE 二次自經區溝通會",,,,,,
 " https://www.youtube.com/watch?v=edJMUgFsBi8","7/31二次自經區溝通會 農業加值",,,,,,
 " https://www.youtube.com/watch?v=qy_pxqFczgY","8/4二次自經區溝通會 教育創新",,,,,,
