@@ -37,7 +37,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week",鄉民曆,,,,,,
-http://www.ustream.tv/embed/3526833,公視新聞網,,,,,,
+http://www.ustream.tv/embed/3526833,公視新聞網,,民間版模擬陪審法庭：性侵疑雲:info,,,,
 http://zh-tw.justin.tv/pnnpts,"公視新聞網 justin.tv",,,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"7/26:,1800~2200:,台獨史明革命ing:info",,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,,,,
