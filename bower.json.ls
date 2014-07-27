@@ -22,6 +22,8 @@ overrides:
     dependencies: jquery: "*"
   "angular-mocks":
     main: "README.md"
+  "jquery":
+    main: "jquery.js"
   # FIX a typo in bootstrap-stylus 2.3.2
   "bootstrap-stylus":
     main:

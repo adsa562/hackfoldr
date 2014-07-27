@@ -123,7 +123,6 @@ require! <[gulp-filter gulp-bower main-bower-files gulp-stylus gulp-csso]>
 gulp.task 'bower' -> gulp-bower!
 
 gulp.task 'js:vendor' <[bower]> ->
-  console.log main-bower-files!
   bower = gulp.src(main-bower-files!)
     .pipe gulp-filter (.path is /\.js$/)
 

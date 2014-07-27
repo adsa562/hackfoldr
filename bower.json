@@ -28,11 +28,11 @@
         "jquery": "*"
       }
     },
-    "jquery": {
-      "main": "jquery.min.js"
-    },
     "angular-mocks": {
       "main": "README.md"
+    },
+    "jquery": {
+      "main": "jquery.js"
     },
     "bootstrap-stylus": {
       "main": [
