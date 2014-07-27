@@ -119,11 +119,12 @@ gulp.task 'js:app' ->
     .pipe gulp-if production, gulp-uglify!
     .pipe gulp.dest "#{paths.pub}/js"
 
-require! <[gulp-filter gulp-bower gulp-bower-files gulp-stylus gulp-csso]>
+require! <[gulp-filter gulp-bower main-bower-files gulp-stylus gulp-csso]>
 gulp.task 'bower' -> gulp-bower!
 
 gulp.task 'js:vendor' <[bower]> ->
-  bower = gulp-bower-files!
+  console.log main-bower-files!
+  bower = gulp.src(main-bower-files!)
     .pipe gulp-filter (.path is /\.js$/)
 
   s = streamqueue { +objectMode }
@@ -136,10 +137,10 @@ gulp.task 'js:vendor' <[bower]> ->
 gulp.task 'css' <[bower]> ->
   vendor = gulp.src paths.css-vendor
 
-  bower = gulp-bower-files!
+  bower = gulp.src(main-bower-files!)
     .pipe gulp-filter (.path is /\.css$/)
 
-  bower-styl = gulp-bower-files!
+  bower-styl = gulp.src(main-bower-files!)
     .pipe gulp-filter (.path is /\.styl$/)
     .pipe gulp-stylus use: <[nib]>
 

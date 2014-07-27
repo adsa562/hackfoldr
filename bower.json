@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "commonjs-require-definition": "~0.1.2",
-    "jquery": "1.8.2",
+    "jquery": "1.9.x",
     "angular": "1.2.4",
     "angular-cookies": "1.2.4",
     "angular-animate": "1.2.4",
@@ -27,6 +27,9 @@
       "dependencies": {
         "jquery": "*"
       }
+    },
+    "jquery": {
+      "main": "jquery.min.js"
     },
     "angular-mocks": {
       "main": "README.md"

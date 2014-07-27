@@ -1,4 +1,4 @@
-const CONST_CSV = """
+const CONST_CSV = '''
 ,反黑箱服貿協議・守護民主日與夜,,,"g0v.today 每 3 分鐘更新",,,
 http://newday.tw/intro/,讓晨曦照亮民主,,守護民主手環:important,,,,
 http://ecfa.speaking.tw/,服貿跑馬燈,"{""expand"":false} ",,"更新前請 *務必* 先刷新整頁試算表再改，感謝！",,,
@@ -255,7 +255,7 @@ http://www.peoplenews.tw/preview/668da050-c323-4b35-a797-80ac798a0d8c,"8/3[立�
 ,連結彙集平台,"{""expand"":false} ",,,,,
 " http://time-fumao.rhcloud.com/",太陽花怪獸,,,,,,
 " http://news.anon.tw",台灣大補帖＃fumao.tw,,,,,,
-"""
+'''
 
 angular.module 'app.controllers' <[ui.state ngCookies]>
 .controller AppCtrl: <[$scope $window $state $rootScope $timeout]> ++ ($scope, $window, $state, $rootScope, $timeout) ->
