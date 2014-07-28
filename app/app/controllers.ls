@@ -36,7 +36,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&mode=week",鄉民曆,,,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,,,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"史明手繪漫畫說台灣人400年史:info,2330開始",,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
 " http://www.ustream.tv/embed/17897006",野自Live,,,,,,
