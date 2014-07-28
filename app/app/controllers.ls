@@ -23,7 +23,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.appledaily.com.tw/livechannel/nationalmeeting02",蘋果LIVE經貿國是會議2,,,,,,
 " https://www.youtube.com/channel/UCqxZB7eJ34jf0rZUS_1LUAg","行政院 國發會 國是會議直播小組 Youtube過往直播","{""target"":""_blank""}",新分頁:issue,,,,
 " https://www.youtube.com/channel/UCfgXJRfOL1vek3YFw2QmJ5A","行政院 國發會 國是會議直播小組２ Youtube過往直播","{""target"":""_blank""}",新分頁:issue,,,,
-" https://docs.google.com/forms/d/1yLABTGJpTcSP5l4OjUdD_Pew_NL0lzlVVqG2HVwNQDc/viewform","7/31 [國發會 台北溝通會]示範區深度溝通#3農業加值",,"1830~2000,台灣台北市大安區光復南路102號:,近捷運國父紀念館站5號出口:,YOUR SPACE:",,,,
+" https://docs.google.com/forms/d/1yLABTGJpTcSP5l4OjUdD_Pew_NL0lzlVVqG2HVwNQDc/viewform","7/31[國發會 台北溝通會] 示範區深度溝通#3農業加值",,"1830~2000,台灣台北市大安區光復南路102號:,近捷運國父紀念館站5號出口:,YOUR SPACE:",,,,
 " http://www.appledaily.com.tw/livechannel/subject/37","7/31蘋果LIVE 二次自經區溝通會",,,,,,
 " https://www.youtube.com/watch?v=edJMUgFsBi8","7/31二次自經區溝通會 農業加值",,,,,,
 " https://www.youtube.com/watch?v=qy_pxqFczgY","8/4二次自經區溝通會 教育創新",,,,,,
