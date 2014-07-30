@@ -33,7 +33,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.appledaily.com.tw/livechannel/nationalmeeting02",蘋果LIVE經貿國是會議2,,,,,,
 " https://www.youtube.com/channel/UCL39yxKnDTvz97uvs4hiYRQ/feed","行政院 金管會 Youtube過往直播","{""target"":""_blank""}",,,,,
 " https://livehouse.in/channel/yda","教育部 青年發展署",,,,,,
-,立法院事件,"{""expand"":false}",,,,,
+,"8/1 立法院事件","{""expand"":false}",,,,,
 " https://www.facebook.com/tingkuei.tsay/posts/664738616944698",7/28~8/8二次臨時會已排入自經區審議,,備戰通知:important,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingView.action?id=63420&atcid=63420","8/1 8/5[立法院]2次臨時會 院會",,,,,,
