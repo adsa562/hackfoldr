@@ -36,7 +36,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,立法院事件,"{""expand"":true}",,,,,
 " https://www.facebook.com/tingkuei.tsay/posts/664738616944698",7/28~8/8二次臨時會已排入自經區審議,,備戰通知:important,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,,,,
-" http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingView.action?id=63402",7/30[立院][內政]公職人員選罷法修正案,," 結束",,,,
+" http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingView.action?id=63402",7/30[立院][內政]公職人員選罷法修正案,," 結束:",,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingView.action?id=63380",7/30[立院][經濟]漢翔航空民營、釋股案,,0900~1730,,,,
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,,,,
 " http://musou.tw/schedules","沃草國會無雙 賽事預報","{""target"":""_blank""}",,,,,
