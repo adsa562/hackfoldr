@@ -49,6 +49,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
 " http://www.ustream.tv/embed/17696763",桃園航空城反迫遷記者會,,"1000開始,立法院中興樓:info",,,,
 " http://www.ustream.tv/embed/18597273",踐踏民主面對審判暴力首謀江宜樺下台,,,,,,
+" http://www.appledaily.com.tw/livechannel/archive/43/275/1",7/30雞排妹VS楊伊湄重播,,,,,,
 " http://www.ustream.tv/embed/6065521",PTTradio,,,,,,
 " http://www.ustream.tv/embed/17941896",yokulive公民記者,,,,,,
 " http://www.ustream.tv/embed/6203014","frangi33 公民記者",,,,,,
