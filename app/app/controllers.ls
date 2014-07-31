@@ -39,7 +39,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingView.action?id=63420&atcid=63420","8/1 8/5[立法院]2次臨時會 院會",,,,,,
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,,,,
 " http://musou.tw/schedules","沃草國會無雙 賽事預報","{""target"":""_blank""}",,,,,
-" http://musou.tw/live_streams/114","8/1 沃草|國會無雙【院會】兩岸協議監督條例","{""target"":""_blank""}",,,,,
+" http://musou.tw/live_streams/114","8/1 沃草|國會無雙【院會】兩岸協議監督條例","{""target"":""_blank""}",0900~1800,,,,
 " http://www.ustream.tv/embed/17012502","沃草國會無雙 第一競技場",,,,,,
 " http://www.ustream.tv/embed/17401996","沃草國會無雙 第二競技場",,,,,,
 " http://www.ustream.tv/embed/17989031","沃草國會無雙 第三競技場",,,,,,
