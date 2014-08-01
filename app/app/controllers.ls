@@ -81,7 +81,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18506067","Mayaman 社運紀實",,,,,,
 " http://zh-tw.justin.tv/pnnpts","公視新聞網 justin.tv",,,,,,
 " http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,,,,,
-,,,,,,,
+" http://www.ustream.tv/embed/18608702",哲學星期五＠台北,,,,,,
 " http://www.ustream.tv/embed/17989057",哲學星期五＠台中,,,,,,
 " http://www.ustream.tv/embed/18385635",阿弘直播台,,,,,,
 " http://www.ustream.tv/embed/18530557",鄉民email,,,,,,
