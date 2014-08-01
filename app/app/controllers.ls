@@ -222,7 +222,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,次日活動,"{""expand"": false}",,,,,
 " https://docs.google.com/forms/d/1MLxWcWGETeMbkhH57pPpmCoGecqp8CwVDCyWNf_lVqY/viewform?fbzx=7578344857076229268",8/2[台北講座]共生或消解?從《苦勞網》與蘋果的合作經驗談起,,"1000~1200,文化大學大新館309教室:,台北市延平南路127號:,孫窮理:important,《苦勞網》創辦人:important",,,,
 " https://www.facebook.com/events/1520705714816170/?ref=4",8/2[台北講座]從統獨談民主憲政基本概念,,"1400~1600,荒漠甘泉:,羅斯福路三段316巷18號:,姚立明:important",,,,
-,,,,,,,
+" https://www.facebook.com/photo.php?fbid=533848406742144&set=a.163357900457865.33932.100003509692968&type=1&theater",8/2[彰化講座]與台獨面對面,,,,,,
 ,,,,,,,
 " https://www.facebook.com/permalink.php?story_fbid=261374237391889&id=253456431517003","(活動延期)8/3[立法院旁濟南路]「去年覺醒 今年行動」晚會",," 時間未定",,,,
 " https://www.facebook.com/events/595352340577297/?ref=3&ref_newsfeed_story_type=regular",8/3[國防部抗議]軍冤案沉冤未雪,,"1800~2000,路過國防部:",,,,
