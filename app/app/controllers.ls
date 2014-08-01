@@ -10,7 +10,7 @@ http://ecfa.speaking.tw/,服貿跑馬燈,"{""expand"":false} ",,"更新前請 *�
 " http://appy.tw/",割闌尾計畫,"{""target"": ""_blank""} ",罷免連署:important,,,,
 http://nonuke.today/,停建核四、遍地烽火全記錄,"{""target"":""_blank""}",新分頁:,,,,
 http://hackfoldr.org/resistancelive/,香港7.1遊行暨後續活動現場直播,"{""target"":""_blank""}",新分頁:,,,,
-http://hackfoldr.org/1WVWrKC-Tbry3ltgouQPpZH2Cd2HkKeZ8DjLs4PWa1z4,8/1高雄氣爆救災資訊,"{""target"":""_blank""}",新分頁:important,,,,
+" http://hackfoldr.org/Kaohsiung-explode-20140801",8/1高雄氣爆救災資訊,"{""target"":""_blank""}",新分頁:important,,,,
 http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":true}",,,,,
 " https://chrome.google.com/webstore/detail/livetw/fhcffinobmpdchcoapdeoinhdmlihiok",Chrome：,"{""target"":""_blank""}",新分頁:issue,,,,
 " https://play.google.com/store/apps/details?id=com.g0v.live",Android：,"{""target"":""_blank""}",新分頁:issue,,,,
