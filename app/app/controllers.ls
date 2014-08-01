@@ -37,7 +37,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"8/4 立法院事件","{""expand"":false}",,,,,
 " https://www.facebook.com/tingkuei.tsay/posts/664738616944698",7/28~8/8二次臨時會已排入自經區審議,,備戰通知:important,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,,,,
-" http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingView.action?id=63460&atcid=63460",8/4[立院經濟]自由經濟示範區特別條例草案,,0900~1730?,,,,
+" http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingView.action?id=63460&atcid=63460",8/4[立院經濟]自由經濟示範區特別條例草案,,0900~1730？？,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingView.action?id=63421&atcid=63421","8/5[立法院]2次臨時會 院會",,,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingView.action?id=63442&atcid=63442","8/5[立院程序]2次臨時會 第3次會議議事日程",,"1200~1400,召委 吳委員育昇:info",,,,
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,,,,
