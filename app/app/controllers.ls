@@ -51,7 +51,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"高雄氣爆與統獨的關係:info,2300開始",,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,踏訪松菸／百日晚會,,,,
-" https://www.youtube.com/watch?v=5yc6DzlTngw#t=14384",g0v第五次萌典松,,1700成果發表:info,,,,
+" https://www.youtube.com/watch?v=5yc6DzlTngw#t=14384",g0v第五次萌典松,,"1530短講:info,1700成果發表:info",,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,"高雄 被誇大的中韓FTA衝擊:info",,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,,,,
