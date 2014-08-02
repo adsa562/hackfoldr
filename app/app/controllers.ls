@@ -58,7 +58,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18296345",用人權改變你的生活──身心障礙者的自我倡議讀書會,,,,,,
 " http://www.ustream.tv/embed/14787921",公民之聲,,,,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,,,,
-" http://www.ustream.tv/embed/18103859",文森直播,,,,,,
 " http://www.ustream.tv/embed/6065521",PTTradio,,,,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,,,,,
