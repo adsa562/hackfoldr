@@ -129,7 +129,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18608702",哲學星期五＠台北,,,,,,
 " http://www.ustream.tv/embed/17989057",哲學星期五＠台中,,,,,,
 " http://www.ustream.tv/embed/18123294","週五 太陽花講習會",,"活動暫停:,週五1900~2100:,中正紀念堂:,國家劇院前:",,,,
-" http://www.ustream.tv/embed/17640717","人民民主陣線 人民議會",,週六1900~2200:,,,,
+" http://www.ustream.tv/embed/17640717","人民民主陣線 人民議會",,,,,,
 " http://www.ustream.tv/embed/17569549","g0v 1號機",,,,,,
 " http://www.ustream.tv/embed/17557850","g0v 2號機",,,,,,
 " http://www.ustream.tv/embed/17680676","g0v 3號機",,,,,,
