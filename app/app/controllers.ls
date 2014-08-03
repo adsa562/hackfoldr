@@ -55,7 +55,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,"郭台銘＆白狼＆陳光標:info,簽署民間兩岸和平協議:info",,,,
 " http://www.ustream.tv/embed/18412678","麵包 公民記者",,,,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,,,,
-,,,,,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,,,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,,,,
 " https://www.youtube.com/watch?v=77gBWYxxGwg",8/2[彰化講座]與台獨面對面,,,,,,
