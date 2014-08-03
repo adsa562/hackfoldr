@@ -49,7 +49,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"2400~2500,深夜談@台灣獨立的破口處:info",,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@台灣獨立的破口處:info,2400~2500",,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
 " https://www.youtube.com/watch?v=nk1wej9k9Cg","8/3台中 與台獨面對面",,,,,,
 " https://www.youtube.com/watch?v=CX7m9eyl3UE","8/3台中 與台獨面對面",,,,,,
