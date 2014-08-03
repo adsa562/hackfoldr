@@ -49,7 +49,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"1900~2100,史明ing＠台獨面對面:info,史明部分only有即時翻譯:important",,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"1900~2100,史明ing＠台獨面對面:info,史明部分only有同步口譯:important",,,,
 " https://www.youtube.com/watch?v=nk1wej9k9Cg","8/3台中 與台獨面對面",,"1800~2200開始,史明:important,蔡丁貴:important",,,,
 " http://www.ustream.tv/embed/17969826","飛魚台 南部實況",,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,"郭台銘＆白狼＆陳光標:info,簽署民間兩岸和平協議:info",,,,
