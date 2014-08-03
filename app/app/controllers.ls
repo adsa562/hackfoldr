@@ -229,8 +229,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/events/735071376532010/?ref=3&ref_newsfeed_story_type=regular","8/23~8/25[美國華盛頓]2014 FAPA YPG National Advocacy Conference",,,,,,
 " http://www.accupass.com/event/register/443138588427426","8/28[台北演講]博雅青年講堂 從媒體到公民記者",,"1800~2100,客家文化會館:,大安區信義路三段157巷11號4F:",,,,
 " https://www.facebook.com/events/791984067512536#_=_","8/30[台北活動]破窗而入 抗爭演習工作坊",,"1400~1700,關渡美術館:",,,,
-" http://www.accupass.com/event/register/443138588427426","8/28[台北演講]博雅青年講堂 從媒體到公民記者",,"1800~2100,客家文化會館:,大安區信義路三段157巷11號4F:",,,,
-" https://www.facebook.com/events/791984067512536#_=_","8/30[台北活動]破窗而入 抗爭演習工作坊",,"1400~1700,關渡美術館:",,,,
 ,文字轉播專區,"{""expand"":false} ",,,,,
 " http://ncc.nctu.pro/","服貿討論 (交大)",,,,,,
 " https://ethercalc.org/static/proxy/hackpad/","文字轉播 (主要) ",,,,,,
