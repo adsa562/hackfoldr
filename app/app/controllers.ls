@@ -48,7 +48,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,"2200~2300,我們的島 高雄氣爆事件特別報導:info",,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"張慶恩做台獨建國的挫折感？:info,2330~2430",,,,
-" http://www.ustream.tv/embed/14787921",公民之聲,,"華文朗讀節 這一夜 客語朗讀 林生祥 鍾永豐",,,,
+" http://www.ustream.tv/embed/14787921",公民之聲,,"華文朗讀節 這一夜 客語朗讀:info,林生祥:important,鍾永豐:important",,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
 " http://www.ustream.tv/embed/17969826","飛魚台 南部實況",,,,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
