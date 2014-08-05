@@ -31,6 +31,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://livehouse.in/channel/yda","教育部 青年發展署",,,,,,
 ,"8/6 立法院事件","{""expand"":false}",,,,,
 " https://www.facebook.com/tingkuei.tsay/posts/664738616944698",7/28~8/8二次臨時會已排入自經區審議,,備戰通知:important,,,,
+" https://www.facebook.com/antiblacktw/photos/a.505081519562694.1073741830.503119123092267/690228094381368","8/6[群賢樓動員]臨時會庭審自經區 經濟部官員回去工作",,"0945開始,立法院群賢樓前:",,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingView.action?id=63510&atcid=63510",8/6[經濟委員會]「自由經濟示範區特別條例草案」（逐條審查）,,"0900~1730？,黃召集委員昭順:important",,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingView.action?id=63511&atcid=63511",8/7[經濟委員會]「自由經濟示範區特別條例草案」（逐條審查）,,"0900~1730？,黃召集委員昭順:important",,,,
