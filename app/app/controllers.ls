@@ -29,7 +29,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.appledaily.com.tw/livechannel/nationalmeeting02",蘋果LIVE經貿國是會議2,,,,,,
 " https://www.youtube.com/channel/UCL39yxKnDTvz97uvs4hiYRQ/feed","行政院 金管會 Youtube過往直播","{""target"":""_blank""}",,,,,
 " https://livehouse.in/channel/yda","教育部 青年發展署",,,,,,
-,"8/7 立法院事件","{""expand"":false}",,,,,
+,"8/6 立法院事件","{""expand"":true}",,,,,
 " http://www.ustream.tv/embed/17823792","民報直播 立法院OnLine",,"1000開始,蔡正元記者會<直播>:info",,,,
 " https://www.facebook.com/tingkuei.tsay/posts/664738616944698",7/28~8/8二次臨時會已排入自經區審議,,備戰通知:important,,,,
 " https://www.facebook.com/antiblacktw/photos/a.505081519562694.1073741830.503119123092267/690228094381368","8/6[群賢樓動員]臨時會庭審自經區 經濟部官員回去工作",,"0945開始,立法院群賢樓前:",,,,
