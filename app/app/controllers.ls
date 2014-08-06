@@ -181,6 +181,8 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/Save110YearsTaipeiPrison/photos/a.248468998684401.1073741831.247895508741750/268016093396358/?type=1",[全國活動]搶救台北刑務所北官舍與台灣第一菊元百貨,,,,,,
 " https://www.facebook.com/Save110YearsTaipeiPrison/posts/272260729638561",致電守護瀕危的百年台北刑務所,,打電話給立委們:info,,,,
 " http://www.van698.com/thread-157668-1-1.html",鼓勵檢舉賄選要點,,,,,,
+" https://www.facebook.com/Save110YearsTaipeiPrison/posts/272260729638561",致電守護瀕危的百年台北刑務所,,打電話給立委們:info,,,,
+" http://www.van698.com/thread-157668-1-1.html",鼓勵檢舉賄選要點,,,,,,
 ,全台活動,"{""expand"":false}",,,,,
 " http://ccw.kktix.cc/events/8-5","8/9[台北活動]公督盟 公民評鑑立委活動#2","{""target"":""_blank""}","需預先報名:info,0900~1200,1330~1630,南華高中:",,,,
 " http://www.coolloud.org.tw/node/79613","8/7[環保署]反對修正「開發行為環境影響評估 作業準則部分條文修正草案」",,"0900開始,環保署4樓第5會議室:,中正區中華路一段83號:",,,,
