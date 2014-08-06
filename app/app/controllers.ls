@@ -37,6 +37,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingView.action?id=63511&atcid=63511",8/7[經濟委員會]「自由經濟示範區特別條例草案」（逐條審查）,,"0900~1730？,黃召集委員昭順:important",,,,
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,,,,
 " http://musou.tw/schedules","沃草國會無雙 賽事預報","{""target"":""_blank""}",,,,,
+" https://livehouse.in/channel/watchout",【沃草直播室】,," 穿越藍畫面 現場畫面",,,,
 " http://musou.tw/live_streams/116","8/6 沃草|國會無雙【經濟等三委員會】自經區大戰","{""target"":""_blank""}",,,,,
 " http://www.ustream.tv/embed/17012502","沃草國會無雙 第一競技場",,,,,,
 " http://www.ustream.tv/embed/17401996","沃草國會無雙 第二競技場",,,,,,
