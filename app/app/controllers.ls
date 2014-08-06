@@ -54,7 +54,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,,,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,,,,
-,,,,,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,,,,,
 " http://www.ustream.tv/embed/17863662","點點 公民記者",,,,,,
 " http://www.ustream.tv/embed/18412678","麵包 公民記者",,,,,,
