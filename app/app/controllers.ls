@@ -45,7 +45,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
-" https://www.youtube.com/watch?v=oc-vYcnhgSE","募款大腸花 假紅十字會郵票義賣晚會",,LIVE,,,,
+" https://www.youtube.com/watch?v=oc-vYcnhgSE","募款大腸花 假紅十字會郵票義賣晚會",,,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,," 深夜談@世界大戰，台獨份子怎麼辦:info,2330~2430",,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
