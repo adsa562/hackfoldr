@@ -46,7 +46,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,核四公投公聽會:info,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,1240台獨午間新聞:info,,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,高雄災區勘查:info,,,,
 " http://www.ustream.tv/embed/18245525","髒髒 公民記者",,高雄中央公園護樹:info,,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,,,,
