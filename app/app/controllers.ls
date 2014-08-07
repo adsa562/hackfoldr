@@ -208,7 +208,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/photo.php?fbid=343098075841105&set=a.102591343225114.6915.100004227453348&type=1&fref=nf","[台中座談]台獨成功ING的11堂課#4 特務 女特務 滲透分化",,"1800~2100,Art&Anew:,台中市精誠五街32號:,低消100:info",,,,
 " https://www.facebook.com/antiblacktw/posts/690558287681682",8/7[台北活動]「自經區是服貿貨貿後門條款/論述與行動」討論會,,"1900~2100,慕哲咖啡:,台灣紹興北街3號:,賴中強律師:important,反黑箱服貿民主陣線召集人:important",,,,
 " https://docs.google.com/forms/d/1WU1aeVnlAC9lg_SxrdGeeE8bOXLeGMCeewdKyc55WBo/viewform",8/7[台北讀書會]《我無罪》電影《以父之名》原著,,"1900~2100,平冤辦公室:,民權東路二段26號10F-2:,近捷運中山國小站3號出口:,邱顯智律師:important,平冤義務律師:important,台灣人權促進會會長:important,",,,,
-" https://www.facebook.com/a102579/posts/898326140183539",8/7[台北新書]《學運世代》新書系列講座,,"2000~2100,誠品台大店3F藝文空間:,新生南路三段98號:,何榮幸:important,陳為廷:important",,,,
+" https://www.facebook.com/a102579/posts/898326140183539",8/7[台北新書]《學運世代》新書系列講座,,"2000~2100,何榮幸:important,陳為廷:important,誠品台大店3F藝文空間:,新生南路三段98號:",,,,
 ,次日活動,"{""expand"": false}",,,,,
 " https://www.facebook.com/pttcitizen1985/photos/a.307121876091884.1073741829.306729736131098/488475721289831/?type=1&relevant_count=1","(活動延期)[立法院旁濟南路]「去年覺醒 今年行動」晚會",," 時間未定",,,,
 " https://www.facebook.com/pages/%E6%88%91%E6%98%AF%E4%BA%BA%E6%88%91%E5%8F%8D%E6%A0%B8/307969115955037",五六運動、公民論壇,,"每週五,1800~2100,中正紀年堂 自由廣場:",,,,
