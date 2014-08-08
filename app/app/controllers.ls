@@ -48,7 +48,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,"週五1800~2100,中正紀念堂:,自由廣場前:",,,,
 " http://www.ustream.tv/embed/18608702",哲學星期五＠台北,,"1930~2130,危機或轉機─不可不知的 核電ABC:info",,,,
 " http://www.ustream.tv/embed/17989057",哲學星期五＠台中,,"1900~2100,當『社區政治』成為一種志業:info",,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@台獨跟好老爸的關係 2230~2330",,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@台獨跟好老爸的關係:info,2230~2330",,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,"高雄 災區勘查 下午取消:",,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,,,,
 " http://www.ustream.tv/embed/17696763",桃園市議會,,,,,,
