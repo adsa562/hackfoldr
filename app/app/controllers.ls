@@ -49,6 +49,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
 " http://www.ustream.tv/embed/17989057",哲學星期五＠台中,,"當『社區政治』成為一種志業:info,1900~2100",,,,
 " http://www.ustream.tv/embed/18608702",哲學星期五＠台北,,"危機或轉機─不可不知的 核電ABC:info,1930~2130",,,,
+" http://www.ustream.tv/embed/18654171",蠻野講堂,,"樹木保護的法律防身術:info,1900~2100",,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@台獨跟好老爸的關係:info,2230~2330",,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,,,,
