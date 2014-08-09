@@ -42,7 +42,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
 " https://www.youtube.com/watch?v=B_KdVOWMNXc","新竹 與台獨面對面 巡迴演講",,,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"新竹與台獨面對面 蔡丁貴:info,1900開始",,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"新竹與台獨面對面 蔡丁貴:info",,,,
 " http://www.ustream.tv/embed/17929143","小六 公民記者",,"為高雄義賣 王奕凱",,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,,,,
