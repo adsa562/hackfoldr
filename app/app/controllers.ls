@@ -30,7 +30,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,8/？立法院事件,"{""expand"":false}",,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,備戰通知:important,,,,
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,,,,
-" http://musou.tw/schedules","沃草國會無雙 賽事預報","{""target"":""_blank""}"," 散會:",,,,
+" http://musou.tw/schedules","沃草國會無雙 賽事預報","{""target"":""_blank""}",,,,,
 " http://musou.tw/live_streams/119",8/？沃草|國會無雙,"{""target"":""_blank""}",,,,,
 " http://www.appledaily.com.tw/livechannel/subject/17",蘋果立法院議會LIVE,,,,,,
 " http://www.ustream.tv/embed/17012502","沃草國會無雙 第一競技場",,,,,,
