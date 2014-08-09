@@ -42,7 +42,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,勞團公布家樂福過期黑心商品:info,,,,
-" http://www.ustream.tv/embed/18103859",文森直播,,,,,,
+" http://www.ustream.tv/embed/18103859",文森直播,,"101舉大旗:info,1600~1830",,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"新竹與台獨面對面 蔡丁貴:info,1900開始",,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
