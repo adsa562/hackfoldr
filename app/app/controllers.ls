@@ -183,6 +183,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,全台活動,"{""expand"":false}",,,,,
 " http://ccw.kktix.cc/events/8-5","8/16[嘉義活動]公督盟 公民評鑑立委活動#4","{""target"":""_blank""}","需預先報名:info,1330~1630,嘉義高中:",,,,
 " https://zh-tw.facebook.com/TIRAFANS/posts/1455096488079557","8/10[臺北大旗]101臺獨舉大旗 公民自決 悍衛民主",,"1600~1830,阿凱直播預定:info,台北101捷運4號出口:",,,,
+" https://www.facebook.com/NanKanYiShuJiDe/photos/a.449640998452489.1073741829.447841501965772/723238931092693",8/10[桃園護樹]南崁熱力音樂祭,,"1500~1700,蘆竹鄉吉林路長春路:",,,,
 " https://www.facebook.com/groups/338896839575797/permalink/518335368298609/","8/10[南投活動]中興新村 策略討論會",,"1400~1700,耶斯列花園:,南投縣光華路121號:",,,,
 " https://docs.google.com/forms/d/14kEYvVAufetjc-quKlfboPil4iy0T7sPkzM-A01eZ1Y/viewform",8/10[屏東工作坊]島國夥伴工作坊,,"1530~1730,Ho覓藝文實驗研究所:,屏東縣屏東市中山路58-3號:",,,,
 ,"公投法 割闌尾 小蜜蜂 參政","{""expand"": false}",,,,,
