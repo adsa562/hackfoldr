@@ -130,7 +130,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17576277",清大野台講堂,,,,,,
 " http://www.ustream.tv/embed/12933307",公投盟直播機,,,,,,
 " http://www.ustream.tv/embed/17859517",南方公民網,,,,,,
-" http://www.ustream.tv/embed/18109047","新竹蕾拉 公民記者",,,,,,
 ,過往直播,"{""expand"":false} ",,,,,
 " http://www.appledaily.com.tw/livechannel/archive/43/275/1",7/30雞排妹VS楊伊湄重播,,,,,,
 " https://www.youtube.com/channel/UCTRscVMDqFN5bU1mAZw1QSg/videos","Dai Wan Lang Youtube過往直播","{""target"":""_blank""}",新分頁:issue,,,,
