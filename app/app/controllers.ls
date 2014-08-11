@@ -45,7 +45,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17696763",桃園縣議會,,"第6次會議 交通局 工作報告及說明:info,0900~1200",,,,
 " http://www.ustream.tv/embed/17562385","麵線 公民記者",,,,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,"我們的島 鍍出明天／農地呷毒:info,2200~2300",,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,,,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"國際局勢分:info,1230~1330",,,,
 " http://www.ustream.tv/embed/14787921",公民之聲,,,,,,
 " https://www.youtube.com/watch?v=hN_covN0JVQ","中壢 與台獨面對面 蔡丁貴",,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,,,,
