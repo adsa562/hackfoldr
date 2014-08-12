@@ -180,8 +180,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/Save110YearsTaipeiPrison/photos/a.248468998684401.1073741831.247895508741750/268016093396358/?type=1",[全國活動]搶救台北刑務所北官舍與台灣第一菊元百貨,,,,,,
 " https://www.facebook.com/Save110YearsTaipeiPrison/posts/272260729638561",致電守護瀕危的百年台北刑務所,,打電話給立委們:info,,,,
 " http://www.van698.com/thread-157668-1-1.html",鼓勵檢舉賄選要點,,,,,,
-" https://www.facebook.com/Save110YearsTaipeiPrison/posts/272260729638561",致電守護瀕危的百年台北刑務所,,打電話給立委們:info,,,,
-" http://www.van698.com/thread-157668-1-1.html",鼓勵檢舉賄選要點,,,,,,
 ,全台活動,"{""expand"":false}",,,,,
 " https://www.facebook.com/events/634254783357130",8/11~8/29[活動]裝一片機車台獨擋泥板來練勇氣,,"後門咖啡:,台北市大安區復興南路2段332號:,B back咖啡:,台中市西屯區逢甲路225巷16號1樓:,林明正市議員競選總部:,台中市大里區中興路一段300號:,基進側翼總部:,高雄市前金區中正四路235號12F-1:,公投盟建國基地:,(第一梯發完 第二梯暫定周末):important,台北市濟南路:",,,,
 " http://ccw.kktix.cc/events/8-5","8/16[嘉義活動]公督盟 公民評鑑立委活動#4","{""target"":""_blank""}","需預先報名:info,1330~1630,嘉義高中:",,,,
