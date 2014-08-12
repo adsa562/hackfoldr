@@ -211,7 +211,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://grass.tw/","7/18~8/15 民主小草計劃",,,,,,
 " https://www.facebook.com/events/573048066138935","8/13[台北講座]  翻轉吧！政治！熱血開講！！！",,"1000~1130,音地直播:info,臺北市金山南路二段222號3樓:,柯文哲:important,馮光遠:important,民主小草:important,青年佔領政治:important,台聯+福爾摩鯊會社:important",,,,
 " https://www.facebook.com/red99hu/posts/1540102946217924",8/13[台北演講]台灣國會透明化促進協會成立,,"0830~1200,福華國際文教會館:,新生南路3段30號:,鄭文龍:important,蔡丁貴:important",,,,
-" https://gcaa.neticrm.tw/civicrm/event/info?reset=1&id=31",8/13[台北講座]看見當代印度反核與反核武運動,,"1900~2130,台北市衡陽路9號:,呷米共食廚房3F:,捷運台大醫院站一號出口:,穿過228公園即到:",,,,
 " https://www.facebook.com/CafeBackstage332/photos/a.471158262962970.1073741829.466029020142561/681550841923710","8/13[台北座談]後門文化祭 X《螢火蟲的反抗》",,"1900~2100,後門咖啡:,大安區復興南路2段332號:",,,,
 " https://www.sow.org.tw/civicrm/event/info?id=4327&reset=1",8/13[高雄講座]在邊緣呼吸.高雄的城市呼吸運動,,"1930~2100,高雄市三民區重慶街299號:,王敏玲:important",,,,
 " https://www.facebook.com/events/442180415921725/",8/13[屏東講座]南藝講堂Vol.9公平貿易-消費可以改變世界,,"1900~2130,HO覓2F:,屏東市中山路58-3號:",,,,
