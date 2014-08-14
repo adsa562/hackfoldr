@@ -48,7 +48,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,,,,
 " http://www.ustream.tv/embed/17733674","jackywolf 公民記者",,,,,,
-" http://www.ustream.tv/embed/3526833",公視新聞網,,"2000~2200,NGO觀點 鳳凰泣血 防災救災爆出大洞:info","8pm 有話好說(星期一至三)、NGO觀點(星期四)、南部開講(星期五)、唱四方(星期六) 、部落大小聲(星期日) + 10pm 我們的島(星期一)、獨立特派員(星期三)",,,
+" http://www.ustream.tv/embed/3526833",公視新聞網,,"NGO觀點:info,鳳凰泣血 防災救災爆出大洞:info,2000~2100","8pm 有話好說(星期一至三)、NGO觀點(星期四)、南部開講(星期五)、唱四方(星期六) 、部落大小聲(星期日) + 10pm 我們的島(星期一)、獨立特派員(星期三)",,,
 " http://www.ustream.tv/embed/18412678","麵包 公民記者",,,,,,
 " http://www.ustream.tv/embed/17562385","麵線 公民記者",,,,,,
 " http://www.ustream.tv/embed/14787921",公民之聲,,,,,,
