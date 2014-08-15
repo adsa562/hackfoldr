@@ -196,7 +196,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"公投法 割闌尾 小蜜蜂 參政","{""expand"": false}",,,,,
 " http://taiwanmarch.tw/signedonline.html","公投修法 連署書",,線上填寫:info,,,,
 " https://www.facebook.com/Appendectomy/photos/a.249135138604869.1073741828.248848828633500/280790655439317/?type=1&theater",割闌尾連署書回郵正式上線,,免貼郵票:info,,,,
-" https://www.facebook.com/events/1386803598242454/",(活動暫停)高雄參政]基進『入政』－啟動週：街頭宣講,,,,,,
 " https://www.facebook.com/events/752091854832665/","8/15~17[台中舉牌]今天 你舉了沒？",,"0730~0830,1730~1830,中港路vs文心路路口:",,,,
 " https://www.facebook.com/permalink.php?story_fbid=341829425979957&id=320272928135607&ref=notif&notif_t=notify_me",8/15[內湖南港割闌尾]正元手術房,,"1800~2030,內湖737巷(一流眼鏡行):,1815~2000,捷運西湖站",,,,
 ,,,"1630~2000,東湖哈拉中信:,1900~2100,南港玉成公園:",,,,
