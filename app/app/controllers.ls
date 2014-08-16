@@ -48,7 +48,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18571065",社運紀實小組直播網,,社運紀實-口述歷史計畫:info,,,,
 " http://www.ustream.tv/embed/18385635",阿弘直播台,,"《捍衛正義─烏山頭水庫保衛戰》:info,簽書會:info,1400~1700",,,,
 " http://www.ustream.tv/embed/14787921",公民之聲,,,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@'如何從聊天中做台獨:info,2330~2430",,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@如何從聊天中做台獨:info,2330~2430",,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,,,,,
 " http://www.ustream.tv/embed/18692687","山崎 公民記者",,,,,,
 " http://www.ustream.tv/embed/18412678","麵包 公民記者",,,,,,
