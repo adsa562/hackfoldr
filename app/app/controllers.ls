@@ -45,7 +45,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://livehouse.in/channel/KPtaipei","冰桶大挑戰 為漸凍人募款 柯文哲",,1900開始,,,,
 " https://service.skywatch24.com/tw/main_page.php?username=KPtaipei","冰桶大挑戰 為漸凍人募款 柯文哲",,1900開始,,,,
 " http://www.ustream.tv/embed/17696763",桃園縣議會,,,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,,,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@憲政體制上公投？可能？:info,2330~2430",,,,
 " http://www.ustream.tv/embed/18698986",citizen393,,,,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,,"8pm 有話好說(星期一至三)、NGO觀點(星期四)、南部開講(星期五)、唱四方(星期六) 、部落大小聲(星期日) + 10pm 我們的島(星期一)、獨立特派員(星期三)",,,
 " http://www.ustream.tv/embed/17733674","jackywolf 公民記者",,,,,,
