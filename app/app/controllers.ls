@@ -43,7 +43,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,,,,,
-http://www.ustream.tv/embed/18698986,citizen393,,"1400~1600,不動產稅制全面改革座談會:info",,,,
+" http://www.ustream.tv/embed/18698986",citizen393,,"1400~1600,不動產稅制全面改革座談會:info",,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
 " https://www.youtube.com/watch?v=vWhcmzt5ORA",8/17【與台獨面對面】宜蘭巡迴演講,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
