@@ -42,7 +42,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
-" http://www.ustream.tv/embed/17733674","jackywolf 公民記者",,"818:info,消防員大集結，自己的性命自己救:info",,,,
+" http://www.ustream.tv/embed/17733674","jackywolf 公民記者",,,,,,
 " http://www.ustream.tv/embed/17696763",桃園縣議會,,,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,,,,,
 " http://www.ustream.tv/embed/18698986",citizen393,,"1400~1600,不動產稅制全面改革座談會:info",,,,
