@@ -216,7 +216,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.facebook.com/TaoACF/photos/a.341051409378516.1073741828.338215036328820/353210014829322",8/19[南崁工作坊]藝文願景世界公民咖啡館,,"1800~2130,特力家具B1設計講堂:,桃園縣蘆竹鄉中正路1號B1:,南崁交流道旁:",,,,
 " http://www.ystaiwan.org/news/4687/20140819/",8/19[台北講座]我的伊拉克日誌－無情戰火的志願服務,,"1900~2100,台北慕哲咖啡:,善導寺站6號出口:,台北市中正區紹興北街3號:,拖鞋直播預定:info",,,,
 " http://bookshow.kktix.cc/events/patch2gov","8/19[台北活動]自經區溝通會 x 經貿國是會議小腸花聚會",,"1930~2130,BOOKSHOW 說書會:,台灣基隆路一段141號:,BOOKSHOW說書會直播預定:info",,,,
-" https://www.facebook.com/RecaptureTaoyuan/posts/452584751551118","8/19[桃園活動]議會監督 下鄉報告",,"1930~2130,中壢新明夜市:,明德路與新明路口:",,,,
+" https://www.facebook.com/RecaptureTaoyuan/posts/455846457891614","8/19[桃園活動]議會監督 下鄉報告",,"  活動延期公告:important",,,,
 " https://www.sow.org.tw/civicrm/event/info?id=4142&reset=1","8/19[桃園電影]最後的藍海 The Last Ocean",,"1900~2100,荒野保護協會桃園分會:,中壢市普光二街122巷10號:",,,,
 " https://www.facebook.com/events/682854721807968",8/19[台中演講]台灣國會透明化促進協會成立,,"1400~1700,台中市立葫蘆墩文化中心:, 台灣圓環東路782號:,飛魚台直播預定:info",,,,
 " https://www.facebook.com/polin66666/photos/a.328214877224142.76370.102764756435823/766219423423683",8/19[高雄演講]從國土規劃到高雄氣爆重建,,"1000~1200,高雄市議會 簡報室:,李鴻源教授(前內政部長):important",,,,
