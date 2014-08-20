@@ -91,7 +91,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18109047","新竹蕾拉 公民記者",,,,,,
 " http://www.ustream.tv/embed/17551115","蜂潮 再起",,,,,,
 " http://www.ustream.tv/embed/18401148",梁文韜,,,,,,
-" http://www.ustream.tv/embed/18062563",基進側翼,,,,,,
 " http://www.ustream.tv/embed/18511952",哲學非星期五＠台中,,,,,,
 " http://www.ustream.tv/embed/17811041",Sean-公民記者,,,,,,
 " http://www.ustream.tv/embed/18308641",Citizentw,,,,,,
