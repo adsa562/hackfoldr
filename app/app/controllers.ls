@@ -49,6 +49,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,,,,
 " http://www.ustream.tv/embed/18749946",黑眼圈直播台,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
+http://www.ustream.tv/embed/18296345,"taiwanadr 公民記者",,,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,,,,,
 " https://www.youtube.com/watch?v=ObqdgI1ZG6E&feature=youtu.be",國家暴力系列講座｜社運與鄉民之間,,,,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,,,,
