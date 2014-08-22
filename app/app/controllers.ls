@@ -52,7 +52,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17696763",桃園縣議會,,,,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,,"8pm 有話好說(星期一至三)、NGO觀點(星期四)、南部開講(星期五)、唱四方(星期六) 、部落大小聲(星期日) + 10pm 我們的島(星期一)、獨立特派員(星期三)",,,
 " http://www.ustream.tv/embed/18385635",阿弘直播台,,,從環境運動史談自經區與核四風暴:info,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"今晚停播 為台灣祈福:",,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,,,,,
 " http://www.ustream.tv/embed/18608702",哲學星期五＠台北,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
 " http://www.ustream.tv/embed/18749946",黑眼圈直播台,,,,,,
