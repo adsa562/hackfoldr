@@ -65,7 +65,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17513092",拖鞋直播-1,,,,,,
 " http://www.ustream.tv/embed/18245525","髒髒 公民記者",,,,,,
 " http://www.ustream.tv/embed/18418362",北加州台灣青年民主電台,,,,,,
-,,,,,,,
 " http://www.ustream.tv/embed/18698986",citizen393,,,,,,
 " http://www.ustream.tv/embed/17733674","jackywolf 公民記者",,,,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
