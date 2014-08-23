@@ -45,6 +45,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.appledaily.com.tw/livechannel/subject/60"," 蘋果Live 青年議會 台北場",,1330~1700,,,,
 " https://www.youtube.com/watch?v=YJKIyQk_3Ww",陪你走過災後創傷：談氣爆事件的心理重建,,1400~1600,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,"1430~1700,人權．正義與司法改革:info",,,,
+" https://www.youtube.com/watch?v=oDZ15KbCpko","屏東 與台獨面對面－自己的台灣自己救","{""target"":""_blank""}",1900~2130,,,,
 " http://www.ustream.tv/embed/17890296","雨停 公民記者","{""bar"": ""http://g0v.github.io/live/status_bar.html?{url}"", ""enable_bar"": {""video"":true}}","823 101口水大作戰:info",,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
