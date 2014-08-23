@@ -48,6 +48,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.youtube.com/watch?v=oDZ15KbCpko","屏東 與台獨面對面－自己的台灣自己救","{""target"":""_blank""}",end:,,,,
 " http://www.ustream.tv/embed/18231291","日升連線 公民記者",,,,,,
 " http://www.ustream.tv/embed/18654171",蠻野講堂,,,,,,
+http://www.ustream.tv/embed/18556508,青年議會,,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,,,,
 " http://www.ustream.tv/embed/17890296","雨停 公民記者","{""bar"": ""http://g0v.github.io/live/status_bar.html?{url}"", ""enable_bar"": {""video"":true}}",,,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
