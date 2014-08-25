@@ -48,6 +48,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17513092",拖鞋直播-1,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
 " http://www.ustream.tv/embed/18231291","日升連線 公民記者",,,,,,
+" http://www.ustream.tv/embed/18398856",冬翔實況,,,,,,
 " http://www.ustream.tv/embed/18654171",蠻野講堂,,,,,,
 " http://www.ustream.tv/embed/18556508",青年議會,,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,,,,
