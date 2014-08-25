@@ -189,7 +189,7 @@ https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.pu
 " http://www.van698.com/thread-157668-1-1.html",鼓勵檢舉賄選要點,,,,,,
 ,全台活動,"{""expand"":false}",,,,,
 " https://www.facebook.com/events/634254783357130",8/11~8/29[活動]裝一片機車台獨擋泥板來練勇氣,,"後門咖啡:,台北市大安區復興南路2段332號:,B back咖啡:,台中市西屯區逢甲路225巷16號1樓:,林明正市議員競選總部:,台中市大里區中興路一段300號:,基進側翼總部:,高雄市前金區中正四路235號12F-1:,公投盟建國基地:,台北市濟南路:",,,,
-" https://www.facebook.com/events/634254783357130/permalink/641561735959768/",8/23[台中活動]台獨擋泥板機車聚,,"1500~1700,大里區中興路一段300號:",,,,
+" https://www.facebook.com/events/634254783357130/permalink/641561735959768/",8/23[台中活動]台獨擋泥板機車聚,,,,,,
 " https://www.facebook.com/red99hu/posts/1540102946217924",8/26[台中演講]台灣國會透明化促進協會成立,,"1900~2130,台東縣政府文化處演講廳:",,,,
 ,次日活動,"{""expand"": false}",,,,,
 " https://www.facebook.com/pttcitizen1985/photos/a.307121876091884.1073741829.306729736131098/488475721289831/?type=1&relevant_count=1","(活動延期)[立法院旁濟南路]「去年覺醒 今年行動」晚會",," 時間未定",,,,
