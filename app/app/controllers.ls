@@ -194,7 +194,7 @@ https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.pu
 " https://www.facebook.com/red99hu/posts/1540102946217924",8/26[台中演講]台灣國會透明化促進協會成立,,"1900~2130,台東縣政府文化處演講廳:",,,,
 ,次日活動,"{""expand"": false}",,,,,
 " https://www.facebook.com/pttcitizen1985/photos/a.307121876091884.1073741829.306729736131098/488475721289831/?type=1&relevant_count=1","(活動延期)[立法院旁濟南路]「去年覺醒 今年行動」晚會",," 時間未定",,,,
-" https://www.facebook.com/events/1447806155464209","8/27[台北讀書會]凡事考慮身心障礙者的權利 條文Art.1-5,8",,"1900~2100,台北市大同區長安西路145巷15號:,講師：蘇峰山:important,引領者：傑哥張:important,taiwanadr直播預定:info",,,,
+" https://www.facebook.com/events/1447806155464209/permalink/1499477806963710/","8/27(活動取消)[台北讀書會]凡事考慮身心障礙者的權利 條文Art.1-5,8",,,"1900~2100,台北市大同區長安西路145巷15號:,講師：蘇峰山:important,引領者：傑哥張:important,taiwanadr直播預定:info",,,
 " http://www.accupass.com/event/register/443138588427426","8/28[台北演講]博雅青年講堂 從媒體到公民記者",,"1800~2100,客家文化會館:,大安區信義路三段157巷11號4F:",,,,
 " https://www.facebook.com/pages/%E6%88%91%E6%98%AF%E4%BA%BA%E6%88%91%E5%8F%8D%E6%A0%B8/307969115955037",五六運動、公民論壇,,"每週五,1800~2100,中正紀年堂 自由廣場:",,,,
 " https://www.facebook.com/wildatheart.org/photos/a.10150270921515580.487714.456802825579/10154405482065580","8/29[台北講座]蠻野講堂#4 看見社區的價值 從搶救天母羅友倫故居行動的學習",,"1900~2100,呷米共食廚房3樓:,台北市中正區衡陽路9號:,黃湘雲:important,天母綠玉聯盟召集人:important,兩棲保育志工:important,輔仁大學應美系畢:important,劉奕妤:important,天母綠玉聯盟副召集人:important,台大城鄉所研究生:important,",,,,
