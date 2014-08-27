@@ -45,7 +45,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18692687","山崎 公民記者",,,,,,
 " http://www.ustream.tv/embed/17696763",桃園市議會,,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,"有思想才有力量:info,小蜜蜂 沙龍講座 v2.0:info,1900~2200",,,,
-" http://www.ustream.tv/embed/17513092",拖鞋直播-1,,"史明《台灣人四百年史》書友會:info,1900~2100,主播: MIKAN:important",,,,
+" http://www.ustream.tv/embed/17513092",拖鞋直播-1,,"史明《台灣人四百年史》書友會:info,1900~2100,主播 MIKAN:important",,,,
 " https://livehouse.in/channel/ptt","Ptt鄉民有約 黃國昌老師",,"一起討論公民覺醒的課題:info,2100~2200",,,,
 " http://www.appledaily.com.tw/livechannel/subject/50"," 蘋果Live Ptt鄉民有約 黃國昌老師",,,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@台灣人強悍的基因在哪？:info, 從歷史分析:info,2330~2430",,,,
