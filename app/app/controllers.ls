@@ -48,7 +48,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17513092",拖鞋直播-1,,"史明《台灣人四百年史》書友會:info,1900~2100,主播: MIKAN:important",,,,
 " https://livehouse.in/channel/ptt","Ptt鄉民有約 黃國昌老師",,"一起討論公民覺醒的課題:info,2100~2200",,,,
 " http://www.appledaily.com.tw/livechannel/subject/50"," 蘋果Live Ptt鄉民有約 黃國昌老師",,,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@台灣人強悍的基因在哪？ 從歷史分析,2330~2430",,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@台灣人強悍的基因在哪？:info, 從歷史分析:info,2330~2430",,,,
 " http://www.ustream.tv/embed/17843610",電池線上,,,,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,,"8pm 有話好說(星期一至三)、NGO觀點(星期四)、南部開講(星期五)、唱四方(星期六) 、部落大小聲(星期日) + 10pm 我們的島(星期一)、獨立特派員(星期三)",,,
 " https://livehouse.in/channel/PNNPTS",公視新聞網LiveHouse,,,,,,
