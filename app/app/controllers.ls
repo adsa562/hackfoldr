@@ -202,7 +202,6 @@ https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.pu
 " https://www.facebook.com/events/1386926568234968/","8/29[桃園活動]議會監督 下鄉報告#4",,"1930~2130,老江菜園:,金陵路二段北勢國小對面:,立動鐵工廠旁巷子進入:",,,,
 " https://www.facebook.com/events/259445324255309",8/30[台北工作坊]《告白三一八》：運動經驗工作坊#4,,"1400~1700,關渡美術館:,台灣台北市北投學園路1號:",,,,
 " https://www.facebook.com/events/542578852554693/","8/30[台北工作坊]臺北機廠街道藝廊 不良時代美術工廠",,"1500~1800,臺北機廠圍牆:,忠孝東路四段553巷46弄、559巷底:,與基隆路一段102巷交叉口:",,,,
-" https://zh-tw.facebook.com/TIRAFANS/posts/1455096488079557","8/30[臺北大旗]101臺獨舉大旗 公民自決 悍衛民主",,"1600~1830,台北101捷運4號出口:",,,,
 " https://docs.google.com/forms/d/1MLxWcWGETeMbkhH57pPpmCoGecqp8CwVDCyWNf_lVqY/viewform?fbzx=7578344857076229268",8/30[台北講座]調查報導為什麼重要,,"1000~1200,文化大學大新館309教室:,台北市延平南路127號:,汪文豪:important,上下游新聞市集記者:important",,,,
 " https://www.facebook.com/CafeDelam/photos/a.377311555656726.91535.377298322324716/698855903502288","8/30[苗栗講座]獨裁者的進化 編輯分享會",,"1500~1700,Cafe De lam 竹南咖啡:,苗栗縣大營路99號:",,,,
 " http://newseforum.kktix.cc/events/830","8/30[台中講座]新聞e論壇 x 台權會(桃園航空城訪調營)","{""target"":""_blank""}","1400~1700,偉成大樓台灣國際會館:,台北市南京東路二段125號4樓:",,,,
