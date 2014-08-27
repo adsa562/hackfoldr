@@ -43,7 +43,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
 " http://www.ustream.tv/embed/18692687","山崎 公民記者",,,,,,
-" http://www.ustream.tv/embed/18749946",黑眼圈直播台,,,,,,
+" http://www.ustream.tv/embed/18749946",黑眼圈直播台,,水洗行政院:info,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,"有思想才有力量:info,小蜜蜂 沙龍講座 v2.0:info,1900~2200",,,,
 " http://www.ustream.tv/embed/17513092",拖鞋直播-1,,"史明《台灣人四百年史》書友會:info,1900~2100,主播 MIKAN:important",,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,"立台之鹿系列:info,生存遊戲 — 東亞四國志:info",,,,
