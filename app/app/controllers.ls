@@ -42,7 +42,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
-" http://www.appledaily.com.tw/livechannel/subject/63",蘋果LIVE公民經濟會議,,"民進黨政策會主辦:info,1330~1700",,,,
 " http://www.ustream.tv/embed/18788569","民進黨政策會 公民經濟會議",,,,,,
 " https://www.facebook.com/277581822281583/photos/a.289826441057121.69820.277581822281583/853034694736290","馮光遠敗給人渣入監惜別晚會 陣容名單",,"1830~21xx,自由廣場:,台北市中山南路21號:",,,,
 " http://www.appledaily.com.tw/livechannel/subject/65",蘋果LIVE馮光遠入監惜別晚會,,,,,,
