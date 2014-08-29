@@ -46,7 +46,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18788569","民進黨政策會 公民經濟會議",,,,,,
 " https://www.facebook.com/277581822281583/photos/a.289826441057121.69820.277581822281583/853034694736290"," 馮光遠敗給人渣入監惜別晚會 陣容名單",,"1830~21xx,自由廣場:,台北市中山南路21號:",,,,
 " http://www.appledaily.com.tw/livechannel/subject/65"," 蘋果LIVE馮光遠入監惜別晚會",,,,,,
-" http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,"週五1800~2100:,中正紀念堂:,自由廣場前:",,,,
+" http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,"週五1800~2100,中正紀念堂:,自由廣場前:",,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
 " http://www.ustream.tv/embed/17843610",電池線上直播,,,,,,
