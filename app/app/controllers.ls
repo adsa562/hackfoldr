@@ -131,6 +131,7 @@ http://www.appledaily.com.tw/livechannel/subject/65," 蘋果LIVE馮光遠入監�
 " http://www.ustream.tv/embed/14603849",台灣民政府2,,,,,,
 " http://www.ustream.tv/embed/18445690",penghuyouth,,,,,,
 " http://www.ustream.tv/embed/16630308","Indie Love",,,,,,
+,,,,,,,
 " http://www.ustream.tv/embed/18123294","週五 太陽花講習會",,"活動暫停:,週五1900~2100:,中正紀念堂:,國家劇院前:",,,,
 " http://www.ustream.tv/embed/17640717","人民民主陣線 人民議會",,,,,,
 " http://www.ustream.tv/embed/17569549","g0v 1號機",,,,,,
