@@ -46,7 +46,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,松菸護樹:info,,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,,,,
 " http://www.ustream.tv/embed/18692687","山崎 公民記者",,,,,,
-,,,,,,,
+" http://www.ustream.tv/embed/17875679","影弟 公民記者",,,,,,
 " https://www.youtube.com/watch?v=6LVrMgpTcms",與台獨面對面－自己的台灣自己救,,,,,,
 " http://www.ustream.tv/embed/17640717","人民民主陣線 人民議會",,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
