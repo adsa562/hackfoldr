@@ -46,6 +46,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.youtube.com/watch?v=6LVrMgpTcms",與台獨面對面－自己的台灣自己救,,"1900~2200,台南巴克禮紀念公園:,文化中心對面:",,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,"1900~2200,高雄氣爆 災民幹譙:",,,,
 " http://www.ustream.tv/embed/18246634","欣欣 公民記者",,,,,,
+,,,,,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,,"8pm 有話好說(星期一至三)、NGO觀點(星期四)、南部開講(星期五)、唱四方(星期六) 、部落大小聲(星期日) + 10pm 我們的島(星期一)、獨立特派員(星期三)",,,
 " http://www.ustream.tv/embed/18727277","監票者聯盟 Live 頻道",,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,,,,
