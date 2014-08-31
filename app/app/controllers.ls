@@ -62,7 +62,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17843610",電池線上直播,,,,,,
 " http://www.ustream.tv/embed/17696763",桃園縣議會,,,,,,
 " http://www.ustream.tv/embed/18412678","麵包 公民記者",,,,,,
-" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@七原罪vs台獨ing,2330~2430",,,,
+" http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@七原罪vs台獨ing:info,2330~2430",,,,
 " http://www.ustream.tv/embed/18749946",黑眼圈直播台,,,,,,
 " http://www.ustream.tv/embed/17513092",拖鞋直播-1,,,,,,
 " http://www.ustream.tv/embed/18231291","日升連線 公民記者",,,,,,
