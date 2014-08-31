@@ -43,7 +43,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
-" http://new.livestream.com/socreclive/events/3341894",香港31AUG2014公民發聲集會,"{""target"":""_blank""}",,,,,
+" http://new.livestream.com/socreclive/events/3341894",香港31AUG2014公民發聲集會,"{""target"":""_blank""}",LIVE,,,,
 " http://www.appledaily.com.tw/livechannel/subject/68","蘋果LIVE 8/31香港和平佔中",,,,,,
 " http://hk.apple.nextmedia.com/realtime/news/20140830/52843153","香港 【壹錘佔中】8.31佔中啟動 全程直播",,,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"9/1 深夜談@七原罪vs台獨ing:info,2330~2430",,,,
