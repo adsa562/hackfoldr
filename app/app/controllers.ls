@@ -14,7 +14,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://play.google.com/store/apps/details?id=com.g0v.live",Android：,"{""target"":""_blank""}",新分頁:issue,,,,
 " http://inlivetw.github.io/chrome/",Web：,,新版:important,,,,
 ,政府各部會直播,"{""expand"": true}",,,,,
-" https://livehouse.in/channel/yda","教育部 青年發展署",,LIVE,,,,
+" https://livehouse.in/channel/yda","教育部 青年發展署",,"103年青年政策論壇:info,LIVE",,,,
 " http://www.ustream.tv/embed/18469624",7.11二次自經區深度溝通會前會,,,,,,
 " http://www.ustream.tv/embed/18322764","行政院 經貿國是會議-戲智科技1",,,,,,
 " http://www.ustream.tv/embed/18316356","行政院 經貿國是會議-戲智科技2",,,,,,
