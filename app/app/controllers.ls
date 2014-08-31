@@ -47,7 +47,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/3526833",公視新聞網,,"0900~1730,↑流程表RunDown↑:info","8pm 有話好說(星期一至三)、NGO觀點(星期四)、南部開講(星期五)、唱四方(星期六) 、部落大小聲(星期日) + 10pm 我們的島(星期一)、獨立特派員(星期三)",,,
 " http://www.appledaily.com.tw/livechannel/subject/68","蘋果LIVE 8/31香港和平佔中",,"1700壹錘佔中,1900佔中啟動",,,,
 " http://hk.apple.nextmedia.com/realtime/news/20140830/52843153","香港 【壹錘佔中】8.31佔中啟動 全程直播",,,,,,
-" http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
+" http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,"史明 ＜台灣人四百年史＞:info,2014新校版簽書會:info",,,,
 " http://www.ustream.tv/embed/17157275","PENNYKEN 公民記者",,,,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,,,,
 " http://www.ustream.tv/embed/18692687","山崎 公民記者",,,,,,
