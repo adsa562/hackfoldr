@@ -54,7 +54,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17890296","雨停 公民記者","{""bar"": ""http://g0v.github.io/live/status_bar.html?{url}"", ""enable_bar"": {""video"":true}}",,,,,
 " http://www.ustream.tv/embed/7468658",文源LIVE秀,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/62"," 蘋果LIVE 9/1柯文哲 台北調 你來定調",,"1930開始,柯P競選專輯決選會議:info",,,,
-" http://www.ustream.tv/embed/3526833",公視新聞網,,"2030~2100,有話好說:info,梁文韜:important,談「香港民主的黑暗時代」:info,2200~2300,我們的島-我的非塑人生:info,淨灘狂想曲 農青下鄉:info","8pm 有話好說(星期一至三)、NGO觀點(星期四)、南部開講(星期五)、唱四方(星期六) 、部落大小聲(星期日) + 10pm 我們的島(星期一)、獨立特派員(星期三)",,,
+" http://www.ustream.tv/embed/3526833",公視新聞網,,"2200~2300,我們的島-我的非塑人生:info,淨灘狂想曲 農青下鄉:info","8pm 有話好說(星期一至三)、NGO觀點(星期四)、南部開講(星期五)、唱四方(星期六) 、部落大小聲(星期日) + 10pm 我們的島(星期一)、獨立特派員(星期三)",,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@七原罪vs台獨ing:info,2330~2430",,,,
 " https://www.youtube.com/watch?v=tvka7iFUjT0&list=PLQcmGU2t4gsp4RMgrqnMiaJq24FJyWGhz","香港 李飛政改簡介會",,,,,,
 " http://new.livestream.com/socreclive/events/3341894",香港31AUG2014公民發聲集會,"{""target"":""_blank""}",,,,,
