@@ -46,7 +46,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18692687","山崎 公民記者",,,,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,"2200~2300,我們的島-我的非塑人生:info,淨灘狂想曲 農青下鄉:info","8pm 有話好說(星期一至三)、NGO觀點(星期四)、南部開講(星期五)、唱四方(星期六) 、部落大小聲(星期日) + 10pm 我們的島(星期一)、獨立特派員(星期三)",,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,"深夜談@七原罪vs台獨ing:info,2330~2430",,,,
-" http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,"凱道 901公祭 全民凝聚救消防:info,1800~2130",,,,
+" http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
 " http://www.ustream.tv/embed/17755037","帽客 公民記者",,,,,,
