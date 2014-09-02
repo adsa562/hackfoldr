@@ -48,6 +48,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
 " http://www.ustream.tv/embed/17513092",拖鞋直播-1,,"財政實務與參與式預算的可能:info,1830~2130",,,,
 " http://www.ustream.tv/embed/18401148",梁文韜,,"問問嘉義市系列活動:info,公民對談會:info,1930~2100",,,,
+http://www.ustream.tv/embed/17825089,台南魚腸花街頭文藝復興運動,,,,,,
 " http://www.ustream.tv/embed/18692687","山崎 公民記者",,,,,,
 " http://www.ustream.tv/embed/17696763",桃園縣議會,,,,,,
 " http://www.ustream.tv/embed/18477607",張慶恩的台獨國際新聞,,,,,,
