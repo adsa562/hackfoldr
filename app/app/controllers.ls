@@ -47,6 +47,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,,,,,
 " http://www.ustream.tv/embed/18608702",哲學星期五＠台北,,,,,,
 " http://www.ustream.tv/embed/17989057",哲學星期五＠台中,,,,,,
+" https://livehouse.in/embed/channel/kenchannel","KEN channel x 臺灣國 ── 黃謙賢《三一八暴民展》新書座談會",,1930~2130,,,,
 " http://www.ustream.tv/embed/17696763",桃園縣議會,,,,,,
 " http://www.ustream.tv/embed/18692687","山崎 公民記者",,,,,,
 " http://www.ustream.tv/embed/17948037","豪豬 公民記者",,,,,,
