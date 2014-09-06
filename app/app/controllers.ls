@@ -44,7 +44,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
 ,,,,,,,
-" http://www.ustream.tv/embed/17969826","飛魚台 南部實況",,,,,,
+" http://www.ustream.tv/embed/17969826",台中飛魚實況台,,,,,,
 " http://www.ustream.tv/embed/18839177",嘉義市長候選人-涂醒哲,,"《南北雙哲，大戰權貴》:,柯文哲 x 涂醒哲對談:,End:",,,,
 " http://www.ustream.tv/embed/18296345","身心障礙者 自我倡議讀書會",,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,,,,
