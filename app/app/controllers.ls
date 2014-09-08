@@ -43,7 +43,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
-" http://www.ustream.tv/embed/17992061","Masaru 南部實況",,"2200~2300,中秋節特別獻映:info",,,,
+" http://www.ustream.tv/embed/17992061","Masaru 南部實況",,"2300~2400,中秋節特別獻映:info",,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,"2000~2100,有話好說:info,2200~2300,我們的島:info","8pm 有話好說(星期一至三)、NGO觀點(星期四)、南部開講(星期五)、唱四方(星期六) 、部落大小聲(星期日) + 10pm 我們的島(星期一)、獨立特派員(星期三)",,,
 " https://livehouse.in/channel/PNNPTS",公視新聞網LiveHouse,,,,,,
 " http://www.happyradio.com.tw/stream/stream_taipei.php","廣播 黑鬥不服從",,"週一:,1700~1800:,快樂連播網:info",,,,
