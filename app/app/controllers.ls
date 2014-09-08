@@ -88,7 +88,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.happyradio.com.tw/stream/stream_taipei.php","廣播 黑鬥不服從",,"週一:,1700~1800:,快樂連播網:info",,,,
 " http://www.ustream.tv/embed/18296345","身心障礙者 自我倡議讀書會",,,,,,
 " http://www.ustream.tv/embed/17640717","人民民主陣線 人民議會",,,,,,
-" http://www.ustream.tv/embed/18200914",直樹Live頻道,,,,,,
 " http://www.ustream.tv/embed/18654171",蠻野講堂,,,,,,
 " http://www.ustream.tv/embed/18556508",青年議會,,,,,,
 " http://www.ustream.tv/embed/18385635",阿弘直播台,,,,,,
