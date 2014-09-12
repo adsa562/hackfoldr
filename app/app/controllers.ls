@@ -47,7 +47,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/13620594",五六運動、公民論壇,,"週五1800~2100,中正紀念堂:,自由廣場前:",,,,
 " http://www.ustream.tv/embed/17969826",台中飛魚實況台,,"公投法 彰化火車站前廣場:info",,,,
 " http://www.ustream.tv/embed/17989057",哲學星期五＠台中,,「流浪之歌，四方之聲」:info,,,,
-" http://www.ustream.tv/embed/17513092",拖鞋直播-1,,,,,,
+" http://www.ustream.tv/embed/17513092",拖鞋直播-1,,"台北哲五:info,《公民為何上街頭？》:info",,,,
 " http://www.ustream.tv/embed/18608702",哲學星期五＠台北,,,,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,"1600~1800,跨世代談「蔣經國」:info,破解黨國政績神話:info",,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
