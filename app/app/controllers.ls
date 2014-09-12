@@ -30,7 +30,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"9/10~13貨貿 9/12立法院","{""expand"":true}",,,,,
 " https://www.facebook.com/huangkuenhui/photos/a.134431729955760.25472.129453793786887/727642007301393","9/10兩岸貨貿復談 在台登場",,,,,,
 " http://www.ustream.tv/embed/18876157",9/10★[經濟部抗議]要求停止貨貿談判,,記者會影音存檔:info,,,,
-" http://www.stormmediagroup.com/opencms/news/detail/78e112b2-38c0-11e4-9007-ef2804cba5a1/?uuid=78e112b2-38c0-11e4-9007-ef2804cba5a1","低調 低調 ...",,,,,,
 " http://lci.ly.gov.tw/",議事宣公報管理系統,,,,,,
 " http://www.ly.gov.tw/01_lyinfo/0109_meeting/meetingList.action","立法院 會議預報",,,,,,
 " http://www.cwb.gov.tw/V7/forecast/town368/towns/6300500.htm?layer=0&type=Weather&time=3Hr",立法院(中正區)天氣預報,,,,,,
