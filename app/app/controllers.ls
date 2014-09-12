@@ -46,6 +46,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
 " http://www.ustream.tv/embed/18692687","山崎 公民記者",,,,,,
 " http://www.ustream.tv/embed/17696763",桃園縣議會,,,,,,
+" http://www.ustream.tv/embed/17930274"," 高雄市議會",,,,,,
 " https://livehouse.in/embed/channel/ptt","9/13老外鄉民【郝毅博】與 Ptt 鄉民有約",,"9/13 1100~1200:,郝毅博:important,連勝文 預告:info,9/22 2100~2200:",,,,
 " https://www.youtube.com/watch?v=zWtBwrAYig8","老外鄉民【郝毅博】與 Ptt 鄉民有約 預告",,,,,,
 " http://wetheptt.cc/","Ptt鄉民有約 提問連結",,"連勝文 連署尚未開始:",,,,
