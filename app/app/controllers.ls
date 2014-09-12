@@ -48,7 +48,6 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,,,,,,,
 ,,,,,,,
 " http://www.ustream.tv/embed/18030256","阿凱 公民覺醒紀錄",,"1600~1800,跨世代談「蔣經國」:info,破解黨國政績神話:info",,,,
-,,,,,,,
 " http://www.ustream.tv/embed/18380808","小鳥台 公民記者",,,,,,
 " http://www.ustream.tv/embed/17562385","麵線 公民記者",,,,,,
 " http://www.ustream.tv/embed/18062563",基進側翼,,,,,,
