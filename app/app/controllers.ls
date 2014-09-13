@@ -46,7 +46,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,,,,
 " http://www.ustream.tv/embed/18296345","身心障礙者 自我倡議讀書會",,"讓台灣障礙者成為世界公民:info,國際研討會暨工作坊:info",,,,
-" https://livehouse.in/embed/channel/ptt","9/13老外鄉民【郝毅博】與 Ptt 鄉民有約",,"1100~1200,郝毅博:important,連勝文 預告:info,9/22 2100~2200:",,,,
+" https://livehouse.in/channel/ptt","9/13老外鄉民【郝毅博】與 Ptt 鄉民有約",,"1100~1200,郝毅博:important,連勝文 預告:info,9/22 2100~2200:",,,,
 " https://www.youtube.com/watch?v=zWtBwrAYig8","老外鄉民【郝毅博】與 Ptt 鄉民有約 預告",,,,,,
 " https://www.youtube.com/watch?v=2VU9ybkEKJk","老外在台灣看中國 座談會",,,,,,
 " https://www.youtube.com/watch?v=Z3aT9Ch4n74","老外懶人包 (座談會放映)",,,,,,
