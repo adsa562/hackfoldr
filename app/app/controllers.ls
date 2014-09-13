@@ -61,7 +61,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17696763",桃園縣議會,,,,,,
 " http://www.ustream.tv/embed/17930274"," 高雄市議會",,,,,,
 " http://www.ustream.tv/embed/18296345","身心障礙者 自我倡議讀書會",,"讓台灣障礙者成為世界公民:info,國際研討會暨工作坊:info",,,,
-" https://livehouse.in/embed/channel/ptt","9/13老外鄉民【郝毅博】與 Ptt 鄉民有約",,"9/13 1100~1200:,郝毅博:important,連勝文 預告:info,9/22 2100~2200:",,,,
+" https://livehouse.in/embed/channel/ptt","9/13老外鄉民【郝毅博】與 Ptt 鄉民有約",,"1100~1200,郝毅博:important,連勝文 預告:info,9/22 2100~2200:",,,,
 " https://www.youtube.com/watch?v=zWtBwrAYig8","老外鄉民【郝毅博】與 Ptt 鄉民有約 預告",,,,,,
 " http://wetheptt.cc/","Ptt鄉民有約 提問連結",,"連勝文 連署尚未開始:",,,,
 " https://www.youtube.com/watch?v=2VU9ybkEKJk","老外在台灣看中國 座談會",,,,,,
