@@ -45,7 +45,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
 " http://live.beastierock.tw","(國外限定 包含中國)巨獸搖滾",,,,,,
-" http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
+" http://www.ustream.tv/embed/17992061","Masaru 南部實況",,"基進側翼聯合競選總部:info,開幕茶會:info",,,,
 " http://www.ustream.tv/embed/17513092",拖鞋直播-1,,"「診斷臺灣：民主的危機或轉機」:info,座談會:info",,,,
 " http://www.ustream.tv/embed/18296345","身心障礙者 自我倡議讀書會",,"讓台灣障礙者成為世界公民:info,國際研討會暨工作坊:info",,,,
 " http://www.ustream.tv/embed/17562385","麵線 公民記者",,,,,,
