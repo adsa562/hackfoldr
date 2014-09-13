@@ -156,6 +156,8 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/12933307",公投盟直播機,,,,,,
 " http://www.ustream.tv/embed/17859517",南方公民網,,,,,,
 ,過往直播,"{""expand"":false} ",,,,,
+" https://www.youtube.com/channel/UCXSMxOH8hpWYbNd7LgLi1sA","沃草 Watchout Youtube備份","{""target"":""_blank""}",,,,,
+" https://www.youtube.com/user/Laowaikanzhongguo/videos","老外看中國、老外看台灣 Youtube備份","{""target"":""_blank""}",,,,,
 " https://www.youtube.com/channel/UCiEkVVKywA7BjSeUDZoVIMQ",PTT鄉民有約Youtube備份,"{""target"":""_blank""}",,,,,
 " https://www.youtube.com/channel/UCTRscVMDqFN5bU1mAZw1QSg/videos","Dai Wan Lang Youtube過往直播","{""target"":""_blank""}",新分頁:issue,,,,
 " https://www.youtube.com/user/ShotForDemocracy/videos","公民攝影守護民主陣線 Youtube過往直播","{""target"":""_blank""}",新分頁:issue,,,,
