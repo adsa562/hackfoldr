@@ -50,7 +50,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17513092",拖鞋直播-1,,"0900~1800,美國臺灣關係法立法35周年研討會:info",,,,
 " http://www.ustream.tv/embed/17696763",桃園縣議會,,,,,,
 " http://www.ustream.tv/embed/17930274"," 高雄市議會",,,,,,
-" http://www.happyradio.com.tw/stream/stream_taipei.php","廣播 黑鬥不服從",,"週一:,1700~1800:,快樂連播網:info",,,,
+" http://www.happyradio.com.tw/stream/stream_taipei.php","廣播 黑鬥不服從",,"週一,1700~1800,快樂連播網:info",,,,
 " http://www.appledaily.com.tw/livechannel/subject/77","9/15蘋果LIVE 市長棟蒜 馮光遠",,"2000~2100,預告:info,9/17 2000~2100:,柯文哲: important",,,,
 " http://www.ustream.tv/embed/6065521",PTTradio,,,,,,
 " http://www.ustream.tv/embed/3526833",公視新聞網,,,"8pm 有話好說(星期一至三)、NGO觀點(星期四)、南部開講(星期五)、唱四方(星期六) 、部落大小聲(星期日) + 10pm 我們的島(星期一)、獨立特派員(星期三)",,,
