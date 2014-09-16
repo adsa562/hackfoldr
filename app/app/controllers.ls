@@ -53,6 +53,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " https://livehouse.in/channel/PNNPTS",公視新聞網LiveHouse,,,,,,
 " http://www.ustream.tv/embed/17513092",拖鞋直播-1,,,,,,
 " http://www.appledaily.com.tw/livechannel/subject/77","9/17蘋果LIVE 市長棟蒜 柯文哲",,"2030~2130,柯文哲: important",,,,
+" https://www.facebook.com/events/857315244280485","PTTradio 市長棟算！台北市-柯文哲",,留言提問區:info,,,,
 " http://www.ustream.tv/embed/6065521",PTTradio,,,,,,
 " http://www.ustream.tv/embed/18062563",基進側翼,,,,,,
 " http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
