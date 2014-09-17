@@ -50,6 +50,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.ustream.tv/embed/17696763",桃園縣議會,,,,,,
 " http://www.ustream.tv/embed/17930274"," 高雄市議會",,,,,,
 " http://www.ustream.tv/embed/18330831",台港公民記者直播交流,,"1930開始,活動會以廣東話為主:info",,,,
+" https://www.facebook.com/events/344642262369249/",台港公民記者直播交流,,,,,,
 " https://livehouse.in/channel/ptt","9/22連勝文與Ptt 鄉民有約",,"2100~2200:,預告:info,9/24 2100~2200:,柯文哲:important",,,,
 " http://wetheptt.cc/","Ptt鄉民有約 提問連結",,"連勝文 連署結束時間 9/21 2359:info",,,,
 " http://www.appledaily.com.tw/livechannel/subject/50","9/22蘋果LIVE Ptt鄉民有約 連勝文",,,,,,
