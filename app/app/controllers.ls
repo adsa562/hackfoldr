@@ -47,7 +47,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 ,"影音直播 (黑畫面請按F5)","{""expand"": true}",,,,,
 " https://adblockplus.org/zh_TW/chrome",Chrome擋廣告外掛,"{""target"":""_blank""}",,,,,
 " https://www.google.com/calendar/embed?src=ptt.publicissue%40gmail.com&src=ptt.publicissue2%40gmail.com&src=ptt.publicissue3%40gmail.com&src=ptt.publicissue4%40gmail.com&src=ptt.publicissue5%40gmail.com&src=ptt.publicissue6%40gmail.com&src=ptt.publicissue7%40gmail.com&mode=week&title=鄉民曆-所有事件",鄉民曆-所有事件,,,,,,
-" http://www.ustream.tv/embed/17843610",電池線上直播,,"原屋重建大埔家園:info,徹底修正土徵惡法:info",,,,
+" http://www.ustream.tv/embed/17843610",電池線上直播,,,,,,
 " http://www.ustream.tv/embed/17696763",桃園縣議會,,,,,,
 " http://www.ustream.tv/embed/17930274"," 高雄市議會",,,,,,
 " http://www.ustream.tv/embed/18330831",台港公民記者直播交流,,"1930開始,活動會以廣東話為主:info",,,,
