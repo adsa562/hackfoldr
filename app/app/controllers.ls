@@ -65,7 +65,7 @@ http://i.imgur.com/PNyJAIq.png?3,LiveTW即時獲取直播頻道App,"{""expand"":
 " http://www.appledaily.com.tw/livechannel/subject/77","9/23蘋果LIVE PTTradio市長凍蒜！新北市長接招！游錫堃",,"游錫堃 9/23 2030~2130:,柯文哲 馮光遠 重播專區:info",,,,
 " http://www.ustream.tv/embed/6065521",PTTradio,,,,,,
 " http://www.ustream.tv/embed/18062563",基進側翼,,,,,,
-" http://www.ustream.tv/embed/17992061","Masaru 南部實況",,,,,,
+" http://www.ustream.tv/embed/17992061","Masaru 南部實況",,"2400~2430,深夜論壇:info",,,,
 " http://www.ustream.tv/embed/18103859",文森直播,,,,,,
 " http://www.ustream.tv/embed/18231291","日升連線 公民記者",,,,,,
 " http://www.happyradio.com.tw/stream/stream_taipei.php","廣播 黑鬥不服從",,"週一:,1700~1800:,快樂連播網:info",,,,
