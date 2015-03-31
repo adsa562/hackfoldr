@@ -17,7 +17,7 @@ https://www.facebook.com/DemocracyTautin/photos/a.297021913796374.1073741827.294
 " https://www.ptt.cc/bbs/Gossiping/M.1427815988.A.DA1.html",警編備份,,,,,,"(livestream 請開 embed accept....)"
 " https://www.facebook.com/video.php?v=444025892429308",警員編號5701錄影備份,,,,,,請問有教學嗎?
 ," 關於亞投行",,,,,,""" Upgrade to Embed Live Video "" 看來要付費才能提供 embed 服務了XD"
-http://www.peoplenews.tw/news/81161e45-067f-45d7-9720-ec20e87dc3f9,"在野為何抗議 一次看懂亞投行",,,,,,
+http://www.peoplenews.tw/news/81161e45-067f-45d7-9720-ec20e87dc3f9,"在野為何抗議 一次看懂亞投行",,,,,," 直播主們都用免費Der..."
 http://www.storm.mg/cardstack/45013,5張卡讓你了解,"{""target"":""_blank""}",,,,,
 https://www.ptt.cc/bbs/Gossiping/M.1427772855.A.24F.html,亞投行二三事,,,,,,
 http://www.storm.mg/article/45221,"捍衛國格 立法院：應直接向亞投行籌備處遞交意向書","{""target"":""_blank""}",,,,,
