@@ -27,6 +27,7 @@ http://udn.com/news/story/1/808167,"亞投行意向書 林永樂：7點已傳出
 ," 抗爭事件新聞報導",,,,,,
 http://news.ltn.com.tw/news/politics/breakingnews/1273776,"抗議草率加入亞投行 總統府前爆發肢體衝突",,,,,,
 http://news.rti.org.tw/news/detail/?recordId=181824,"  學生反亞投行 府盼理性安全",,,,,,
+http://news.rti.org.tw/news/detail/?recordId=181820,"黑島青抗議亞投行 衝總統府遭攔阻",,,,,,
 '''
 
 angular.module 'app.controllers' <[ui.state ngCookies]>
