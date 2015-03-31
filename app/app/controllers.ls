@@ -25,6 +25,7 @@ http://www.peoplenews.tw/news/87cf5b85-71f5-470a-9ee9-ece777fa90bd,"加入亞投
 http://udn.com/news/story/7896/782551,"名家觀點／加入亞投行 台灣稍安勿躁",,,,,,
 http://udn.com/news/story/1/808167,"亞投行意向書 林永樂：7點已傳出",,,,,,
 http://www.bbc.co.uk/zhongwen/trad/china/2015/03/150331_aiib_wrap,亞投行朋友圈人氣旺但風險問題並存,,,,,,
+http://www.peoplenews.tw/news/9a8ccb1e-63b3-4b77-af1c-ddd0f34ed4b6,入亞投行張盛和信函避正式國名、機構官銜　陸委會：不得不彈性,,,,,,
 ," 抗爭事件新聞報導",,,,,,
 http://news.ltn.com.tw/news/politics/breakingnews/1273776,"抗議草率加入亞投行 總統府前爆發肢體衝突",,,,,,
 http://news.rti.org.tw/news/detail/?recordId=181824,"  學生反亞投行 府盼理性安全",,,,,,
