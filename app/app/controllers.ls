@@ -10,6 +10,7 @@ https://www.facebook.com/DemocracyTautin/photos/a.297021913796374.1073741827.294
 " http://new.livestream.com/accounts/9824878/events/3890623","小鳥臺 ","{""target"":""_blank""}",,,,,"都在現場，要告訴他們有點難度 XD"
 " http://new.livestream.com/accounts/10332363/events/3867428",日升連線,"{""target"":""_blank""}",,,,,
 " https://www.ustream.tv/embed/18749946",黑眼圈,,,,,,"(ustream可以直接 embed)"
+https://www.ustream.tv/embed/19712244,中壢小蜜蜂,,,,,,
 " http://new.livestream.com/accounts/10424521/events/3928926",文森直播-Ex,"{""target"":""_blank""}"," 關台充電中:",,,,"ustream 的問題是人數限制"
 ,,,,,,,
 ,"  相關文章","{""expand"":""true""}",,,,,
