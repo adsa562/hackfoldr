@@ -15,7 +15,7 @@ https://www.facebook.com/DemocracyTautin/photos/a.297021913796374.1073741827.294
 ,"  相關文章","{""expand"":""true""}",,,,,
 " https://www.ptt.cc/bbs/Gossiping/M.1427814568.A.021.html",亞投行事件懶人包,,,,,,要告訴直播主什麼請在這↓留言
 " https://www.ptt.cc/bbs/Gossiping/M.1427815988.A.DA1.html",警編備份,,,,,,"(livestream 請開 embed accept....)"
-" https://www.facebook.com/video.php?v=444025892429308",警員編號5701錄影備份,,,,,,
+" https://www.facebook.com/video.php?v=444025892429308",警員編號5701錄影備份,,,,,,請問有教學嗎?
 ," 關於亞投行",,,,,,
 http://www.peoplenews.tw/news/81161e45-067f-45d7-9720-ec20e87dc3f9,"在野為何抗議 一次看懂亞投行",,,,,,
 http://www.storm.mg/cardstack/45013,5張卡讓你了解,"{""target"":""_blank""}",,,,,
