@@ -19,7 +19,7 @@ http://new.livestream.com/accounts/10761572/events/3933714,Dainel台,"{""target"
 " https://www.facebook.com/lists/10153182458388209",現場團體人士FB動態牆,,,,,,
 " https://www.facebook.com/lists/10153182458388209",警編備份,,,,,,"(livestream 請開 embed accept....)"
 " https://www.facebook.com/video.php?v=444025892429308",警員編號5701錄影備份,,,,,,
-,,,,,,,
+https://www.youtube.com/watch?v=-HLIJYFpSWk,張部長親自解釋,,,,,,
 ," 關於亞投行",,,,,,""" Upgrade to Embed Live Video "" 看來要付費才能提供 embed 服務了XD"
 http://www.peoplenews.tw/news/81161e45-067f-45d7-9720-ec20e87dc3f9,"在野為何抗議 一次看懂亞投行",,,,,,
 http://www.storm.mg/cardstack/45013,5張卡讓你了解,"{""target"":""_blank""}",,,,,
