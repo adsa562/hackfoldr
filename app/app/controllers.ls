@@ -40,6 +40,7 @@ https://www.ptt.cc/bbs/Gossiping/M.1427820039.A.1D9.html,民主鬥陣：律師�
 http://thediplomat.com/2015/04/taiwan-applies-to-join-aiib-under-one-china-sparking-protests/,"Taiwan Applies to Join AIIB Under ‘One China,’ Sparking Protests",,,,,,
 http://www.peoplenews.tw/news/a5eaded8-92a5-4a83-a8db-66f5f9a4ee26,"府前抗議黑箱亞投 警局長令撤警徽臂章要媒體離開",,,,,,
 http://localpresshk.com/2015/04/%E6%8A%97%E8%AD%B0%E9%A6%AC%E5%BA%9C%E5%81%B7%E6%AD%A5%E5%85%A5%E4%BA%9E%E6%8A%95%E8%A1%8C%E5%87%BA%E8%B3%A3%E4%B8%BB%E6%AC%8A/,"抗議馬府偷步入亞投行出賣主權 青年團體突襲總統府",,,,,,
+http://www.wsj.com/articles/taiwan-to-apply-to-join-aiib-1427771800,"Taiwan to Apply to Join China-Led Development Bank",,,,,,
 '''
 
 angular.module 'app.controllers' <[ui.state ngCookies]>
